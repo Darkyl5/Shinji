@@ -1,0 +1,2066 @@
+{
+ "format": "archives-composition",
+ "version": 1,
+ "app": "Les Archives de la Composition",
+ "exportedAt": "2026-11-10T20:33:47.144Z",
+ "data": {
+  "v": 1,
+  "recherches": [
+   {
+    "id": "r-03",
+    "numero": 3,
+    "domaine": "materia",
+    "titre": "Sable et grès — Compression I",
+    "difficulte": 2,
+    "statut": "terminee",
+    "classification": "connu",
+    "lieu": "Carrière Est de Suna",
+    "duree": "Une après‑midi (préparation : environ 4 minutes par matrice)",
+    "dateRP": "",
+    "materiaux": [
+     "m-sable-suna",
+     "m-gres-suna"
+    ],
+    "matriceId": "x-compression-1",
+    "matrice": "Compression I (lithique)",
+    "origine": "Le sable est partout, et il ne tient à rien. Si je peux lui donner un peu de cohésion, je peux lui donner une forme.",
+    "question": "Une matrice simple peut‑elle augmenter légèrement la cohésion d’un volume de sable ou de grès ?",
+    "hypothese": "Le sable, aux grains libres, devrait répondre mieux que le grès, dont les grains sont déjà liés.",
+    "prerequis": "Sable de Suna et grès de Suna au niveau III (structure granulaire, porosité, lignes de fracture).",
+    "materiel": "Un seau de sable, trois éclats de grès, craie et pointe pour le tracé, règle, carnet.",
+    "protocole": "1. Tracer Compression I au sol autour d’un tas de sable. 2. Lecture, puis décomposition partielle, puis recomposition en resserrant les grains. 3. Mesurer la zone durcie, tester à la main et sous un poids. 4. Recommencer sur le grès.",
+    "observations": "Le sable répond relativement bien ; le grès est plus difficile. La cohésion augmente légèrement, la surface devient plus dense. L’effet reste limité à une petite zone.",
+    "resultat": "partiel",
+    "analyse": "Les premiers résultats sont modestes mais reproductibles. La matrice est longue à tracer (environ 4 minutes) et le flux de chakra est encore instable.",
+    "erreurs": "Tracé trop lent ; le flux a vacillé deux fois pendant la recomposition.",
+    "risques": "Aucun incident. Fatigue de chakra.",
+    "nouvelleQuestion": "Jusqu’où la zone compressée peut‑elle s’étendre avant que la matrice se dilue ?",
+    "prochaine": "Liaison I : assembler deux fragments compatibles.",
+    "application": "Sol stabilisé sous une tente, marche sur dune, bouchage d’une fissure.",
+    "validation": "valide",
+    "validationNote": "Première application simple, validée dans le dossier fondateur.",
+    "tags": [
+     "sable",
+     "grès",
+     "compression"
+    ],
+    "images": [],
+    "epoque": "avant",
+    "createdAt": 37,
+    "updatedAt": 0
+   },
+   {
+    "id": "r-04",
+    "numero": 4,
+    "domaine": "kosei",
+    "titre": "Liaison I — deux fragments de grès",
+    "difficulte": 3,
+    "statut": "terminee",
+    "classification": "experimental",
+    "lieu": "Laboratoire des Dunes",
+    "duree": "Une soirée",
+    "dateRP": "",
+    "materiaux": [
+     "m-gres-suna",
+     "m-sable-suna"
+    ],
+    "matriceId": "x-liaison-1",
+    "matrice": "Liaison I (lithique)",
+    "origine": "Après la compression, la question suivante : deux morceaux peuvent‑ils redevenir un seul ?",
+    "question": "Peut‑on assembler deux fragments minéraux compatibles en une seule pièce ?",
+    "hypothese": "Deux grès de la même carrière ont la même composition : la jonction devrait se recomposer comme la matière d’origine.",
+    "prerequis": "Compression I réussie. Grès de Suna au niveau III.",
+    "materiel": "Deux morceaux de grès de la carrière Est, étau, poids, barre de torsion, carnet.",
+    "protocole": "1. Lire les deux fragments séparément. 2. Les mettre en contact dans l’étau. 3. Décomposer la surface de contact puis recomposer la jonction. 4. Tester : pression modérée, puis torsion.",
+    "observations": "Liaison obtenue mais couture visible. Résistance correcte à une pression modérée. Fragilité persistante sous torsion.",
+    "resultat": "partiel",
+    "analyse": "La jonction tient en compression parce que les grains se sont resserrés ; elle casse en torsion parce que la couture n’a pas la structure du grès d’origine.",
+    "erreurs": "Les deux surfaces n’étaient pas assez propres ; la recomposition a englobé de la poussière.",
+    "risques": "Éclats au moment de la torsion.",
+    "nouvelleQuestion": "Une couche intermédiaire de sable stabilisé donnerait‑elle une couture homogène ?",
+    "prochaine": "Tester une couche intermédiaire de sable stabilisé entre les deux fragments.",
+    "application": "Réparation de petites fissures (si la matière est encore présente).",
+    "validation": "valide",
+    "validationNote": "Application simple, comprise dans le dossier fondateur.",
+    "tags": [
+     "grès",
+     "liaison"
+    ],
+    "images": [],
+    "epoque": "avant",
+    "createdAt": 38,
+    "updatedAt": 0
+   }
+  ],
+  "materiaux": [
+   {
+    "id": "m-sable-suna",
+    "nom": "Sable de Suna",
+    "categorie": "mineral",
+    "formule": "SiO₂ (grains) + impuretés",
+    "composition": "Grains de quartz (silice) en grande majorité, feldspaths, un peu de minéraux lourds et de poussière d’argile.",
+    "structure": "Structure granulaire : des grains libres, de tailles variées, qui ne tiennent ensemble que par le poids et l’humidité.",
+    "proprietes": "Coule, se tasse, répond bien à la compression. Bonne réponse aux premières expériences de compression (Compression I).",
+    "resonance": "Première réponse au chakra observée pendant Compression I : les grains se resserrent, la surface devient plus dense.",
+    "notes": "Premiers tests déjà réalisés. La matière la plus disponible du désert : c’est par elle que tout commence.",
+    "niveau": 3,
+    "niveaux": {
+     "1": {
+      "at": 1,
+      "note": "Noté au carnet."
+     },
+     "2": {
+      "at": 1,
+      "note": "Noté au carnet."
+     },
+     "3": {
+      "at": 1,
+      "note": "Structure granulaire comprise par l’expérience (Compression I)."
+     }
+    },
+    "restreint": false,
+    "avertissement": "",
+    "tags": [
+     "géologie",
+     "suna"
+    ],
+    "images": [],
+    "createdAt": 2,
+    "updatedAt": 0
+   },
+   {
+    "id": "m-gres-suna",
+    "nom": "Grès de Suna",
+    "categorie": "mineral",
+    "formule": "SiO₂ (quartz) + ciment naturel",
+    "composition": "Silice, quartz et grains liés entre eux par un ciment naturel (silice ou calcite).",
+    "structure": "Structure poreuse. Possède des lignes naturelles de fracture (lits de dépôt).",
+    "proprietes": "Tendre à moyennement dur, s’effrite sur les bords, casse selon ses lignes de fracture. Compression possible mais résultats encore modestes.",
+    "resonance": "Répond moins bien que le sable : la cohésion existante résiste à la réorganisation.",
+    "notes": "Compression possible mais résultats encore modestes. Liaison I : deux fragments assemblés, couture visible.",
+    "niveau": 3,
+    "niveaux": {
+     "1": {
+      "at": 1,
+      "note": "Noté au carnet."
+     },
+     "2": {
+      "at": 1,
+      "note": "Noté au carnet."
+     },
+     "3": {
+      "at": 1,
+      "note": "Porosité et lignes de fracture observées (Compression I, Liaison I)."
+     }
+    },
+    "restreint": false,
+    "avertissement": "",
+    "tags": [
+     "géologie",
+     "suna"
+    ],
+    "images": [],
+    "createdAt": 3,
+    "updatedAt": 0
+   },
+   {
+    "id": "m-pierre",
+    "nom": "Pierre",
+    "categorie": "mineral",
+    "formule": "variable",
+    "composition": "Variable selon la roche : « pierre » n’est pas une composition.",
+    "structure": "Variable : grenue, vitreuse, litée, cristalline…",
+    "proprietes": "Variables.",
+    "resonance": "",
+    "notes": "Important : identifier précisément la roche avant toute utilisation sérieuse. Une matrice calée sur « de la pierre » est une matrice calée sur rien.",
+    "niveau": 1,
+    "niveaux": {
+     "1": {
+      "at": 1,
+      "note": "Savoir reconnaître qu’il faut d’abord identifier."
+     }
+    },
+    "restreint": false,
+    "avertissement": "",
+    "tags": [
+     "géologie"
+    ],
+    "images": [],
+    "createdAt": 4,
+    "updatedAt": 0
+   },
+   {
+    "id": "m-fer",
+    "nom": "Fer",
+    "categorie": "metal",
+    "formule": "Fe",
+    "composition": "Fer pur (Fe), presque jamais pur en pratique : traces de carbone et d’autres éléments.",
+    "structure": "Réseau cristallin métallique (cubique).",
+    "proprietes": "Magnétique, oxydable (rouille), malléable à chaud. Conducteur.",
+    "resonance": "",
+    "notes": "",
+    "niveau": 2,
+    "niveaux": {
+     "1": {
+      "at": 1,
+      "note": "Noté au carnet."
+     },
+     "2": {
+      "at": 1,
+      "note": "Composition connue, pas encore travaillée à la matrice."
+     }
+    },
+    "restreint": false,
+    "avertissement": "",
+    "tags": [
+     "forge",
+     "métal"
+    ],
+    "images": [],
+    "createdAt": 5,
+    "updatedAt": 0
+   },
+   {
+    "id": "m-acier",
+    "nom": "Acier",
+    "categorie": "alliage",
+    "formule": "Fe + C (+ éléments d’alliage)",
+    "composition": "Fer + carbone + éventuels éléments d’alliage (chrome, nickel, manganèse…).",
+    "structure": "Réseau du fer modifié par le carbone intercalé ; la structure change avec la trempe.",
+    "proprietes": "Les proportions changent énormément les propriétés : un peu de carbone rend dur, trop rend cassant.",
+    "resonance": "",
+    "notes": "La forge d’abord, la matrice ensuite.",
+    "niveau": 2,
+    "niveaux": {
+     "1": {
+      "at": 1,
+      "note": "Noté au carnet."
+     },
+     "2": {
+      "at": 1,
+      "note": "Composition connue ; les proportions restent à mesurer."
+     }
+    },
+    "restreint": false,
+    "avertissement": "",
+    "tags": [
+     "forge",
+     "alliage"
+    ],
+    "images": [],
+    "createdAt": 6,
+    "updatedAt": 0
+   },
+   {
+    "id": "m-titane",
+    "nom": "Titane",
+    "categorie": "metal",
+    "formule": "Ti (ou alliages à base de Ti)",
+    "composition": "Titane, ou alliages à base de titane.",
+    "structure": "Réseau métallique hexagonal compact à froid.",
+    "proprietes": "Léger, très résistant, corrosion faible.",
+    "resonance": "",
+    "notes": "Candidat pour le squelette du Bras.",
+    "niveau": 1,
+    "niveaux": {
+     "1": {
+      "at": 1,
+      "note": "Identifié ; la suite reste à vérifier par l’expérience."
+     }
+    },
+    "restreint": false,
+    "avertissement": "",
+    "tags": [
+     "forge",
+     "métal",
+     "bras"
+    ],
+    "images": [],
+    "createdAt": 7,
+    "updatedAt": 0
+   },
+   {
+    "id": "m-or",
+    "nom": "Or",
+    "categorie": "metal",
+    "formule": "Au",
+    "composition": "Or (Au).",
+    "structure": "Réseau métallique cubique à faces centrées.",
+    "proprietes": "Très dense, malléable, conducteur et peu réactif.",
+    "resonance": "Conduit le chakra avec peu de pertes : d’où les fines lignes d’or du Bras.",
+    "notes": "",
+    "niveau": 2,
+    "niveaux": {
+     "1": {
+      "at": 1,
+      "note": "Noté au carnet."
+     },
+     "2": {
+      "at": 1,
+      "note": "Composition connue."
+     }
+    },
+    "restreint": false,
+    "avertissement": "",
+    "tags": [
+     "métal"
+    ],
+    "images": [],
+    "createdAt": 8,
+    "updatedAt": 0
+   },
+   {
+    "id": "m-sable-or",
+    "nom": "Sable d’or",
+    "categorie": "composite",
+    "formule": "Au (grains) + sable",
+    "composition": "Grains d’or mêlés à du sable fin, liés par le chakra.",
+    "structure": "Granulaire, comme le sable, mais chaque grain conduit.",
+    "proprietes": "Conducteur, lourd, se rassemble et se disperse au chakra.",
+    "resonance": "Excellente : sert de fil conducteur temporaire entre des points métalliques (Relais d’Or).",
+    "notes": "La réserve du Bras en garde une petite quantité d’urgence.",
+    "niveau": 1,
+    "niveaux": {
+     "1": {
+      "at": 1,
+      "note": "Identifié ; à étudier comme une matière à part entière."
+     }
+    },
+    "restreint": false,
+    "avertissement": "",
+    "tags": [
+     "suna",
+     "bras"
+    ],
+    "images": [],
+    "createdAt": 9,
+    "updatedAt": 0
+   },
+   {
+    "id": "m-diamant",
+    "nom": "Diamant",
+    "categorie": "mineral",
+    "formule": "C",
+    "composition": "Carbone.",
+    "structure": "Structure covalente cristalline extrêmement particulière : chaque atome lié à quatre voisins.",
+    "proprietes": "Le plus dur des matériaux connus, transparent, isolant électrique, excellent conducteur de chaleur.",
+    "resonance": "",
+    "notes": "« Même composition ne signifie pas même matière. Graphite et diamant sont tous deux constitués de carbone. »",
+    "niveau": 1,
+    "niveaux": {
+     "1": {
+      "at": 1,
+      "note": "Identifié ; la suite reste à vérifier par l’expérience."
+     }
+    },
+    "restreint": false,
+    "avertissement": "",
+    "tags": [
+     "cristal"
+    ],
+    "images": [],
+    "createdAt": 10,
+    "updatedAt": 0
+   },
+   {
+    "id": "m-bronze",
+    "nom": "Bronze",
+    "categorie": "alliage",
+    "formule": "Cu + Sn",
+    "composition": "Cuivre + étain.",
+    "structure": "Alliage métallique.",
+    "proprietes": "Plus dur que le cuivre, résiste bien à la corrosion, sonne clair.",
+    "resonance": "",
+    "notes": "",
+    "niveau": 1,
+    "niveaux": {
+     "1": {
+      "at": 1,
+      "note": "Identifié ; la suite reste à vérifier par l’expérience."
+     }
+    },
+    "restreint": false,
+    "avertissement": "",
+    "tags": [
+     "forge",
+     "alliage"
+    ],
+    "images": [],
+    "createdAt": 11,
+    "updatedAt": 0
+   },
+   {
+    "id": "m-cuivre",
+    "nom": "Cuivre",
+    "categorie": "metal",
+    "formule": "Cu",
+    "composition": "Cuivre (Cu).",
+    "structure": "Réseau métallique cubique à faces centrées.",
+    "proprietes": "Très bon conducteur (électricité, chaleur), ductile, se couvre de vert-de-gris.",
+    "resonance": "",
+    "notes": "",
+    "niveau": 2,
+    "niveaux": {
+     "1": {
+      "at": 1,
+      "note": "Noté au carnet."
+     },
+     "2": {
+      "at": 1,
+      "note": "Composition connue."
+     }
+    },
+    "restreint": false,
+    "avertissement": "",
+    "tags": [
+     "métal"
+    ],
+    "images": [],
+    "createdAt": 12,
+    "updatedAt": 0
+   },
+   {
+    "id": "m-ciment",
+    "nom": "Ciment",
+    "categorie": "composite",
+    "formule": "silicates et aluminates de calcium",
+    "composition": "Silicates et aluminates de calcium + autres composants.",
+    "structure": "Poudre qui, hydratée, cristallise en un réseau de silicates hydratés.",
+    "proprietes": "Durcit avec l’eau, résiste à la compression, mal à la traction.",
+    "resonance": "",
+    "notes": "Ciment ≠ béton. Le béton, c’est le ciment plus les granulats (sable, graviers) et l’eau.",
+    "niveau": 1,
+    "niveaux": {
+     "1": {
+      "at": 1,
+      "note": "Identifié ; la suite reste à vérifier par l’expérience."
+     }
+    },
+    "restreint": false,
+    "avertissement": "",
+    "tags": [
+     "composite"
+    ],
+    "images": [],
+    "createdAt": 13,
+    "updatedAt": 0
+   },
+   {
+    "id": "m-bitume",
+    "nom": "Bitume / goudron",
+    "categorie": "organique",
+    "formule": "hydrocarbures",
+    "composition": "Mélange complexe d’hydrocarbures.",
+    "structure": "Amorphe, visqueux ; se ramollit à la chaleur.",
+    "proprietes": "Imperméable, collant, inflammable.",
+    "resonance": "",
+    "notes": "",
+    "niveau": 1,
+    "niveaux": {
+     "1": {
+      "at": 1,
+      "note": "Identifié."
+     }
+    },
+    "restreint": false,
+    "avertissement": "",
+    "tags": [
+     "organique"
+    ],
+    "images": [],
+    "createdAt": 14,
+    "updatedAt": 0
+   },
+   {
+    "id": "m-bois",
+    "nom": "Bois",
+    "categorie": "organique",
+    "formule": "cellulose + hémicellulose + lignine + eau",
+    "composition": "Cellulose + hémicellulose + lignine + eau.",
+    "structure": "Structure fibreuse : des fibres orientées dans le sens du tronc, d’où les veines.",
+    "proprietes": "Léger, résistant dans le sens des fibres, se fend dans l’autre, brûle.",
+    "resonance": "",
+    "notes": "Ancienne matière vivante : classée organique, pas vivante.",
+    "niveau": 1,
+    "niveaux": {
+     "1": {
+      "at": 1,
+      "note": "Identifié ; la suite reste à vérifier par l’expérience."
+     }
+    },
+    "restreint": false,
+    "avertissement": "",
+    "tags": [
+     "organique"
+    ],
+    "images": [],
+    "createdAt": 15,
+    "updatedAt": 0
+   },
+   {
+    "id": "m-feuilles",
+    "nom": "Feuilles",
+    "categorie": "vivant",
+    "formule": "eau, cellulose, sucres, protéines, pigments, minéraux",
+    "composition": "Eau, cellulose, sucres, protéines, pigments, minéraux.",
+    "structure": "Tissus vivants : cellules, nervures, surface cireuse.",
+    "proprietes": "Fragiles, se dessèchent, changent de couleur.",
+    "resonance": "",
+    "notes": "Classé vivant.",
+    "niveau": 1,
+    "niveaux": {
+     "1": {
+      "at": 1,
+      "note": "Identifié ; la suite reste à vérifier par l’expérience."
+     }
+    },
+    "restreint": true,
+    "avertissement": "Classé vivant : étude limitée à l’observation.",
+    "tags": [
+     "vivant"
+    ],
+    "images": [],
+    "createdAt": 16,
+    "updatedAt": 0
+   },
+   {
+    "id": "m-cristaux",
+    "nom": "Cristaux",
+    "categorie": "mineral",
+    "formule": "variable",
+    "composition": "Ne pas traiter « cristal » comme une composition : un cristal est une STRUCTURE, pas une matière.",
+    "structure": "Réseau ordonné et répétitif. La structure cristalline doit être identifiée précisément (quartz, sel, calcite, glace… sont tous des cristaux).",
+    "proprietes": "Variables : faces planes, clivage, parfois transparence.",
+    "resonance": "",
+    "notes": "",
+    "niveau": 1,
+    "niveaux": {
+     "1": {
+      "at": 1,
+      "note": "Identifier la famille avant d’aller plus loin."
+     }
+    },
+    "restreint": false,
+    "avertissement": "",
+    "tags": [
+     "cristal"
+    ],
+    "images": [],
+    "createdAt": 17,
+    "updatedAt": 0
+   },
+   {
+    "id": "m-glace",
+    "nom": "Glace",
+    "categorie": "mineral",
+    "formule": "H₂O (solide)",
+    "composition": "H₂O solide.",
+    "structure": "Réseau cristallin hexagonal : la même eau, ordonnée.",
+    "proprietes": "Moins dense que l’eau liquide (elle flotte), fond à 0 °C, cassante.",
+    "resonance": "",
+    "notes": "Rare dans le désert : la nuit, parfois, au fond des canyons.",
+    "niveau": 1,
+    "niveaux": {
+     "1": {
+      "at": 1,
+      "note": "Identifié ; la suite reste à vérifier par l’expérience."
+     }
+    },
+    "restreint": false,
+    "avertissement": "",
+    "tags": [
+     "cristal",
+     "fluide"
+    ],
+    "images": [],
+    "createdAt": 18,
+    "updatedAt": 0
+   },
+   {
+    "id": "m-eau",
+    "nom": "Eau",
+    "categorie": "fluide",
+    "formule": "H₂O",
+    "composition": "H₂O.",
+    "structure": "Liquide : molécules libres, liées faiblement entre elles.",
+    "proprietes": "Dissout presque tout, lourde, incompressible, indispensable.",
+    "resonance": "",
+    "notes": "Au Pays du Vent, chaque goutte compte.",
+    "niveau": 2,
+    "niveaux": {
+     "1": {
+      "at": 1,
+      "note": "Noté au carnet."
+     },
+     "2": {
+      "at": 1,
+      "note": "Composition connue."
+     }
+    },
+    "restreint": false,
+    "avertissement": "",
+    "tags": [
+     "fluide"
+    ],
+    "images": [],
+    "createdAt": 19,
+    "updatedAt": 0
+   },
+   {
+    "id": "m-air",
+    "nom": "Air",
+    "categorie": "fluide",
+    "formule": "≈ 78 % N₂ · 21 % O₂ · 0,93 % Ar · 0,04 % CO₂",
+    "composition": "≈ 78 % N₂, ≈ 21 % O₂, ≈ 0,93 % Ar, ≈ 0,04 % CO₂, vapeur d’eau variable, poussières.",
+    "structure": "Gaz : molécules libres et rapides.",
+    "proprietes": "Compressible, transparent, porte le sable et la chaleur.",
+    "resonance": "",
+    "notes": "",
+    "niveau": 1,
+    "niveaux": {
+     "1": {
+      "at": 1,
+      "note": "Identifié ; la suite reste à vérifier par l’expérience."
+     }
+    },
+    "restreint": false,
+    "avertissement": "",
+    "tags": [
+     "fluide"
+    ],
+    "images": [],
+    "createdAt": 20,
+    "updatedAt": 0
+   },
+   {
+    "id": "m-oxygene",
+    "nom": "Oxygène",
+    "categorie": "fluide",
+    "formule": "O₂",
+    "composition": "O₂.",
+    "structure": "Molécule de deux atomes.",
+    "proprietes": "Entretient la combustion, oxyde les métaux, respiré.",
+    "resonance": "",
+    "notes": "",
+    "niveau": 1,
+    "niveaux": {
+     "1": {
+      "at": 1,
+      "note": "Identifié ; la suite reste à vérifier par l’expérience."
+     }
+    },
+    "restreint": false,
+    "avertissement": "",
+    "tags": [
+     "fluide"
+    ],
+    "images": [],
+    "createdAt": 21,
+    "updatedAt": 0
+   },
+   {
+    "id": "m-sang",
+    "nom": "Sang",
+    "categorie": "vivant",
+    "formule": "plasma + cellules",
+    "composition": "Plasma + cellules (globules rouges, blancs, plaquettes).",
+    "structure": "Suspension de cellules vivantes dans un liquide.",
+    "proprietes": "Coagule, transporte l’oxygène, change hors du corps.",
+    "resonance": "",
+    "notes": "Classé vivant / fortement restreint.",
+    "niveau": 1,
+    "niveaux": {
+     "1": {
+      "at": 1,
+      "note": "Identifié. Rien d’autre."
+     }
+    },
+    "restreint": true,
+    "avertissement": "FORTEMENT RESTREINT. Classé vivant : aucune recomposition, aucune expérience sans validation MJ.",
+    "tags": [
+     "vivant",
+     "restreint"
+    ],
+    "images": [],
+    "createdAt": 22,
+    "updatedAt": 0
+   },
+   {
+    "id": "m-corail",
+    "nom": "Corail",
+    "categorie": "vivant",
+    "formule": "CaCO₃ + organisme",
+    "composition": "Squelette principalement CaCO₃ (carbonate de calcium) + organisme vivant.",
+    "structure": "Squelette minéral poreux bâti par des polypes vivants.",
+    "proprietes": "Dur et cassant pour le squelette ; vivant pour le reste.",
+    "resonance": "",
+    "notes": "Deux matières en une : le minéral et le vivant.",
+    "niveau": 1,
+    "niveaux": {
+     "1": {
+      "at": 1,
+      "note": "Identifié ; la suite reste à vérifier par l’expérience."
+     }
+    },
+    "restreint": true,
+    "avertissement": "La part vivante est classée vivante.",
+    "tags": [
+     "vivant",
+     "mineral"
+    ],
+    "images": [],
+    "createdAt": 23,
+    "updatedAt": 0
+   },
+   {
+    "id": "m-tissu",
+    "nom": "Tissu textile",
+    "categorie": "organique",
+    "formule": "coton : cellulose · laine : kératine · polyester : PET",
+    "composition": "Coton = cellulose. Laine = kératine. Polyester = polymère PET.",
+    "structure": "Fibres filées puis tissées : la structure du tissu n’est pas celle de la fibre.",
+    "proprietes": "Souple, respirant (coton), chaud (laine), résistant (polyester).",
+    "resonance": "",
+    "notes": "",
+    "niveau": 1,
+    "niveaux": {
+     "1": {
+      "at": 1,
+      "note": "Identifié ; la suite reste à vérifier par l’expérience."
+     }
+    },
+    "restreint": false,
+    "avertissement": "",
+    "tags": [
+     "organique"
+    ],
+    "images": [],
+    "createdAt": 24,
+    "updatedAt": 0
+   },
+   {
+    "id": "m-corps-humain",
+    "nom": "Corps humain",
+    "categorie": "vivant",
+    "formule": "≈ 65 % O · 18 % C · 10 % H · 3 % N · 1,5 % Ca · 1 % P …",
+    "composition": "Composition générale : ≈ 65 % O, ≈ 18 % C, ≈ 10 % H, ≈ 3 % N, ≈ 1,5 % Ca, ≈ 1 % P, et de nombreux autres éléments.",
+    "structure": "Organisme : cellules, tissus, organes, réseau de chakra, cerveau, conscience.",
+    "proprietes": "—",
+    "resonance": "",
+    "notes": "AVERTISSEMENT MAJEUR : connaître les éléments chimiques d’un humain ne signifie absolument pas comprendre un organisme vivant, son réseau de chakra, son cerveau, sa conscience ou son âme.",
+    "niveau": 0,
+    "niveaux": {},
+    "restreint": true,
+    "avertissement": "INTERDIT. Transmutation, recomposition, manipulation : tabou absolu. Cette fiche existe pour rappeler ce que l’on ne sait pas.",
+    "tags": [
+     "vivant",
+     "interdit"
+    ],
+    "images": [],
+    "createdAt": 25,
+    "updatedAt": 0
+   }
+  ],
+  "matrices": [
+   {
+    "id": "x-standard",
+    "nom": "Matrice Standard",
+    "type": "standard",
+    "description": "Lecture → Décomposition → Recomposition. Base du Kōseijutsu : tout le reste en découle.",
+    "difficulte": 2,
+    "materiaux": "Toute matière comprise au moins au niveau III (Structure).",
+    "chakra": "Modéré, régulier. Le flux doit rester stable pendant les trois phases.",
+    "preparation": "Longue au début : environ 4 minutes de tracé pour une matrice simple.",
+    "risques": "Flux instable → recomposition incomplète. Lecture bâclée → matière abîmée.",
+    "classification": "connu",
+    "maitrise": "essais",
+    "diagramme": {
+     "anneaux": 3,
+     "symetrie": 6,
+     "noeuds": 6,
+     "motif": "complet",
+     "seed": 3
+    },
+    "notes": "Principe validé par les MJ. Résultats modestes mais reproductibles.",
+    "seuil": 0,
+    "createdAt": 26,
+    "updatedAt": 0
+   },
+   {
+    "id": "x-lithique",
+    "nom": "Matrice Lithique",
+    "type": "lithique",
+    "description": "Spécialisation pierre / sable / terre / roche. La Standard, adaptée aux grains et aux lits de dépôt.",
+    "difficulte": 2,
+    "materiaux": "Sable de Suna, grès de Suna, roches identifiées.",
+    "chakra": "Modéré ; la terre absorbe, il faut insister.",
+    "preparation": "Environ 4 minutes.",
+    "risques": "Un grès mal identifié casse selon ses lignes de fracture.",
+    "classification": "experimental",
+    "maitrise": "essais",
+    "diagramme": {
+     "anneaux": 2,
+     "symetrie": 8,
+     "noeuds": 8,
+     "motif": "complet",
+     "seed": 8
+    },
+    "notes": "Compression I et Liaison I en sont les premières applications.",
+    "seuil": 0,
+    "createdAt": 27,
+    "updatedAt": 0
+   },
+   {
+    "id": "x-compression-1",
+    "nom": "Compression I",
+    "type": "lithique",
+    "description": "Première application lithique : augmenter légèrement la cohésion d’un volume de sable ou de grès, sur une petite zone.",
+    "difficulte": 2,
+    "materiaux": "Sable de Suna (bonne réponse), grès de Suna (plus difficile).",
+    "chakra": "Faible à modéré ; flux encore instable.",
+    "preparation": "Environ 4 minutes.",
+    "risques": "Effet limité à une petite zone ; au‑delà, la matrice se dilue.",
+    "classification": "experimental",
+    "maitrise": "essais",
+    "diagramme": {
+     "anneaux": 2,
+     "symetrie": 6,
+     "noeuds": 4,
+     "motif": "recomposition",
+     "seed": 21
+    },
+    "notes": "Expérience 03. Résultats modestes mais reproductibles.",
+    "seuil": 0,
+    "createdAt": 28,
+    "updatedAt": 0
+   },
+   {
+    "id": "x-liaison-1",
+    "nom": "Liaison I",
+    "type": "lithique",
+    "description": "Assembler deux fragments minéraux compatibles en une seule pièce.",
+    "difficulte": 3,
+    "materiaux": "Deux morceaux de grès (testé).",
+    "chakra": "Modéré, en deux temps : lire les deux fragments, puis recomposer la jonction.",
+    "preparation": "Environ 5 minutes.",
+    "risques": "Couture visible, fragilité sous torsion.",
+    "classification": "experimental",
+    "maitrise": "essais",
+    "diagramme": {
+     "anneaux": 2,
+     "symetrie": 4,
+     "noeuds": 6,
+     "motif": "recomposition",
+     "seed": 42
+    },
+    "notes": "Expérience 04. Nouvelle piste : une couche intermédiaire de sable stabilisé.",
+    "seuil": 0,
+    "createdAt": 29,
+    "updatedAt": 0
+   },
+   {
+    "id": "x-decomposition",
+    "nom": "Matrice de Décomposition",
+    "type": "decomposition",
+    "description": "Arrête volontairement le processus après la décomposition. Permet de désassembler ou de fragiliser.",
+    "difficulte": 3,
+    "materiaux": "Matière lue au moins au niveau III.",
+    "chakra": "Modéré, puis coupure nette.",
+    "preparation": "Environ 4 minutes.",
+    "risques": "Une matière décomposée ne se recompose pas toute seule : ce qui est défait reste défait.",
+    "classification": "theorique",
+    "maitrise": "theorique",
+    "diagramme": {
+     "anneaux": 2,
+     "symetrie": 6,
+     "noeuds": 6,
+     "motif": "decomposition",
+     "seed": 5
+    },
+    "notes": "",
+    "seuil": 0,
+    "createdAt": 30,
+    "updatedAt": 0
+   },
+   {
+    "id": "x-reconstruction",
+    "nom": "Matrice de Reconstruction",
+    "type": "reconstruction",
+    "description": "Recomposition d’une matière précédemment décomposée.",
+    "difficulte": 3,
+    "materiaux": "Composants d’une matière déjà décomposée par Shinji.",
+    "chakra": "Soutenu.",
+    "preparation": "Environ 5 minutes.",
+    "risques": "Si des composants manquent, la reconstruction est impossible (échange équivalent).",
+    "classification": "theorique",
+    "maitrise": "theorique",
+    "diagramme": {
+     "anneaux": 3,
+     "symetrie": 6,
+     "noeuds": 9,
+     "motif": "recomposition",
+     "seed": 7
+    },
+    "notes": "",
+    "seuil": 0,
+    "createdAt": 31,
+    "updatedAt": 0
+   },
+   {
+    "id": "x-rupture",
+    "nom": "Matrice de Rupture",
+    "type": "rupture",
+    "description": "Décomposition violente d’une structure. Très risquée.",
+    "difficulte": 4,
+    "materiaux": "Structures minérales (murs, pierres).",
+    "chakra": "Fort et bref.",
+    "preparation": "Longue, et le tracé doit être parfait.",
+    "risques": "Retour de Résonance. Projection d’éclats. Ne jamais tracer à la main sans anneaux de dissipation.",
+    "classification": "theorique",
+    "maitrise": "inconnue",
+    "diagramme": {
+     "anneaux": 3,
+     "symetrie": 5,
+     "noeuds": 10,
+     "motif": "decomposition",
+     "seed": 13
+    },
+    "notes": "Base théorique du Brise‑Faille.",
+    "seuil": 0,
+    "createdAt": 32,
+    "updatedAt": 0
+   },
+   {
+    "id": "x-metallurgique",
+    "nom": "Matrice Métallurgique",
+    "type": "metallurgique",
+    "description": "Métaux et alliages. Nécessite de fortes connaissances en forge.",
+    "difficulte": 4,
+    "materiaux": "Fer, acier, bronze, cuivre, titane — au niveau V (Résonance).",
+    "chakra": "Soutenu et long : le métal conduit mais emmagasine.",
+    "preparation": "Longue.",
+    "risques": "Un alliage mal connu change de propriétés à la recomposition (fragilité, fissures).",
+    "classification": "theorique",
+    "maitrise": "theorique",
+    "diagramme": {
+     "anneaux": 4,
+     "symetrie": 8,
+     "noeuds": 8,
+     "motif": "complet",
+     "seed": 17
+    },
+    "notes": "",
+    "seuil": 30,
+    "createdAt": 33,
+    "updatedAt": 0
+   },
+   {
+    "id": "x-cristalline",
+    "nom": "Matrice Cristalline",
+    "type": "cristalline",
+    "description": "Structures cristallines : agir sur l’ordre du réseau, pas seulement sur la composition.",
+    "difficulte": 4,
+    "materiaux": "Quartz, sel, glace, diamant — chaque famille demande sa variante.",
+    "chakra": "Précis, faible amplitude.",
+    "preparation": "Longue.",
+    "risques": "Même composition, autre structure : graphite au lieu de diamant.",
+    "classification": "theorique",
+    "maitrise": "theorique",
+    "diagramme": {
+     "anneaux": 3,
+     "symetrie": 6,
+     "noeuds": 12,
+     "motif": "complet",
+     "seed": 19
+    },
+    "notes": "",
+    "seuil": 45,
+    "createdAt": 34,
+    "updatedAt": 0
+   },
+   {
+    "id": "x-territoriale",
+    "nom": "Grande Matrice Territoriale",
+    "type": "territoriale",
+    "description": "Théorique. Réseau de matrices agissant à grande échelle. Classée avancée / restreinte.",
+    "difficulte": 5,
+    "materiaux": "Un territoire entier : inconnu.",
+    "chakra": "Au‑delà d’une seule personne.",
+    "preparation": "Des jours, des relais, des plaques.",
+    "risques": "Inconnus. Un Retour de Résonance à cette échelle n’a jamais été mesuré.",
+    "classification": "theorique",
+    "maitrise": "inconnue",
+    "diagramme": {
+     "anneaux": 5,
+     "symetrie": 12,
+     "noeuds": 24,
+     "motif": "complet",
+     "seed": 23
+    },
+    "notes": "Avancée / restreinte : à ne présenter aux MJ qu’après plusieurs dossiers intermédiaires.",
+    "seuil": 60,
+    "createdAt": 35,
+    "updatedAt": 0
+   },
+   {
+    "id": "x-philosophale",
+    "nom": "Matrice Philosophale",
+    "type": "philosophale",
+    "description": "Utilise une Pierre Philosophale comme source énergétique. Classée très avancée / interdite sans validation.",
+    "difficulte": 5,
+    "materiaux": "Une Pierre Philosophale (sa création est un tabou absolu).",
+    "chakra": "Fourni par la Pierre — le prix a déjà été payé.",
+    "preparation": "Inconnue.",
+    "risques": "La Pierre fournit de l’énergie, pas la connaissance. Et chaque usage consomme ce qu’elle contient.",
+    "classification": "interdit",
+    "maitrise": "inconnue",
+    "diagramme": {
+     "anneaux": 4,
+     "symetrie": 7,
+     "noeuds": 14,
+     "motif": "complet",
+     "seed": 29
+    },
+    "notes": "Son étude n’existe que dans ANOMALIA.",
+    "seuil": 100,
+    "createdAt": 36,
+    "updatedAt": 0
+   }
+  ],
+  "entrees": [
+   {
+    "id": "e-01",
+    "titre": "Pourquoi le sable",
+    "dateRP": "",
+    "lieu": "Dunes, au sud du village",
+    "humeur": "curieux",
+    "personnages": [],
+    "categorie": "geologie",
+    "tags": [
+     "sable",
+     "début"
+    ],
+    "texte": "Tout le monde ici marche sur du sable sans le regarder. Moi je l’ai regardé. De près. Avec la loupe de l’atelier.\n\nCe n’est pas « du sable ». C’est des milliards de petits cailloux, presque tous du quartz, qui ne tiennent à rien. Ils coulent entre les doigts parce que rien ne les lie. Le grès, c’est la même chose, mais quelqu’un (le temps) a mis de la colle.\n\nQuestion du jour : si la colle est la seule différence, est‑ce que je peux la mettre moi‑même ?",
+    "facettes": {
+     "evenement": "",
+     "reflexion": "Je crois que je viens de choisir mon sujet pour les dix prochaines années. Ou pour la semaine. On verra.",
+     "peur": "",
+     "ambition": "",
+     "relation": "",
+     "decouverte": ""
+    },
+    "images": [],
+    "marge": [
+     {
+      "id": "e-01-n1",
+      "text": "acheter une meilleure loupe",
+      "x": 62,
+      "y": 18,
+      "rot": -4,
+      "ink": "crayon"
+     }
+    ],
+    "epoque": "avant",
+    "important": false,
+    "liens": [],
+    "createdAt": 76,
+    "updatedAt": 0
+   },
+   {
+    "id": "e-02",
+    "titre": "Kōseijutsu — la règle du jeu",
+    "dateRP": "",
+    "lieu": "",
+    "humeur": "excite",
+    "personnages": [],
+    "categorie": "kosei",
+    "tags": [
+     "principe",
+     "kōseijutsu"
+    ],
+    "texte": "Je lui ai trouvé un nom : Kōseijutsu, l’Art de la Composition. Comprendre une matière, puis la modifier avec du chakra et une matrice.\n\nTrois temps. LECTURE (qu’est‑ce que c’est, vraiment). DÉCOMPOSITION (défaire, un moment, pour avoir les composants sous la main). RECOMPOSITION (remettre, mais dans l’ordre que la matrice décide).\n\nEt une règle que je me répète : on ne peut recomposer correctement que ce que l’on comprend. Donc d’abord comprendre. Donc étudier. Donc, oui, travailler. (Je sais.)",
+    "facettes": {
+     "evenement": "",
+     "reflexion": "",
+     "peur": "",
+     "ambition": "Un jour, un mur entier. Pour l’instant : un tas de sable.",
+     "relation": "",
+     "decouverte": ""
+    },
+    "images": [],
+    "marge": [],
+    "epoque": "avant",
+    "important": false,
+    "liens": [
+     "t:t-kosei"
+    ],
+    "createdAt": 77,
+    "updatedAt": 0
+   },
+   {
+    "id": "e-03",
+    "titre": "Compression I — ça marche (un peu)",
+    "dateRP": "",
+    "lieu": "Carrière Est de Suna",
+    "humeur": "fier",
+    "personnages": [],
+    "categorie": "experience",
+    "tags": [
+     "compression",
+     "sable",
+     "grès"
+    ],
+    "texte": "Quatre minutes pour tracer la matrice. Quatre. Mon genou a un souvenir du gravier.\n\nLe sable a répondu. Pas beaucoup, mais il a répondu : la surface est devenue plus dense, un peu plus dure, sur une zone grande comme une assiette. Le grès, lui, fait la tête : sa colle naturelle n’a pas envie que je la remplace.\n\nRésultat modeste. Mais refait trois fois, et trois fois pareil. Je préfère un petit résultat qui se répète à un grand qui n’existe qu’une fois.",
+    "facettes": {
+     "evenement": "",
+     "reflexion": "",
+     "peur": "",
+     "ambition": "",
+     "relation": "",
+     "decouverte": "Le sable répond mieux que le grès. L’effet reste sur une petite zone."
+    },
+    "images": [],
+    "marge": [
+     {
+      "id": "e-03-n1",
+      "text": "flux instable ×2 — respirer AVANT",
+      "x": 4,
+      "y": 60,
+      "rot": 3,
+      "ink": "rouge"
+     }
+    ],
+    "epoque": "avant",
+    "important": false,
+    "liens": [
+     "r:r-03"
+    ],
+    "createdAt": 78,
+    "updatedAt": 0
+   },
+   {
+    "id": "e-04",
+    "titre": "Liaison I, et la couture",
+    "dateRP": "",
+    "lieu": "Laboratoire des Dunes",
+    "humeur": "frustre",
+    "personnages": [],
+    "categorie": "experience",
+    "tags": [
+     "liaison",
+     "grès"
+    ],
+    "texte": "Deux morceaux de grès, un seul à la fin. Victoire ? Presque. On voit la couture. Ça tient quand on appuie, ça casse quand on tord.\n\nJe pense que la couture n’a pas la structure du grès : elle a la structure de « deux surfaces sales qu’on a forcées ». Nouvelle piste : une couche de sable stabilisé entre les deux, pour que la jonction ait quelque chose d’homogène à recomposer.",
+    "facettes": {
+     "evenement": "",
+     "reflexion": "",
+     "peur": "",
+     "ambition": "",
+     "relation": "",
+     "decouverte": "Résistance correcte en pression, fragilité en torsion."
+    },
+    "images": [],
+    "marge": [],
+    "epoque": "avant",
+    "important": false,
+    "liens": [
+     "r:r-04"
+    ],
+    "createdAt": 79,
+    "updatedAt": 0
+   },
+   {
+    "id": "e-05",
+    "titre": "Les MJ ont dit oui",
+    "dateRP": "",
+    "lieu": "",
+    "humeur": "excite",
+    "personnages": [],
+    "categorie": "recherche",
+    "tags": [
+     "validation"
+    ],
+    "texte": "Le principe est accepté. Avec des conditions, et elles sont justes : connaître les matériaux avant, jouer réellement leur étude, des matrices longues au début, des résultats modestes, un suivi clair, et un nouveau dossier pour chaque application complexe.\n\nNiveau autorisé : applications simples, recherches initiales. C’est exactement là où j’en suis. Pour une fois, le monde et moi sommes d’accord.",
+    "facettes": {
+     "evenement": "",
+     "reflexion": "",
+     "peur": "",
+     "ambition": "",
+     "relation": "Je dois ce dossier à ceux qui m’ont forcé à écrire proprement.",
+     "decouverte": ""
+    },
+    "images": [],
+    "marge": [],
+    "epoque": "avant",
+    "important": false,
+    "liens": [
+     "j:j-fondatrice"
+    ],
+    "createdAt": 80,
+    "updatedAt": 0
+   },
+   {
+    "id": "e-06",
+    "titre": "Matrice de Noèse",
+    "dateRP": "",
+    "lieu": "",
+    "humeur": "froid",
+    "personnages": [],
+    "categorie": "tabou",
+    "tags": [
+     "tabou",
+     "accident"
+    ],
+    "texte": "Compte rendu. Sujet : moi.\n\nObjectif : appliquer Lecture → Décomposition → Recomposition à ma propre conscience, pour réorganiser souvenirs, associations, compréhension, mémoire. Hypothèse (non vérifiée) : une organisation mentale « devrait » se recomposer comme une matière.\n\nDéroulement. Lecture : réussie. Décomposition : entamée. Pendant quelques secondes, un très grand nombre de connexions perçues en même temps. Puis la conscience s’est modifiée pendant que la matrice tentait de la recomposer. Recomposition : impossible à stabiliser. Retour de Résonance : total.\n\nPoint d’injection principal : bras gauche. Détruit. Amputé.\n\nPrix : bras gauche.",
+    "facettes": {
+     "evenement": "",
+     "reflexion": "J’ai voulu transformer mon esprit en bibliothèque. J’ai oublié qu’une bibliothèque ne souffre pas lorsque l’on déplace ses livres.",
+     "peur": "",
+     "ambition": "",
+     "relation": "",
+     "decouverte": ""
+    },
+    "images": [],
+    "marge": [],
+    "epoque": "apres",
+    "important": true,
+    "liens": [
+     "t:t-noese"
+    ],
+    "createdAt": 81,
+    "updatedAt": 0
+   },
+   {
+    "id": "e-07",
+    "titre": "Ce qui a changé",
+    "dateRP": "",
+    "lieu": "",
+    "humeur": "methodique",
+    "personnages": [],
+    "categorie": "vie",
+    "tags": [
+     "personnel"
+    ],
+    "texte": "Inventaire, sans adjectifs.\n\nAvant : curieux, spontané, paresseux, amusé, insouciant. Après : froid, silencieux, méthodique. Obsessionnel, dit‑on. Perfectionniste. Distant. Contrôlé. Incapable, ou presque, de supporter une hypothèse non vérifiée.\n\nCertains souvenirs manquent. Certaines connexions entre des gens et moi ne renvoient plus rien quand je les cherche. Je note ce fait comme les autres.\n\nLa curiosité est toujours là. Elle n’est plus joyeuse. Elle ressemble à une faim.\n\n« Devrait » est le mot qui m’a coûté un bras.",
+    "facettes": {
+     "evenement": "",
+     "reflexion": "",
+     "peur": "Que le prochain mot soit « sûrement ».",
+     "ambition": "",
+     "relation": "",
+     "decouverte": ""
+    },
+    "images": [],
+    "marge": [],
+    "epoque": "apres",
+    "important": false,
+    "liens": [
+     "t:t-consequences"
+    ],
+    "createdAt": 82,
+    "updatedAt": 0
+   },
+   {
+    "id": "e-08",
+    "titre": "Reprise — protocole",
+    "dateRP": "",
+    "lieu": "Laboratoire des Dunes",
+    "humeur": "determine",
+    "personnages": [],
+    "categorie": "recherche",
+    "tags": [
+     "protocole",
+     "bras"
+    ],
+    "texte": "Règles de reprise.\n\n1. Aucune matrice dont la recomposition n’est pas comprise avant le tracé.\n2. Anneaux de dissipation sur toute matrice au‑dessus de la difficulté 2.\n3. Chaque expérience : question, hypothèse, protocole, observations, erreurs. Dans cet ordre. Sans exception.\n4. Le vivant : observation seulement.\n5. Kōsei no Ude, V0 : prothèse simple. V1 (conduction) en préparation. Rien d’autre tant que V1 n’est pas stable.\n\nProchain dossier : la couche de sable stabilisé.",
+    "facettes": {
+     "evenement": "",
+     "reflexion": "",
+     "peur": "",
+     "ambition": "",
+     "relation": "",
+     "decouverte": ""
+    },
+    "images": [],
+    "marge": [],
+    "epoque": "apres",
+    "important": false,
+    "liens": [
+     "q:q-bras",
+     "q:q-sable-stabilise"
+    ],
+    "createdAt": 83,
+    "updatedAt": 0
+   }
+  ],
+  "inventions": [
+   {
+    "id": "i-brise-faille",
+    "nom": "Marteau de Rupture — Brise‑Faille",
+    "type": "arme",
+    "description": "Arme lourde destinée à détruire murs, portes, pierres et fortifications.",
+    "passif": "Forte efficacité contre les structures grâce à sa masse.",
+    "actif": "Attaque chargée de projection.",
+    "limites": "Limité par l’usure et la réparation. Chaque coup chargé abîme la tête du marteau.",
+    "statut": "plan",
+    "classification": "theorique",
+    "materiaux": [
+     "m-acier",
+     "m-fer"
+    ],
+    "usure": 0,
+    "versions": [],
+    "tags": [
+     "arme",
+     "rupture"
+    ],
+    "images": [],
+    "croquis": 1,
+    "createdAt": 52,
+    "updatedAt": 0
+   },
+   {
+    "id": "i-lance-faille",
+    "nom": "Lance‑Faille",
+    "type": "arme",
+    "description": "Arme permettant d’exploiter fissures et défauts structurels.",
+    "passif": "Pointe fine qui suit une fissure existante.",
+    "actif": "Coup porté dans le défaut lu par la matrice.",
+    "limites": "Inutile sans lecture préalable de la structure.",
+    "statut": "plan",
+    "classification": "theorique",
+    "materiaux": [
+     "m-acier"
+    ],
+    "usure": 0,
+    "versions": [],
+    "tags": [
+     "arme"
+    ],
+    "images": [],
+    "croquis": 2,
+    "createdAt": 53,
+    "updatedAt": 0
+   },
+   {
+    "id": "i-piques-sismiques",
+    "nom": "Piques Sismiques",
+    "type": "outil",
+    "description": "Analyse des vibrations du terrain : des piques plantées dans le sol transmettent ce qui bouge dessous.",
+    "passif": "Écoute passive des vibrations.",
+    "actif": "—",
+    "limites": "Portée courte ; le vent de sable brouille tout.",
+    "statut": "plan",
+    "classification": "theorique",
+    "materiaux": [
+     "m-fer",
+     "m-cuivre"
+    ],
+    "usure": 0,
+    "versions": [],
+    "tags": [
+     "outil",
+     "géologie"
+    ],
+    "images": [],
+    "croquis": 3,
+    "createdAt": 54,
+    "updatedAt": 0
+   },
+   {
+    "id": "i-plaques",
+    "nom": "Plaques de Composition",
+    "type": "support",
+    "description": "Plaques préparées permettant de construire certaines matrices plus rapidement.",
+    "passif": "Une partie du tracé est déjà gravée.",
+    "actif": "—",
+    "limites": "Une plaque = une matrice. Lourdes.",
+    "statut": "plan",
+    "classification": "theorique",
+    "materiaux": [
+     "m-bronze"
+    ],
+    "usure": 0,
+    "versions": [],
+    "tags": [
+     "support",
+     "matrice"
+    ],
+    "images": [],
+    "croquis": 4,
+    "createdAt": 55,
+    "updatedAt": 0
+   },
+   {
+    "id": "i-relais-or",
+    "nom": "Relais d’Or",
+    "type": "support",
+    "description": "Points métalliques reliés par le sable d’or pour construire une matrice temporaire.",
+    "passif": "Le sable d’or conduit le chakra entre les points.",
+    "actif": "Tracé rapide d’une matrice sur n’importe quel sol.",
+    "limites": "Consomme du sable d’or ; temporaire.",
+    "statut": "plan",
+    "classification": "theorique",
+    "materiaux": [
+     "m-sable-or",
+     "m-cuivre"
+    ],
+    "usure": 0,
+    "versions": [],
+    "tags": [
+     "support",
+     "matrice"
+    ],
+    "images": [],
+    "croquis": 5,
+    "createdAt": 56,
+    "updatedAt": 0
+   },
+   {
+    "id": "i-dissipation",
+    "nom": "Module de Dissipation",
+    "type": "module",
+    "description": "Fusible sacrificiel absorbant une partie d’une surcharge.",
+    "passif": "Absorbe une part d’un Retour de Résonance.",
+    "actif": "—",
+    "limites": "Détruit après usage. Ne protège pas d’une surcharge totale.",
+    "statut": "plan",
+    "classification": "theorique",
+    "materiaux": [
+     "m-cuivre",
+     "m-or"
+    ],
+    "usure": 0,
+    "versions": [],
+    "tags": [
+     "module",
+     "bras",
+     "sécurité"
+    ],
+    "images": [],
+    "croquis": 6,
+    "createdAt": 57,
+    "updatedAt": 0
+   },
+   {
+    "id": "i-matrice-poche",
+    "nom": "Matrice de Poche",
+    "type": "support",
+    "description": "Support pliable pour une matrice simple préparée à l’avance.",
+    "passif": "Prête en quelques secondes.",
+    "actif": "—",
+    "limites": "Matrices simples seulement ; s’use au pliage.",
+    "statut": "plan",
+    "classification": "theorique",
+    "materiaux": [
+     "m-tissu",
+     "m-cuivre"
+    ],
+    "usure": 0,
+    "versions": [],
+    "tags": [
+     "support"
+    ],
+    "images": [],
+    "croquis": 7,
+    "createdAt": 58,
+    "updatedAt": 0
+   },
+   {
+    "id": "i-cartouches",
+    "nom": "Cartouches de Matière",
+    "type": "reserve",
+    "description": "Petites réserves de matières dont Shinji connaît précisément la composition.",
+    "passif": "Une matière connue, toujours sous la main : l’échange équivalent a de quoi payer.",
+    "actif": "—",
+    "limites": "Petites quantités.",
+    "statut": "plan",
+    "classification": "theorique",
+    "materiaux": [
+     "m-sable-suna",
+     "m-cuivre"
+    ],
+    "usure": 0,
+    "versions": [],
+    "tags": [
+     "réserve"
+    ],
+    "images": [],
+    "croquis": 8,
+    "createdAt": 59,
+    "updatedAt": 0
+   }
+  ],
+  "expeditions": [],
+  "evenements": [
+   {
+    "createdAt": 40,
+    "updatedAt": 0,
+    "id": "v-01",
+    "titre": "Début des recherches géologiques",
+    "dateRP": "",
+    "ordre": 10,
+    "type": "recherche",
+    "texte": "Roches, minerais, sable : avant de transformer quoi que ce soit, apprendre à reconnaître.",
+    "liens": [],
+    "fixe": true
+   },
+   {
+    "createdAt": 41,
+    "updatedAt": 0,
+    "id": "v-02",
+    "titre": "Premières études sur le sable et le grès",
+    "dateRP": "",
+    "ordre": 20,
+    "type": "recherche",
+    "texte": "Structure granulaire du sable, porosité et lignes de fracture du grès.",
+    "liens": [
+     "m:m-sable-suna",
+     "m:m-gres-suna"
+    ],
+    "fixe": true
+   },
+   {
+    "createdAt": 42,
+    "updatedAt": 0,
+    "id": "v-03",
+    "titre": "Compression I",
+    "dateRP": "",
+    "ordre": 30,
+    "type": "recherche",
+    "texte": "Première matrice lithique : la cohésion du sable augmente légèrement. Modeste, reproductible.",
+    "liens": [
+     "r:r-03"
+    ],
+    "fixe": true
+   },
+   {
+    "createdAt": 43,
+    "updatedAt": 0,
+    "id": "v-04",
+    "titre": "Liaison I",
+    "dateRP": "",
+    "ordre": 40,
+    "type": "recherche",
+    "texte": "Deux fragments de grès assemblés. Couture visible, fragile en torsion.",
+    "liens": [
+     "r:r-04"
+    ],
+    "fixe": true
+   },
+   {
+    "createdAt": 44,
+    "updatedAt": 0,
+    "id": "v-05",
+    "titre": "Formalisation du Kōseijutsu",
+    "dateRP": "",
+    "ordre": 50,
+    "type": "decouverte",
+    "texte": "Lecture → Décomposition → Recomposition. « On ne peut recomposer correctement que ce que l’on comprend. »",
+    "liens": [
+     "t:t-kosei"
+    ],
+    "fixe": true
+   },
+   {
+    "createdAt": 45,
+    "updatedAt": 0,
+    "id": "v-06",
+    "titre": "Validation du principe par les MJ",
+    "dateRP": "",
+    "ordre": 60,
+    "type": "validation",
+    "texte": "Principe accepté. Niveau autorisé : applications simples / recherches initiales.",
+    "liens": [
+     "j:j-fondatrice"
+    ],
+    "fixe": true
+   },
+   {
+    "createdAt": 46,
+    "updatedAt": 0,
+    "id": "v-07",
+    "titre": "Matrice de Noèse",
+    "dateRP": "",
+    "ordre": 70,
+    "type": "accident",
+    "texte": "Tentative d’appliquer le Kōseijutsu à sa propre conscience.",
+    "liens": [
+     "t:t-noese"
+    ],
+    "fixe": true
+   },
+   {
+    "createdAt": 47,
+    "updatedAt": 0,
+    "id": "v-08",
+    "titre": "Accident",
+    "dateRP": "",
+    "ordre": 80,
+    "type": "accident",
+    "texte": "Lecture, puis décomposition de l’organisation mentale. Recomposition impossible à stabiliser. Retour de Résonance.",
+    "liens": [],
+    "fixe": true
+   },
+   {
+    "createdAt": 48,
+    "updatedAt": 0,
+    "id": "v-09",
+    "titre": "Perte du bras gauche",
+    "dateRP": "",
+    "ordre": 90,
+    "type": "accident",
+    "texte": "Le bras, principal point d’injection de chakra, est détruit. Amputation.",
+    "liens": [],
+    "fixe": true
+   },
+   {
+    "createdAt": 49,
+    "updatedAt": 0,
+    "id": "v-10",
+    "titre": "Changement de personnalité",
+    "dateRP": "",
+    "ordre": 100,
+    "type": "personnel",
+    "texte": "Certains souvenirs et connexions émotionnelles semblent altérés. Froid, silencieux, méthodique.",
+    "liens": [
+     "t:t-consequences"
+    ],
+    "fixe": true
+   },
+   {
+    "createdAt": 50,
+    "updatedAt": 0,
+    "id": "v-11",
+    "titre": "Création progressive du Bras de Composition",
+    "dateRP": "",
+    "ordre": 110,
+    "type": "bras",
+    "texte": "Kōsei no Ude. V0 : prothèse simple. Les versions suivantes viendront avec les recherches.",
+    "liens": [],
+    "fixe": true
+   },
+   {
+    "createdAt": 51,
+    "updatedAt": 0,
+    "id": "v-12",
+    "titre": "Reprise des recherches avec protocole beaucoup plus strict",
+    "dateRP": "",
+    "ordre": 120,
+    "type": "recherche",
+    "texte": "« Devrait » est le mot qui m’a coûté un bras. Désormais, rien n’est admis sans vérification.",
+    "liens": [],
+    "fixe": true
+   }
+  ],
+  "validations": [
+   {
+    "id": "j-fondatrice",
+    "dateRP": "",
+    "sujet": "Le principe du Kōseijutsu",
+    "statut": "valide",
+    "conditions": [
+     "Connaissance préalable des matériaux obligatoire.",
+     "RP réel autour de leur étude.",
+     "Matrices longues à réaliser au début.",
+     "Résultats initialement modestes.",
+     "Suivi clair de la progression.",
+     "Premières applications simples validées.",
+     "Nouvelles applications complexes à présenter ultérieurement dans un nouveau dossier."
+    ],
+    "texte": "Le principe du Kōseijutsu est accepté.",
+    "niveau": "Applications simples / recherches initiales",
+    "liens": [
+     "r:r-03",
+     "r:r-04"
+    ],
+    "createdAt": 39,
+    "updatedAt": 0,
+    "fondatrice": true
+   }
+  ],
+  "theories": [
+   {
+    "id": "t-kosei",
+    "titre": "Kōseijutsu — Art de la Composition",
+    "domaine": "kosei",
+    "classification": "connu",
+    "texte": "Discipline scientifique shinobi permettant de comprendre puis modifier une matière grâce au chakra et à une matrice.\n\nLe cycle fondamental actuel est :\n\nLECTURE → DÉCOMPOSITION → RECOMPOSITION\n\nLecture — comprendre : composition, structure, proportions, propriétés, défauts.\n\nDécomposition — dissocier temporairement la structure de la matière en ses composants utilisables.\n\nRecomposition — réorganiser ces composants selon la matrice choisie.\n\nUne stabilisation peut ensuite être nécessaire selon la matière.\n\nRègle centrale : « On ne peut recomposer correctement que ce que l’on comprend. »",
+    "tags": [
+     "principe"
+    ],
+    "createdAt": 60,
+    "updatedAt": 0,
+    "fixe": true
+   },
+   {
+    "id": "t-echange",
+    "titre": "Échange équivalent",
+    "domaine": "kosei",
+    "classification": "connu",
+    "texte": "La matière n’est pas créée gratuitement. Une transformation utilise une matière existante.\n\nLe résultat dépend :\n— de la quantité disponible ;\n— de sa composition ;\n— de sa structure ;\n— de l’énergie fournie ;\n— de la précision de la matrice.\n\nShinji ne peut pas transformer arbitrairement une matière en quelque chose dont les composants nécessaires sont absents.",
+    "tags": [
+     "principe"
+    ],
+    "createdAt": 61,
+    "updatedAt": 0,
+    "fixe": true
+   },
+   {
+    "id": "t-stabilisation",
+    "titre": "Stabilisation",
+    "domaine": "sigilla",
+    "classification": "experimental",
+    "texte": "Après la recomposition, certaines matières « veulent » revenir à leur état d’avant. Une stabilisation — un dernier anneau de la matrice, maintenu quelques secondes de plus — fixe la nouvelle organisation.\n\nObservé sur le sable (Compression I) : sans stabilisation, la zone durcie se relâche en quelques heures. À confirmer sur d’autres matières.",
+    "tags": [
+     "matrice"
+    ],
+    "createdAt": 62,
+    "updatedAt": 0,
+    "fixe": true
+   },
+   {
+    "id": "t-resonance",
+    "titre": "Retour de Résonance",
+    "domaine": "sigilla",
+    "classification": "connu",
+    "texte": "Quand une recomposition ne peut pas se stabiliser, l’énergie engagée dans la matrice revient vers son point d’injection — le corps de celui qui trace.\n\nUn petit Retour fatigue. Un grand Retour détruit. J’en ai mesuré un, une seule fois, sans instrument : il m’a coûté le bras gauche.\n\nDepuis : anneaux de dissipation, fusibles sacrificiels, et aucune matrice dont la recomposition n’est pas comprise d’avance.",
+    "tags": [
+     "danger"
+    ],
+    "createdAt": 63,
+    "updatedAt": 0,
+    "fixe": true
+   },
+   {
+    "id": "t-structure",
+    "titre": "Même composition ne signifie pas même matière",
+    "domaine": "materia",
+    "classification": "connu",
+    "texte": "Graphite et diamant sont tous deux constitués de carbone. Glace et eau sont la même H₂O. La composition dit DE QUOI une matière est faite ; la structure dit COMMENT. Une matrice doit connaître les deux.\n\nCorollaire : ne pas traiter « cristal » comme une composition. La structure cristalline doit être identifiée précisément.",
+    "tags": [
+     "matériaux"
+    ],
+    "createdAt": 64,
+    "updatedAt": 0,
+    "fixe": true
+   },
+   {
+    "id": "t-vivant",
+    "titre": "Le vivant n’est pas une liste d’éléments",
+    "domaine": "vita",
+    "classification": "interdit",
+    "texte": "Connaître les éléments chimiques d’un humain (≈ 65 % O, 18 % C, 10 % H, 3 % N, 1,5 % Ca, 1 % P…) ne signifie absolument pas comprendre un organisme vivant, son réseau de chakra, son cerveau, sa conscience ou son âme.\n\nUne grande partie du vivant est considérée comme interdite ou extrêmement dangereuse. L’étude s’arrête à l’observation.",
+    "tags": [
+     "vivant",
+     "tabou"
+    ],
+    "createdAt": 65,
+    "updatedAt": 0,
+    "fixe": true
+   },
+   {
+    "id": "t-noese",
+    "titre": "TABOU — Matrice de Noèse",
+    "domaine": "anomalia",
+    "classification": "interdit",
+    "texte": "J’ai tenté d’appliquer les principes du Kōseijutsu à ma propre conscience.\n\nObjectif : atteindre une forme de connaissance ultime de l’alchimie en réorganisant souvenirs, associations mentales, compréhension, mémoire, conscience. Je pensais pouvoir améliorer artificiellement ma manière d’apprendre et connecter toutes mes connaissances.\n\nLa matrice a commencé à lire ma conscience ; puis à décomposer mon organisation mentale. Pendant quelques secondes, j’ai perçu énormément de connexions entre mes connaissances. Puis la conscience a commencé à se modifier pendant même que la matrice tentait de la recomposer. La Recomposition est devenue impossible à stabiliser. Un immense Retour de Résonance s’est produit. Mon bras, principal point d’injection de chakra, a été détruit. Il a dû être amputé.\n\n« J’ai voulu transformer mon esprit en bibliothèque. J’ai oublié qu’une bibliothèque ne souffre pas lorsque l’on déplace ses livres. »\n\nPrix : bras gauche.",
+    "tags": [
+     "tabou",
+     "accident"
+    ],
+    "createdAt": 66,
+    "updatedAt": 0,
+    "fixe": true
+   },
+   {
+    "id": "t-consequences",
+    "titre": "Conséquences mentales",
+    "domaine": "anomalia",
+    "classification": "connu",
+    "texte": "L’accident n’a pas seulement coûté un bras. Certains souvenirs et connexions émotionnelles semblent avoir été altérés.\n\nAncien Shinji : curieux, spontané, paresseux, amusé par ses expériences, relativement insouciant.\n\nNouveau Shinji : froid, silencieux, méthodique, obsessionnel, perfectionniste, beaucoup plus distant, extrêmement contrôlé, presque incapable de supporter une hypothèse non vérifiée.\n\n« “Devrait” est le mot qui m’a coûté un bras. »\n\nLa curiosité reste présente. Mais elle n’est plus joyeuse. Elle devient presque une faim.",
+    "tags": [
+     "personnel"
+    ],
+    "createdAt": 67,
+    "updatedAt": 0,
+    "fixe": true
+   },
+   {
+    "id": "t-pierre",
+    "titre": "Pierre Philosophale",
+    "domaine": "anomalia",
+    "classification": "interdit",
+    "texte": "Elle est créée en condensant de nombreuses vies / âmes humaines dans un support. Elle constitue une réserve énergétique immense.\n\nElle ne supprime pas réellement l’échange équivalent : le prix a simplement déjà été payé.\n\nRègle fondamentale : la Pierre fournit de l’énergie. Elle ne fournit pas la connaissance. Il faut toujours comprendre la matière que l’on souhaite recomposer.\n\nChaque utilisation importante consomme progressivement l’énergie — et donc les âmes — contenues dans la Pierre.\n\nLa création d’une Pierre est un tabou absolu. Son étude peut exister ici, dans ANOMALIA, et nulle part ailleurs.",
+    "tags": [
+     "anomalia",
+     "tabou"
+    ],
+    "createdAt": 68,
+    "updatedAt": 0,
+    "fixe": true
+   },
+   {
+    "id": "t-homoncule",
+    "titre": "Homoncules — projet théorique",
+    "domaine": "vita",
+    "classification": "futur",
+    "texte": "Objectif théorique ultime : créer une forme de vie artificielle sans sacrifier de vie existante.\n\nÉtapes hypothétiques : matière organique → organisme simple → réseau de chakra → comportement → conscience.\n\nPremier objectif théorique possible : Khepri, petit scarabée artificiel expérimental. Pas encore maîtrisé.\n\nNe pas considérer ce projet comme une capacité actuelle.",
+    "tags": [
+     "futur",
+     "vivant"
+    ],
+    "createdAt": 69,
+    "updatedAt": 0,
+    "fixe": true
+   }
+  ],
+  "projets": [
+   {
+    "id": "q-bras",
+    "titre": "Kōsei no Ude — Bras de Composition",
+    "type": "bras",
+    "classification": "experimental",
+    "statut": "en-cours",
+    "texte": "Faire évoluer la prothèse, version après version, au rythme des recherches.",
+    "etapes": [
+     {
+      "id": "q-bras-0",
+      "texte": "V0 — prothèse simple",
+      "fait": true
+     },
+     {
+      "id": "q-bras-1",
+      "texte": "V1 — conduction du chakra",
+      "fait": false
+     },
+     {
+      "id": "q-bras-2",
+      "texte": "V2 — Lecture",
+      "fait": false
+     },
+     {
+      "id": "q-bras-3",
+      "texte": "V3 — outils",
+      "fait": false
+     },
+     {
+      "id": "q-bras-4",
+      "texte": "V4 — sable d’or",
+      "fait": false
+     },
+     {
+      "id": "q-bras-5",
+      "texte": "V5 — dissipation",
+      "fait": false
+     },
+     {
+      "id": "q-bras-6",
+      "texte": "V6 — matrices modulaires",
+      "fait": false
+     },
+     {
+      "id": "q-bras-7",
+      "texte": "V7 — Bras de Composition avancé",
+      "fait": false
+     }
+    ],
+    "liens": [],
+    "seuil": 0,
+    "createdAt": 70,
+    "updatedAt": 0,
+    "fixe": true
+   },
+   {
+    "id": "q-sable-stabilise",
+    "titre": "Couche intermédiaire de sable stabilisé",
+    "type": "recherche",
+    "classification": "experimental",
+    "statut": "idee",
+    "texte": "Nouvelle piste née de Liaison I : interposer du sable stabilisé entre deux fragments pour obtenir une couture homogène.",
+    "etapes": [
+     {
+      "id": "q-ss-1",
+      "texte": "Stabiliser une fine couche de sable (Compression I + stabilisation)",
+      "fait": false
+     },
+     {
+      "id": "q-ss-2",
+      "texte": "Refaire Liaison I avec la couche",
+      "fait": false
+     },
+     {
+      "id": "q-ss-3",
+      "texte": "Tester en torsion",
+      "fait": false
+     }
+    ],
+    "liens": [
+     "r:r-04"
+    ],
+    "seuil": 0,
+    "createdAt": 71,
+    "updatedAt": 0,
+    "fixe": true
+   },
+   {
+    "id": "q-brise-faille",
+    "titre": "Brise‑Faille",
+    "type": "invention",
+    "classification": "theorique",
+    "statut": "idee",
+    "texte": "Marteau de Rupture : la masse d’abord, la matrice ensuite. À présenter aux MJ dans un nouveau dossier.",
+    "etapes": [
+     {
+      "id": "q-bf-1",
+      "texte": "Forger la tête (acier)",
+      "fait": false
+     },
+     {
+      "id": "q-bf-2",
+      "texte": "Comprendre la Matrice de Rupture (théorie)",
+      "fait": false
+     },
+     {
+      "id": "q-bf-3",
+      "texte": "Dossier MJ",
+      "fait": false
+     }
+    ],
+    "liens": [
+     "i:i-brise-faille",
+     "x:x-rupture"
+    ],
+    "seuil": 0,
+    "createdAt": 72,
+    "updatedAt": 0,
+    "fixe": true
+   },
+   {
+    "id": "q-territoriale",
+    "titre": "Grande Matrice Territoriale",
+    "type": "matrice",
+    "classification": "theorique",
+    "statut": "idee",
+    "texte": "Un réseau de matrices reliées par des relais, agissant à l’échelle d’un territoire. Théorique, restreint.",
+    "etapes": [
+     {
+      "id": "q-gt-1",
+      "texte": "Relais d’Or fonctionnels",
+      "fait": false
+     },
+     {
+      "id": "q-gt-2",
+      "texte": "Deux matrices reliées à distance",
+      "fait": false
+     },
+     {
+      "id": "q-gt-3",
+      "texte": "Mesurer un Retour de Résonance à distance",
+      "fait": false
+     }
+    ],
+    "liens": [
+     "x:x-territoriale",
+     "i:i-relais-or"
+    ],
+    "seuil": 60,
+    "createdAt": 73,
+    "updatedAt": 0,
+    "fixe": true
+   },
+   {
+    "id": "q-khepri",
+    "titre": "Khepri — scarabée artificiel",
+    "type": "theorie",
+    "classification": "futur",
+    "statut": "idee",
+    "texte": "Premier objectif théorique possible des homoncules : un petit scarabée artificiel expérimental. Pas encore maîtrisé. Ne pas considérer comme une capacité actuelle.",
+    "etapes": [
+     {
+      "id": "q-kh-1",
+      "texte": "Matière organique",
+      "fait": false
+     },
+     {
+      "id": "q-kh-2",
+      "texte": "Organisme simple",
+      "fait": false
+     },
+     {
+      "id": "q-kh-3",
+      "texte": "Réseau de chakra",
+      "fait": false
+     },
+     {
+      "id": "q-kh-4",
+      "texte": "Comportement",
+      "fait": false
+     },
+     {
+      "id": "q-kh-5",
+      "texte": "Conscience",
+      "fait": false
+     }
+    ],
+    "liens": [
+     "t:t-homoncule"
+    ],
+    "seuil": 80,
+    "createdAt": 74,
+    "updatedAt": 0,
+    "fixe": true
+   }
+  ],
+  "personnages": [
+   {
+    "createdAt": 75,
+    "updatedAt": 0,
+    "id": "c-shinji",
+    "nom": "Shinji Sabaku",
+    "role": "Moi",
+    "relation": "moi‑même",
+    "notes": "Clan Sabaku, Sunagakure. Kōseijutsu, géologie, forge, Fûinjutsu. Bras gauche : Kōsei no Ude.",
+    "self": true
+   }
+  ],
+  "seances": [],
+  "bras": {
+   "version": 0,
+   "versions": {
+    "0": {
+     "statut": "fait",
+     "note": "Prothèse simple : squelette en alliage, plaques extérieures remplaçables. Elle tient, elle serre, elle n’est pas encore un instrument.",
+     "at": 1
+    },
+    "1": {
+     "statut": "en-cours",
+     "note": "Canaux conducteurs de chakra et premières lignes d’or.",
+     "at": 1
+    }
+   },
+   "fonctions": {},
+   "updatedAt": 0
+  },
+  "tabous": {
+   "franchis": {
+    "conscience": {
+     "note": "Matrice de Noèse. Prix : bras gauche.",
+     "at": 1
+    }
+   },
+   "notes": {},
+   "updatedAt": 0
+  },
+  "settings": {
+   "hand": true,
+   "showAuto": true,
+   "epoque": "apres",
+   "settingsAt": 0
+  },
+  "meta": {
+   "created": 1794342825065,
+   "dernierNumero": 4
+  }
+ }
+}

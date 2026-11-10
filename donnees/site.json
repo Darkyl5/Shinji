@@ -1,0 +1,10 @@
+{
+ "format": "archives-composition-site",
+ "version": 1,
+ "revision": 1,
+ "updatedAt": "2026-11-10T20:33:47.144Z",
+ "files": {
+  "archives": "archives.json"
+ },
+ "images": {}
+}

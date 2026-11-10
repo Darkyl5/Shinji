@@ -1,0 +1,79 @@
+LES ARCHIVES DE LA COMPOSITION — Institut expérimental de Shinji Sabaku
+========================================================================
+
+Ce dossier est le site complet, prêt à être mis en ligne (GitHub Pages, Netlify…).
+
+  index.html                        le site (ne contient aucune donnée)
+  donnees/site.json                 le sommaire : format, numéro de mise à jour, images
+  donnees/archives.json             toutes les archives (dossiers, matériaux, matrices, carnet…)
+  donnees/images/                   une image par fichier
+  donnees/supabase.exemple.json     modèle de configuration de la base en ligne (voir plus bas)
+  tools/sauvegarde-supabase.mjs     copie de secours Supabase → donnees/ (lancé par le workflow)
+  .github/workflows/sauvegarde-supabase.yml   le workflow GitHub Actions (tous les jours à 03h17 UTC)
+  LISEZMOI.txt                      ce mode d'emploi
+
+MISE EN LIGNE
+  Dépose tout le dossier tel quel. Les visiteurs voient les archives en lecture seule.
+
+DEUX FAÇONS DE METTRE LES ARCHIVES À JOUR
+
+  A) Par fichiers (sans base) : ouvre le site avec ?auteur à la fin de l'adresse
+     (ex. https://…/index.html?auteur) : tout devient modifiable et s'enregistre dans ce
+     navigateur. Pour que les visiteurs voient tes changements :
+     - Sauvegarde → « Télécharger les données (.zip) », puis remplace le dossier donnees/ en ligne ;
+     - ou Sauvegarde → « Relier un dépôt GitHub » (jeton fine-grained limité à ce dépôt, permission
+       Contents : Read and write) : « Publier sur GitHub » écrit les fichiers en un seul commit.
+     ?visiteur dans l'adresse remet la lecture seule.
+
+  B) Par base en ligne (Supabase) : tes changements partent tout seuls, les visiteurs les voient
+     à leur prochaine visite (ils relisent la base toutes les minutes). Plus de zip, plus de commit.
+
+     1. Sur supabase.com : New project (région EU). Dans Settings → API Keys, note l'URL du projet
+        (https://xxxx.supabase.co) et la clé « publishable » (sb_publishable_…). Cette clé est faite
+        pour être dans un site public ; la clé sb_secret_ ne doit JAMAIS y être.
+     2. Authentication → Users → Add user : ton e-mail + un mot de passe (coche « auto confirm »).
+        Copie l'UUID de l'utilisateur. Puis Authentication → Sign In / Providers : décoche
+        « Allow new users to sign up ».
+     3. SQL Editor → colle et lance (remplace TON-UUID par l'UUID de l'étape 2) :
+
+        create table public.archives (
+          id text primary key,
+          data jsonb not null,
+          images jsonb not null default '{}',
+          revision integer not null default 1,
+          updated_at timestamptz not null default now()
+        );
+        insert into public.archives (id, data) values ('shinji', '{}');
+        alter table public.archives enable row level security;
+        create policy "lecture publique" on public.archives
+          for select to anon, authenticated using (true);
+        create policy "ecriture auteur" on public.archives
+          for update to authenticated
+          using (auth.uid() = 'TON-UUID') with check (auth.uid() = 'TON-UUID');
+
+        (Si la table existait déjà sans la colonne images :
+         alter table public.archives add column images jsonb not null default '{}';)
+
+     4. Storage → New bucket : nom « images », coché Public. Puis dans le SQL Editor :
+
+        create policy "images lecture" on storage.objects
+          for select to anon, authenticated using (bucket_id = 'images');
+        create policy "images auteur" on storage.objects
+          for all to authenticated
+          using (bucket_id = 'images' and auth.uid() = 'TON-UUID')
+          with check (bucket_id = 'images' and auth.uid() = 'TON-UUID');
+
+     5. Dans le dépôt : copie donnees/supabase.exemple.json en donnees/supabase.json et mets
+        l'URL et la clé publishable dedans. C'est le seul commit nécessaire.
+     6. Sur le site : Sauvegarde → « Se connecter » (e-mail + mot de passe de l'étape 2).
+        La session reste dans ce navigateur ; sur un autre appareil, reconnecte-toi.
+
+     Copie de secours : le workflow .github/workflows/sauvegarde-supabase.yml relit la base chaque nuit
+     et met donnees/archives.json et donnees/site.json à jour dans le dépôt (bouton « Run workflow »
+     dans l'onglet Actions pour le lancer à la main). Si la base ne répond pas (projet gratuit mis en
+     pause après 7 jours sans activité : « Resume project » dans le tableau de bord), le site affiche
+     cette copie, en lecture seule.
+
+CORRIGER À LA MAIN
+  Les fichiers JSON se modifient dans n'importe quel éditeur de texte ; une erreur de syntaxe est
+  signalée dans le site sans l'empêcher de s'ouvrir.
