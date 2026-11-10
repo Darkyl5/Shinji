@@ -2,7 +2,7 @@
  "format": "archives-composition",
  "version": 1,
  "app": "Les Archives de la Composition",
- "exportedAt": "2026-11-10T21:41:56.819Z",
+ "exportedAt": "2026-11-10T21:47:41.780Z",
  "data": {
   "v": 1,
   "recherches": [
@@ -1134,7 +1134,7 @@
    {
     "id": "e_mwb7mdppcbrry",
     "titre": "PAGE 001 — La naissance du Kōseijutsu",
-    "dateRP": "",
+    "dateRP": "10/11/2026",
     "lieu": "Bureau de Shinji",
     "humeur": "obsede",
     "personnages": [
@@ -1166,7 +1166,40 @@
     "important": false,
     "liens": [],
     "createdAt": 1794346574317,
-    "updatedAt": 1794346753119
+    "updatedAt": 1794347176775
+   },
+   {
+    "id": "e_mwb7zj4iidbi6",
+    "titre": "Les composants de la matière",
+    "dateRP": "07/11/2026",
+    "lieu": "Forge",
+    "humeur": "affame",
+    "personnages": [],
+    "categorie": "kosei",
+    "tags": [],
+    "texte": "# PAGE 002 — Les composants de la matière\n\n\n## Origine de la recherche\n\nMa première transmutation a fonctionné.\n\nEnfin…\n\ntechniquement.\n\nLe bloc de grès est bien devenu une plaque.\n\nLe problème, c'est que la plaque s'est brisée presque immédiatement.\n\nJ'avais correctement conservé la matière.\n\nJ'avais correctement modifié sa forme.\n\nEt pourtant le résultat était mauvais.\n\nDonc il manquait quelque chose dans mon raisonnement.\n\nJ'ai longtemps pensé que connaître **la quantité de matière** suffisait.\n\nC'était faux.\n\nDeux objets peuvent avoir exactement la même masse et pourtant posséder des comportements complètement différents.\n\nLa véritable question est donc devenue :\n\n> **De quoi la matière est-elle réellement composée ?**\n\n---\n\n# Première conclusion\n\nUne roche n'est presque jamais simplement :\n\n> « une roche ».\n\nElle peut contenir plusieurs minéraux.\n\nDu sable n'est pas simplement :\n\n> « du sable ».\n\nIl peut contenir :\n\n- quartz ;\n- feldspaths ;\n- oxydes de fer ;\n- mica ;\n- argile ;\n- fragments métalliques ;\n- autres minéraux.\n\nCela signifie qu'une transmutation ne dépend pas seulement de :\n\n### la quantité de matière\n\nmais également de :\n\n### sa composition.\n\n---\n\n# Principe de Composition\n\nJe commence donc à considérer chaque matériau selon trois paramètres principaux :\n\n# 1 — COMPOSITION\n\nQuels éléments et minéraux constituent la matière ?\n\n---\n\n# 2 — STRUCTURE\n\nComment ces composants sont-ils organisés ?\n\nCristaux ?\n\nGrains ?\n\nCouches ?\n\nMatrice compacte ?\n\nStructure poreuse ?\n\n---\n\n# 3 — PROPRIÉTÉS\n\nComment le matériau se comporte-t-il ?\n\n- dureté ;\n- résistance ;\n- conductivité ;\n- densité ;\n- réaction au chakra ;\n- comportement sous pression ;\n- comportement sous chaleur.\n\n---\n\n# Première règle\n\nDeux matériaux peuvent avoir :\n\n**la même masse**\n\nmais ne pas être :\n\n**équivalents pour une même transmutation.**\n\nExemple :\n\nun kilogramme de sable ne peut pas forcément remplacer un kilogramme de quartz pur.\n\nMême si les deux contiennent principalement de la silice.\n\nLa quantité est similaire.\n\nLa structure et les impuretés ne le sont pas.\n\n---\n\n# Catalogue initial des matériaux\n\nJ'ai commencé à répertorier les matériaux que je rencontre le plus souvent.\n\nLes valeurs sont encore **provisoires**.\n\nElles devront être corrigées au fil des expériences.\n\n---\n\n# 01 — SABLE STANDARD\n\n### Composition observée\n\nPrincipalement :\n\n- silice / quartz ;\n- petites quantités d'aluminosilicates ;\n- oxydes métalliques ;\n- traces diverses.\n\n### Structure\n\nPetits grains indépendants.\n\nGranulométrie irrégulière.\n\nStructure naturellement mobile.\n\n### Avantages\n\n- extrêmement disponible ;\n- facile à déplacer ;\n- facile à répartir ;\n- excellent pour les transformations de formes simples.\n\n### Inconvénients\n\n- faible cohésion naturelle ;\n- beaucoup d'impuretés ;\n- résistance médiocre sans compression.\n\n### Utilisations potentielles\n\n- murs temporaires ;\n- rampes ;\n- plateformes ;\n- structures simples ;\n- matière d'entraînement.\n\n### Conclusion\n\n> **Excellent matériau pour apprendre. Mauvais matériau pour faire quelque chose qui doit durer.**\n\n---\n\n# 02 — SABLE D'OR\n\nLe sable d'or est beaucoup plus intéressant.\n\nEt beaucoup plus compliqué.\n\n### Composition\n\nMélange contenant notamment :\n\n- particules d'or ;\n- silice ;\n- traces de minéraux ferrugineux ;\n- autres composants selon l'origine.\n\n### Particularité\n\nSa conductivité du chakra semble meilleure que celle du sable ordinaire.\n\nIl est également :\n\n- plus dense ;\n- plus lourd ;\n- plus stable ;\n- plus difficile à déplacer rapidement.\n\n### Utilisations potentielles\n\n- lignes de Matrices ;\n- conducteurs de chakra ;\n- pièces de précision ;\n- ancrages ;\n- structures renforcées.\n\n### Problème\n\nIl serait stupide d'utiliser du sable d'or pour absolument tout.\n\nIl est rare.\n\nEt beaucoup trop utile.\n\n### Conclusion\n\n> **Un matériau précieux ne doit pas être utilisé simplement parce qu'il est précieux. Il doit être utilisé là où ses propriétés sont réellement nécessaires.**\n\n---\n\n# 03 — QUARTZ\n\n### Formule\n\n**SiO₂**\n\nDioxyde de silicium.\n\n### Structure\n\nCristalline.\n\nBeaucoup plus organisée que celle du sable ordinaire.\n\n### Observation\n\nLe quartz semble particulièrement intéressant pour les Matrices nécessitant :\n\n- précision ;\n- stabilité ;\n- circulation contrôlée du chakra.\n\n### Problème\n\nTrès rigide.\n\nPeut se fracturer brutalement.\n\n### Utilisations envisagées\n\n- composants de Matrices ;\n- instruments ;\n- dispositifs de mesure ;\n- supports expérimentaux.\n\n### Nouvelle question\n\n> **La structure cristalline influence-t-elle directement la manière dont le chakra traverse un matériau ?**\n\nÀ tester.\n\n---\n\n# 04 — ARGILE\n\nL'argile est étrange.\n\nElle est extrêmement différente lorsqu'elle est :\n\n**sèche**\n\nou\n\n**humide**.\n\n### Propriétés intéressantes\n\n- très malléable ;\n- bonne cohésion ;\n- peut prendre des formes complexes ;\n- facile à travailler.\n\n### Utilisation potentielle\n\nL'argile pourrait être excellente pour fabriquer :\n\n- prototypes de Matrices ;\n- moules ;\n- formes expérimentales ;\n- supports temporaires.\n\n### Problème\n\nSa résistance est faible sans traitement.\n\n### Conclusion\n\n> **Probablement l'un des meilleurs matériaux pour tester une idée avant de gaspiller du métal.**\n\nTrès bonne nouvelle pour ma réserve de minerais.\n\n---\n\n# 05 — ROCHE FERRUGINEUSE\n\nCertaines roches du désert contiennent une importante quantité de composés du fer.\n\n### Particularités\n\n- densité élevée ;\n- résistance importante ;\n- comportement différent au magnétisme ;\n- potentiel intéressant pour les structures.\n\n### Intérêt\n\nCes roches pourraient servir à :\n\n- renforcer certaines constructions ;\n- fabriquer des composants lourds ;\n- produire du fer après traitement ;\n- étudier les matériaux composites.\n\n### Nouvelle piste\n\nSi je peux séparer correctement :\n\n**la roche**\n\nde\n\n**ses composants ferrugineux**\n\nalors le Kōseijutsu pourrait éventuellement permettre une forme de :\n\n# purification minérale.\n\n---\n\n# 06 — CUIVRE\n\nLe cuivre pourrait devenir extrêmement important.\n\nPas nécessairement pour les structures.\n\nMais pour :\n\n# le chakra.\n\n### Observation\n\nLe cuivre conduit extrêmement bien certaines formes d'énergie.\n\nIl semble également intéressant pour organiser la circulation du chakra dans un dispositif.\n\n### Applications potentielles\n\n- circuits de Matrices ;\n- outils scientifiques ;\n- mécanismes ;\n- bras mécanique ;\n- dispositifs de mesure ;\n- réseaux de Fûinjutsu.\n\n### Limite\n\nLe cuivre pur est relativement tendre.\n\nIl faudra probablement utiliser :\n\n**des alliages.**\n\n---\n\n# Première comparaison\n\nPour éviter de choisir un matériau simplement parce qu'il « semble meilleur », j'ai commencé à les comparer selon trois critères.\n\n### STABILITÉ\n\nCapacité à conserver sa structure.\n\n### CONDUCTIVITÉ\n\nFacilité avec laquelle le chakra peut circuler.\n\n### RÉSISTANCE\n\nCapacité à supporter des contraintes physiques.\n\n---\n\n## Classement provisoire\n\n### Sable standard\n\nStabilité : moyenne  \nConductivité : faible  \nRésistance : moyenne-faible\n\n---\n\n### Sable d'or\n\nStabilité : bonne  \nConductivité : excellente  \nRésistance : bonne\n\n---\n\n### Quartz\n\nStabilité : excellente  \nConductivité : bonne  \nRésistance : bonne mais fragile aux fractures.\n\n---\n\n### Argile\n\nStabilité : bonne lorsqu'elle est correctement préparée  \nConductivité : faible  \nRésistance : moyenne\n\n---\n\n### Roche ferrugineuse\n\nStabilité : excellente  \nConductivité : moyenne  \nRésistance : excellente\n\n---\n\n### Cuivre\n\nStabilité : bonne  \nConductivité : excellente  \nRésistance : bonne selon l'alliage.\n\n---\n\n# Découverte importante\n\nJe pensais qu'il existait probablement un :\n\n> **« meilleur matériau ».**\n\nC'était stupide.\n\nIl existe seulement :\n\n> **le meilleur matériau pour une fonction donnée.**\n\nUn matériau excellent conducteur peut être mauvais pour soutenir une structure.\n\nUn matériau extrêmement résistant peut être mauvais pour transporter du chakra.\n\nUn matériau fragile peut malgré tout être parfait pour une Matrice de précision.\n\n---\n\n# Conséquence sur le Kōseijutsu\n\nUne transmutation réussie ne dépend donc pas simplement de :\n\n### MATIÈRE + CHAKRA.\n\nElle dépend de :\n\n# COMPOSITION\n+\n# STRUCTURE\n+\n# PROPRIÉTÉS\n+\n# CHAKRA\n+\n# MATRICE\n\n↓\n\n# TRANSMUTATION\n\n---\n\n# Première idée de matériaux composites\n\nUne autre question apparaît.\n\nPourquoi utiliser un seul matériau ?\n\nUne structure pourrait combiner :\n\n### cuivre\n\npour conduire le chakra,\n\n### quartz\n\npour maintenir une circulation précise,\n\n### roche ferrugineuse\n\npour assurer la résistance,\n\net éventuellement :\n",
+    "facettes": {
+     "evenement": "",
+     "reflexion": "",
+     "peur": "",
+     "ambition": "",
+     "relation": "",
+     "decouverte": ""
+    },
+    "images": [
+     {
+      "id": "img_mwb80pp439cj0",
+      "caption": "",
+      "kind": "croquis",
+      "rot": 0.8
+     }
+    ],
+    "marge": [],
+    "epoque": "apres",
+    "important": false,
+    "liens": [],
+    "createdAt": 1794347187858,
+    "updatedAt": 1794347244885
    }
   ],
   "inventions": [

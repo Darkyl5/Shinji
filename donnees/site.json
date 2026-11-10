@@ -1,12 +1,13 @@
 {
  "format": "archives-composition-site",
  "version": 1,
- "revision": 2,
- "updatedAt": "2026-11-10T21:41:56.819Z",
+ "revision": 3,
+ "updatedAt": "2026-11-10T21:47:41.780Z",
  "files": {
   "archives": "archives.json"
  },
  "images": {
-  "img_mwb7nts3eo968": "images/img_mwb7nts3eo968.jpg"
+  "img_mwb7nts3eo968": "images/img_mwb7nts3eo968.jpg",
+  "img_mwb80pp439cj0": "images/img_mwb80pp439cj0.jpg"
  }
 }
