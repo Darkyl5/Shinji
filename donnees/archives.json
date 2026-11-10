@@ -2,7 +2,7 @@
  "format": "archives-composition",
  "version": 1,
  "app": "Les Archives de la Composition",
- "exportedAt": "2026-11-10T20:33:47.144Z",
+ "exportedAt": "2026-11-10T21:41:56.819Z",
  "data": {
   "v": 1,
   "recherches": [
@@ -1029,75 +1029,6 @@
   ],
   "entrees": [
    {
-    "id": "e-01",
-    "titre": "Pourquoi le sable",
-    "dateRP": "",
-    "lieu": "Dunes, au sud du village",
-    "humeur": "curieux",
-    "personnages": [],
-    "categorie": "geologie",
-    "tags": [
-     "sable",
-     "début"
-    ],
-    "texte": "Tout le monde ici marche sur du sable sans le regarder. Moi je l’ai regardé. De près. Avec la loupe de l’atelier.\n\nCe n’est pas « du sable ». C’est des milliards de petits cailloux, presque tous du quartz, qui ne tiennent à rien. Ils coulent entre les doigts parce que rien ne les lie. Le grès, c’est la même chose, mais quelqu’un (le temps) a mis de la colle.\n\nQuestion du jour : si la colle est la seule différence, est‑ce que je peux la mettre moi‑même ?",
-    "facettes": {
-     "evenement": "",
-     "reflexion": "Je crois que je viens de choisir mon sujet pour les dix prochaines années. Ou pour la semaine. On verra.",
-     "peur": "",
-     "ambition": "",
-     "relation": "",
-     "decouverte": ""
-    },
-    "images": [],
-    "marge": [
-     {
-      "id": "e-01-n1",
-      "text": "acheter une meilleure loupe",
-      "x": 62,
-      "y": 18,
-      "rot": -4,
-      "ink": "crayon"
-     }
-    ],
-    "epoque": "avant",
-    "important": false,
-    "liens": [],
-    "createdAt": 76,
-    "updatedAt": 0
-   },
-   {
-    "id": "e-02",
-    "titre": "Kōseijutsu — la règle du jeu",
-    "dateRP": "",
-    "lieu": "",
-    "humeur": "excite",
-    "personnages": [],
-    "categorie": "kosei",
-    "tags": [
-     "principe",
-     "kōseijutsu"
-    ],
-    "texte": "Je lui ai trouvé un nom : Kōseijutsu, l’Art de la Composition. Comprendre une matière, puis la modifier avec du chakra et une matrice.\n\nTrois temps. LECTURE (qu’est‑ce que c’est, vraiment). DÉCOMPOSITION (défaire, un moment, pour avoir les composants sous la main). RECOMPOSITION (remettre, mais dans l’ordre que la matrice décide).\n\nEt une règle que je me répète : on ne peut recomposer correctement que ce que l’on comprend. Donc d’abord comprendre. Donc étudier. Donc, oui, travailler. (Je sais.)",
-    "facettes": {
-     "evenement": "",
-     "reflexion": "",
-     "peur": "",
-     "ambition": "Un jour, un mur entier. Pour l’instant : un tas de sable.",
-     "relation": "",
-     "decouverte": ""
-    },
-    "images": [],
-    "marge": [],
-    "epoque": "avant",
-    "important": false,
-    "liens": [
-     "t:t-kosei"
-    ],
-    "createdAt": 77,
-    "updatedAt": 0
-   },
-   {
     "id": "e-03",
     "titre": "Compression I — ça marche (un peu)",
     "dateRP": "",
@@ -1170,36 +1101,6 @@
     "updatedAt": 0
    },
    {
-    "id": "e-05",
-    "titre": "Les MJ ont dit oui",
-    "dateRP": "",
-    "lieu": "",
-    "humeur": "excite",
-    "personnages": [],
-    "categorie": "recherche",
-    "tags": [
-     "validation"
-    ],
-    "texte": "Le principe est accepté. Avec des conditions, et elles sont justes : connaître les matériaux avant, jouer réellement leur étude, des matrices longues au début, des résultats modestes, un suivi clair, et un nouveau dossier pour chaque application complexe.\n\nNiveau autorisé : applications simples, recherches initiales. C’est exactement là où j’en suis. Pour une fois, le monde et moi sommes d’accord.",
-    "facettes": {
-     "evenement": "",
-     "reflexion": "",
-     "peur": "",
-     "ambition": "",
-     "relation": "Je dois ce dossier à ceux qui m’ont forcé à écrire proprement.",
-     "decouverte": ""
-    },
-    "images": [],
-    "marge": [],
-    "epoque": "avant",
-    "important": false,
-    "liens": [
-     "j:j-fondatrice"
-    ],
-    "createdAt": 80,
-    "updatedAt": 0
-   },
-   {
     "id": "e-06",
     "titre": "Matrice de Noèse",
     "dateRP": "",
@@ -1231,48 +1132,19 @@
     "updatedAt": 0
    },
    {
-    "id": "e-07",
-    "titre": "Ce qui a changé",
+    "id": "e_mwb7mdppcbrry",
+    "titre": "PAGE 001 — La naissance du Kōseijutsu",
     "dateRP": "",
-    "lieu": "",
-    "humeur": "methodique",
-    "personnages": [],
-    "categorie": "vie",
+    "lieu": "Bureau de Shinji",
+    "humeur": "obsede",
+    "personnages": [
+     "c-shinji"
+    ],
+    "categorie": "kosei",
     "tags": [
-     "personnel"
+     "début"
     ],
-    "texte": "Inventaire, sans adjectifs.\n\nAvant : curieux, spontané, paresseux, amusé, insouciant. Après : froid, silencieux, méthodique. Obsessionnel, dit‑on. Perfectionniste. Distant. Contrôlé. Incapable, ou presque, de supporter une hypothèse non vérifiée.\n\nCertains souvenirs manquent. Certaines connexions entre des gens et moi ne renvoient plus rien quand je les cherche. Je note ce fait comme les autres.\n\nLa curiosité est toujours là. Elle n’est plus joyeuse. Elle ressemble à une faim.\n\n« Devrait » est le mot qui m’a coûté un bras.",
-    "facettes": {
-     "evenement": "",
-     "reflexion": "",
-     "peur": "Que le prochain mot soit « sûrement ».",
-     "ambition": "",
-     "relation": "",
-     "decouverte": ""
-    },
-    "images": [],
-    "marge": [],
-    "epoque": "apres",
-    "important": false,
-    "liens": [
-     "t:t-consequences"
-    ],
-    "createdAt": 82,
-    "updatedAt": 0
-   },
-   {
-    "id": "e-08",
-    "titre": "Reprise — protocole",
-    "dateRP": "",
-    "lieu": "Laboratoire des Dunes",
-    "humeur": "determine",
-    "personnages": [],
-    "categorie": "recherche",
-    "tags": [
-     "protocole",
-     "bras"
-    ],
-    "texte": "Règles de reprise.\n\n1. Aucune matrice dont la recomposition n’est pas comprise avant le tracé.\n2. Anneaux de dissipation sur toute matrice au‑dessus de la difficulté 2.\n3. Chaque expérience : question, hypothèse, protocole, observations, erreurs. Dans cet ordre. Sans exception.\n4. Le vivant : observation seulement.\n5. Kōsei no Ude, V0 : prothèse simple. V1 (conduction) en préparation. Rien d’autre tant que V1 n’est pas stable.\n\nProchain dossier : la couche de sable stabilisé.",
+    "texte": "Origine de la recherche\n\nAu départ, je ne cherchais pas à inventer une nouvelle discipline.\n\nJe voulais simplement comprendre pourquoi les mêmes matériaux pouvaient devenir des choses complètement différentes.\n\nUne pierre peut devenir un mur.\n\nUn minerai peut devenir une lame.\n\nDu sable peut devenir du verre.\n\nUn métal peut être fondu, mélangé, durci puis entièrement remodelé.\n\nLa matière change constamment.\n\nMais elle ne disparaît pas.\n\nElle prend simplement une autre forme.\n\nC'est en étudiant simultanément la géologie, la forge et le Fûinjutsu que j'ai commencé à me poser une question différente :\n\nSi une matière peut être transformée mécaniquement par la chaleur et la pression… le chakra pourrait-il provoquer directement la même réorganisation ?\n\nPremière intuition\n\nLe Fûinjutsu m'avait déjà appris quelque chose d'important :\n\nle chakra peut suivre une instruction.\n\nUne formule indique :\n\noù le chakra doit circuler ;\n\ndans quelles conditions ;\n\navec quelle fonction ;\n\net jusqu'où son effet doit s'étendre.\n\nAlors pourquoi limiter ces instructions aux sceaux ?\n\nPourquoi ne pas donner directement une instruction à la matière ?\n\nÀ partir de cette question est née l'idée du :\n\nKŌSEIJUTSU — ART DE LA COMPOSITION\n\nPourquoi cette discipline m'intéresse autant\n\nJe crois que ce qui m'intéresse le plus n'est même pas la transformation elle-même.\n\nC'est ce qu'elle oblige à comprendre.\n\nPour transformer correctement une pierre, il faut connaître la pierre.\n\nPour travailler un métal, il faut comprendre le métal.\n\nPour séparer un minerai, il faut savoir ce qu'il contient.\n\nUne transformation réussie devient donc presque une preuve :\n\nsi j'arrive à modifier correctement quelque chose, c'est que j'ai commencé à comprendre comment cette chose existe.\n\nEt ça…\n\nc'est beaucoup plus intéressant que simplement fabriquer une arme.\n\nChaque roche devient une question.\n\nChaque minerai devient une expérience.\n\nChaque objet cassé devient une occasion de comprendre pourquoi il a cassé.\n\nLe principe fondamental\n\nAprès plusieurs essais, j'ai réduit le fonctionnement du Kōseijutsu à trois opérations.\n\n1 — COMPRÉHENSION\n\nAvant toute transformation, il faut comprendre la matière utilisée.\n\nIl faut connaître autant que possible :\n\nsa composition ;\n\nsa quantité ;\n\nsa structure ;\n\nses propriétés ;\n\nses différents composants.\n\nLe chakra ne remplace pas les connaissances.\n\nToucher une pierre ne me permet pas de connaître miraculeusement tout ce qu'elle contient.\n\nJe dois d'abord l'étudier.\n\n2 — DÉCOMPOSITION\n\nUne fois la matière comprise, une Matrice de Kōsei guide le chakra dans sa structure.\n\nLe but est de rompre temporairement son organisation.\n\nLa matière n'est pas détruite.\n\nElle est simplement rendue disponible pour être réorganisée.\n\nExemple\n\nUn bloc de pierre possède une structure donnée.\n\nLa Décomposition permet de rompre cette organisation sans faire disparaître les composants du bloc.\n\n3 — RECOMPOSITION\n\nLes composants disponibles sont ensuite organisés selon une nouvelle structure.\n\nPar exemple :\n\nBloc de pierre\n\n↓\n\nDécomposition\n\n↓\n\nMême matière disponible\n\n↓\n\nRecomposition\n\n↓\n\nPlaque de pierre\n\nLa matière change de forme.\n\nMais elle reste fondamentalement constituée des mêmes composants.\n\nPremière grande loi\n\nCette expérience m'a permis de comprendre la règle la plus importante du Kōseijutsu.\n\nLOI D'ÉQUIVALENCE\n\nRien ne vient de rien.\n\nUne transformation nécessite une quantité de matière suffisante.\n\nUne petite pierre ne peut pas devenir un énorme mur.\n\nSi je possède dix kilogrammes de matière, je ne peux pas obtenir cent kilogrammes simplement parce que ma Matrice est meilleure.\n\nLa forme peut changer.\n\nLa répartition peut changer.\n\nLa structure peut changer.\n\nMais la matière nécessaire doit exister.\n\nÉquivalence de composition\n\nLa masse n'est pas la seule limite.\n\nLes composants doivent également être disponibles.\n\nJe ne peux pas prendre une pierre quelconque et décider qu'elle devient de l'or.\n\nSi les composants nécessaires ne sont pas présents :\n\nla transformation est impossible.\n\nCela signifie que deux éléments déterminent ce que je peux fabriquer :\n\nCe que j'ai.\n\net\n\nCe que je comprends.\n\nLe rôle du chakra\n\nLe chakra n'est pas la matière utilisée pour fabriquer le résultat.\n\nIl représente l'énergie qui permet la transformation.\n\nJe peux donc résumer le système ainsi :\n\nMATIÈRE\n\nCe qui sera transformé.\n\nMATRICE\n\nL'instruction.\n\nCHAKRA\n\nL'énergie.\n\nCONNAISSANCE\n\nCe qui rend l'opération possible.\n\nLes Matrices de Kōsei\n\nMes premiers essais utilisent des structures dérivées du Fûinjutsu.\n\nJe les appelle :\n\nMatrices de Kōsei\n\nUne Matrice définit :\n\nla matière concernée ;\n\nla zone affectée ;\n\nla circulation du chakra ;\n\nle type de Décomposition ;\n\nla structure recherchée lors de la Recomposition.\n\nPour l'instant, elles doivent être préparées avant utilisation.\n\nChaque nouvelle transformation demande donc :\n\nétude → calcul → dessin → test → correction.\n\nPremière Matrice\n\nNom provisoire :\n\nMatrice Fondamentale d'Équivalence\n\nIl s'agit de la structure la plus simple que j'utilise actuellement.\n\nElle ne possède aucune spécialisation particulière.\n\nSon seul objectif est d'effectuer une transformation basique en respectant :\n\nCompréhension\n\n↓\n\nDécomposition\n\n↓\n\nRecomposition\n\n↓\n\nÉquivalence\n\nToutes les futures Matrices devraient probablement dériver de cette structure.\n\nPremière expérience concluante\n\nMatériau\n\nGrès étudié provenant du désert.\n\nObjectif\n\nTransformer un petit bloc irrégulier en plaque rectangulaire.\n\nRésultat\n\nTransformation réussie.\n\nLa masse finale est presque identique à la masse initiale.\n\nUne petite quantité de matière a été perdue sous forme de fragments et de poussière.\n\nObservation importante\n\nLa forme était correcte.\n\nLa résistance…\n\nbeaucoup moins.\n\nLa plaque s'est cassée lorsque j'ai essayé de la soulever.\n\nConclusion\n\nConnaître la composition ne suffit pas.\n\nIl faut également comprendre la structure que l'on cherche à créer.\n\nNouvelle recherche nécessaire :\n\nrésistance mécanique des matériaux.\n\nCe que je comprends actuellement\n\nLe Kōseijutsu semble fonctionner selon cette chaîne :\n\nMATIÈRE DISPONIBLE\n\n↓\n\nCOMPRÉHENSION\n\n↓\n\nMATRICE DE KŌSEI\n\n↓\n\nCHAKRA\n\n↓\n\nDÉCOMPOSITION\n\n↓\n\nRECOMPOSITION\n\n↓\n\nNOUVELLE STRUCTURE\n\nSi l'une de ces étapes est incorrecte :\n\nla transformation peut échouer.\n\nPremière limite\n\nJe n'utiliserai pour l'instant le Kōseijutsu que sur des matières simples que j'ai réellement étudiées.\n\nAutorisées pour les expériences\n\nsable ;\n\ngrès ;\n\nargile ;\n\nquartz étudié ;\n\nminerais simples identifiés.\n\nÀ éviter\n\nalliages inconnus ;\n\nartefacts anciens ;\n\nmatériaux chakra-réactifs inconnus ;\n\nstructures complexes ;\n\nmatière vivante.\n\nJe ne sais absolument pas ce qui arriverait si j'essayais.\n\nCe qui est généralement une excellente raison de ne pas essayer.\n\nNouvelle passion\n\nJe pensais que la géologie m'intéressait parce qu'elle permettait de trouver des minerais.\n\nJe pensais que la forge m'intéressait parce qu'elle permettait de fabriquer des choses.\n\nJe pensais que le Fûinjutsu m'intéressait parce qu'il permettait d'imposer des règles au chakra.\n\nEn réalité…\n\nles trois semblent poser exactement la même question :\n\n« De quoi les choses sont-elles faites, et pourquoi se comportent-elles ainsi ? »\n\nLe Kōseijutsu pourrait être la discipline qui relie toutes ces questions.\n\nObjectif actuel\n\nPour le moment, je ne cherche pas à réaliser des transformations gigantesques.\n\nJe veux comprendre les règles.\n\nPriorités\n\nÉtudier davantage de matériaux.\n\nComprendre la conservation de la matière.\n\nAméliorer la Matrice Fondamentale.\n\nMesurer le coût en chakra.\n\nComprendre pourquoi certaines recompositions sont plus stables que d'autres.\n\nDévelopper des Matrices spécialisées.\n\nNoter absolument tous les échecs.\n\nNote personnelle\n\nJe crois que je viens de trouver quelque chose qui pourrait m'occuper pendant très longtemps.\n\nC'est embêtant.\n\nJ'avais prévu de dormir davantage.\n\nConclusion\n\nLe Kōseijutsu ne consiste pas à demander à la matière de devenir ce que je veux.\n\nIl consiste d'abord à comprendre ce qu'elle est, puis à déterminer ce qu'elle peut devenir.\n\nPremière règle de mon carnet d'alchimie :\n\nCOMPRENDRE. DÉCOMPOSER. RECOMPOSER.\n\nEt surtout :\n\nne jamais croire que vouloir une transformation suffit à la rendre possible.",
     "facettes": {
      "evenement": "",
      "reflexion": "",
@@ -1281,16 +1153,20 @@
      "relation": "",
      "decouverte": ""
     },
-    "images": [],
+    "images": [
+     {
+      "id": "img_mwb7nts3eo968",
+      "caption": "",
+      "kind": "croquis",
+      "rot": -0.6
+     }
+    ],
     "marge": [],
     "epoque": "apres",
     "important": false,
-    "liens": [
-     "q:q-bras",
-     "q:q-sable-stabilise"
-    ],
-    "createdAt": 83,
-    "updatedAt": 0
+    "liens": [],
+    "createdAt": 1794346574317,
+    "updatedAt": 1794346753119
    }
   ],
   "inventions": [
@@ -1494,8 +1370,6 @@
   "expeditions": [],
   "evenements": [
    {
-    "createdAt": 40,
-    "updatedAt": 0,
     "id": "v-01",
     "titre": "Début des recherches géologiques",
     "dateRP": "",
@@ -1503,11 +1377,11 @@
     "type": "recherche",
     "texte": "Roches, minerais, sable : avant de transformer quoi que ce soit, apprendre à reconnaître.",
     "liens": [],
+    "createdAt": 40,
+    "updatedAt": 0,
     "fixe": true
    },
    {
-    "createdAt": 41,
-    "updatedAt": 0,
     "id": "v-02",
     "titre": "Premières études sur le sable et le grès",
     "dateRP": "",
@@ -1518,11 +1392,11 @@
      "m:m-sable-suna",
      "m:m-gres-suna"
     ],
+    "createdAt": 41,
+    "updatedAt": 0,
     "fixe": true
    },
    {
-    "createdAt": 42,
-    "updatedAt": 0,
     "id": "v-03",
     "titre": "Compression I",
     "dateRP": "",
@@ -1532,11 +1406,11 @@
     "liens": [
      "r:r-03"
     ],
+    "createdAt": 42,
+    "updatedAt": 0,
     "fixe": true
    },
    {
-    "createdAt": 43,
-    "updatedAt": 0,
     "id": "v-04",
     "titre": "Liaison I",
     "dateRP": "",
@@ -1546,11 +1420,11 @@
     "liens": [
      "r:r-04"
     ],
+    "createdAt": 43,
+    "updatedAt": 0,
     "fixe": true
    },
    {
-    "createdAt": 44,
-    "updatedAt": 0,
     "id": "v-05",
     "titre": "Formalisation du Kōseijutsu",
     "dateRP": "",
@@ -1560,11 +1434,11 @@
     "liens": [
      "t:t-kosei"
     ],
+    "createdAt": 44,
+    "updatedAt": 0,
     "fixe": true
    },
    {
-    "createdAt": 45,
-    "updatedAt": 0,
     "id": "v-06",
     "titre": "Validation du principe par les MJ",
     "dateRP": "",
@@ -1574,11 +1448,11 @@
     "liens": [
      "j:j-fondatrice"
     ],
+    "createdAt": 45,
+    "updatedAt": 0,
     "fixe": true
    },
    {
-    "createdAt": 46,
-    "updatedAt": 0,
     "id": "v-07",
     "titre": "Matrice de Noèse",
     "dateRP": "",
@@ -1588,11 +1462,11 @@
     "liens": [
      "t:t-noese"
     ],
+    "createdAt": 46,
+    "updatedAt": 0,
     "fixe": true
    },
    {
-    "createdAt": 47,
-    "updatedAt": 0,
     "id": "v-08",
     "titre": "Accident",
     "dateRP": "",
@@ -1600,11 +1474,11 @@
     "type": "accident",
     "texte": "Lecture, puis décomposition de l’organisation mentale. Recomposition impossible à stabiliser. Retour de Résonance.",
     "liens": [],
+    "createdAt": 47,
+    "updatedAt": 0,
     "fixe": true
    },
    {
-    "createdAt": 48,
-    "updatedAt": 0,
     "id": "v-09",
     "titre": "Perte du bras gauche",
     "dateRP": "",
@@ -1612,11 +1486,11 @@
     "type": "accident",
     "texte": "Le bras, principal point d’injection de chakra, est détruit. Amputation.",
     "liens": [],
+    "createdAt": 48,
+    "updatedAt": 0,
     "fixe": true
    },
    {
-    "createdAt": 49,
-    "updatedAt": 0,
     "id": "v-10",
     "titre": "Changement de personnalité",
     "dateRP": "",
@@ -1626,11 +1500,11 @@
     "liens": [
      "t:t-consequences"
     ],
+    "createdAt": 49,
+    "updatedAt": 0,
     "fixe": true
    },
    {
-    "createdAt": 50,
-    "updatedAt": 0,
     "id": "v-11",
     "titre": "Création progressive du Bras de Composition",
     "dateRP": "",
@@ -1638,11 +1512,11 @@
     "type": "bras",
     "texte": "Kōsei no Ude. V0 : prothèse simple. Les versions suivantes viendront avec les recherches.",
     "liens": [],
+    "createdAt": 50,
+    "updatedAt": 0,
     "fixe": true
    },
    {
-    "createdAt": 51,
-    "updatedAt": 0,
     "id": "v-12",
     "titre": "Reprise des recherches avec protocole beaucoup plus strict",
     "dateRP": "",
@@ -1650,6 +1524,8 @@
     "type": "recherche",
     "texte": "« Devrait » est le mot qui m’a coûté un bras. Désormais, rien n’est admis sans vérification.",
     "liens": [],
+    "createdAt": 51,
+    "updatedAt": 0,
     "fixe": true
    }
   ],
@@ -2014,13 +1890,13 @@
   ],
   "personnages": [
    {
-    "createdAt": 75,
-    "updatedAt": 0,
     "id": "c-shinji",
     "nom": "Shinji Sabaku",
     "role": "Moi",
     "relation": "moi‑même",
     "notes": "Clan Sabaku, Sunagakure. Kōseijutsu, géologie, forge, Fûinjutsu. Bras gauche : Kōsei no Ude.",
+    "createdAt": 75,
+    "updatedAt": 0,
     "self": true
    }
   ],
@@ -2060,7 +1936,14 @@
   },
   "meta": {
    "created": 1794342825065,
-   "dernierNumero": 4
+   "dernierNumero": 4,
+   "tomb": {
+    "e:e-02": 1794346766502,
+    "e:e-01": 1794346772651,
+    "e:e-08": 1794346783888,
+    "e:e-07": 1794346786821,
+    "e:e-05": 1794346789914
+   }
   }
  }
 }
