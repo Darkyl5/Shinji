@@ -2,7 +2,7 @@
  "format": "archives-composition",
  "version": 1,
  "app": "Les Archives de la Composition",
- "exportedAt": "2026-11-12T09:49:02.423Z",
+ "exportedAt": "2026-11-12T10:01:45.093Z",
  "data": {
   "v": 1,
   "recherches": [
@@ -1001,30 +1001,6 @@
     "seuil": 60,
     "createdAt": 35,
     "updatedAt": 0
-   },
-   {
-    "id": "x-philosophale",
-    "nom": "Matrice Philosophale",
-    "type": "philosophale",
-    "description": "Utilise une Pierre Philosophale comme source énergétique. Classée très avancée / interdite sans validation.",
-    "difficulte": 5,
-    "materiaux": "Une Pierre Philosophale (sa création est un tabou absolu).",
-    "chakra": "Fourni par la Pierre — le prix a déjà été payé.",
-    "preparation": "Inconnue.",
-    "risques": "La Pierre fournit de l’énergie, pas la connaissance. Et chaque usage consomme ce qu’elle contient.",
-    "classification": "interdit",
-    "maitrise": "inconnue",
-    "diagramme": {
-     "anneaux": 4,
-     "symetrie": 7,
-     "noeuds": 14,
-     "motif": "complet",
-     "seed": 29
-    },
-    "notes": "Son étude n’existe que dans ANOMALIA.",
-    "seuil": 100,
-    "createdAt": 36,
-    "updatedAt": 0
    }
   ],
   "entrees": [
@@ -1239,6 +1215,614 @@
     "liens": [],
     "createdAt": 1794476103945,
     "updatedAt": 1794476709062
+   },
+   {
+    "id": "e_auto_matrice-1",
+    "titre": "Construction de matrice — séance 1",
+    "dateRP": "",
+    "lieu": "Laboratoire des Dunes",
+    "humeur": "frustre",
+    "personnages": [],
+    "categorie": "kosei",
+    "tags": [
+     "simulation",
+     "matrice"
+    ],
+    "texte": "Symétrie demandée : 4. Écart angulaire moyen : 17.9°. Stabilité estimée : 29 %.\nÀ ce niveau d’erreur, un Retour de Résonance serait probable. Ne pas tracer celle‑ci en vrai.",
+    "facettes": {
+     "evenement": "",
+     "reflexion": "",
+     "peur": "",
+     "ambition": "",
+     "relation": "",
+     "decouverte": ""
+    },
+    "images": [],
+    "marge": [],
+    "epoque": "avant",
+    "important": false,
+    "liens": [],
+    "createdAt": 1794477127659,
+    "updatedAt": 1794477127659,
+    "auto": {
+     "key": "matrice-1"
+    }
+   },
+   {
+    "id": "e_auto_matrice-2",
+    "titre": "Construction de matrice — séance 2",
+    "dateRP": "",
+    "lieu": "Laboratoire des Dunes",
+    "humeur": "frustre",
+    "personnages": [],
+    "categorie": "kosei",
+    "tags": [
+     "simulation",
+     "matrice"
+    ],
+    "texte": "Symétrie demandée : 6. Écart angulaire moyen : 21.3°. Stabilité estimée : 15 %.\nÀ ce niveau d’erreur, un Retour de Résonance serait probable. Ne pas tracer celle‑ci en vrai.",
+    "facettes": {
+     "evenement": "",
+     "reflexion": "",
+     "peur": "",
+     "ambition": "",
+     "relation": "",
+     "decouverte": ""
+    },
+    "images": [],
+    "marge": [],
+    "epoque": "avant",
+    "important": false,
+    "liens": [],
+    "createdAt": 1794477153225,
+    "updatedAt": 1794477153225,
+    "auto": {
+     "key": "matrice-2"
+    }
+   },
+   {
+    "id": "e_auto_matrice-3",
+    "titre": "Construction de matrice — séance 3",
+    "dateRP": "",
+    "lieu": "Laboratoire des Dunes",
+    "humeur": "methodique",
+    "personnages": [],
+    "categorie": "kosei",
+    "tags": [
+     "simulation",
+     "matrice"
+    ],
+    "texte": "Symétrie demandée : 4. Écart angulaire moyen : 0.8°. Stabilité estimée : 97 %.\nLes nœuds se répondent : le flux circulerait sans à‑coup.",
+    "facettes": {
+     "evenement": "",
+     "reflexion": "",
+     "peur": "",
+     "ambition": "",
+     "relation": "",
+     "decouverte": ""
+    },
+    "images": [],
+    "marge": [],
+    "epoque": "avant",
+    "important": false,
+    "liens": [],
+    "createdAt": 1794477176841,
+    "updatedAt": 1794477176841,
+    "auto": {
+     "key": "matrice-3"
+    }
+   },
+   {
+    "id": "e_auto_matrice-4",
+    "titre": "Construction de matrice — séance 4",
+    "dateRP": "",
+    "lieu": "Laboratoire des Dunes",
+    "humeur": "frustre",
+    "personnages": [],
+    "categorie": "kosei",
+    "tags": [
+     "simulation",
+     "matrice"
+    ],
+    "texte": "Symétrie demandée : 6. Écart angulaire moyen : 20.0°. Stabilité estimée : 20 %.\nÀ ce niveau d’erreur, un Retour de Résonance serait probable. Ne pas tracer celle‑ci en vrai.",
+    "facettes": {
+     "evenement": "",
+     "reflexion": "",
+     "peur": "",
+     "ambition": "",
+     "relation": "",
+     "decouverte": ""
+    },
+    "images": [],
+    "marge": [],
+    "epoque": "avant",
+    "important": false,
+    "liens": [],
+    "createdAt": 1794477200858,
+    "updatedAt": 1794477200858,
+    "auto": {
+     "key": "matrice-4"
+    }
+   },
+   {
+    "id": "e_auto_matrice-5",
+    "titre": "Construction de matrice — séance 5",
+    "dateRP": "",
+    "lieu": "Laboratoire des Dunes",
+    "humeur": "methodique",
+    "personnages": [],
+    "categorie": "kosei",
+    "tags": [
+     "simulation",
+     "matrice"
+    ],
+    "texte": "Symétrie demandée : 4. Écart angulaire moyen : 1.5°. Stabilité estimée : 94 %.\nLes nœuds se répondent : le flux circulerait sans à‑coup.",
+    "facettes": {
+     "evenement": "",
+     "reflexion": "",
+     "peur": "",
+     "ambition": "",
+     "relation": "",
+     "decouverte": ""
+    },
+    "images": [],
+    "marge": [],
+    "epoque": "avant",
+    "important": false,
+    "liens": [],
+    "createdAt": 1794477237226,
+    "updatedAt": 1794477237226,
+    "auto": {
+     "key": "matrice-5"
+    }
+   },
+   {
+    "id": "e_auto_matrice-6",
+    "titre": "Construction de matrice — séance 6",
+    "dateRP": "",
+    "lieu": "Laboratoire des Dunes",
+    "humeur": "frustre",
+    "personnages": [],
+    "categorie": "kosei",
+    "tags": [
+     "simulation",
+     "matrice"
+    ],
+    "texte": "Symétrie demandée : 5. Écart angulaire moyen : 41.6°. Stabilité estimée : 0 %.\nÀ ce niveau d’erreur, un Retour de Résonance serait probable. Ne pas tracer celle‑ci en vrai.",
+    "facettes": {
+     "evenement": "",
+     "reflexion": "",
+     "peur": "",
+     "ambition": "",
+     "relation": "",
+     "decouverte": ""
+    },
+    "images": [],
+    "marge": [],
+    "epoque": "avant",
+    "important": false,
+    "liens": [],
+    "createdAt": 1794477263625,
+    "updatedAt": 1794477263626,
+    "auto": {
+     "key": "matrice-6"
+    }
+   },
+   {
+    "id": "e_auto_matrice-7",
+    "titre": "Construction de matrice — séance 7",
+    "dateRP": "",
+    "lieu": "Laboratoire des Dunes",
+    "humeur": "methodique",
+    "personnages": [],
+    "categorie": "kosei",
+    "tags": [
+     "simulation",
+     "matrice"
+    ],
+    "texte": "Symétrie demandée : 8. Écart angulaire moyen : 7.1°. Stabilité estimée : 71 %.\nUn nœud mal placé suffit à faire boiter toute la matrice.",
+    "facettes": {
+     "evenement": "",
+     "reflexion": "",
+     "peur": "",
+     "ambition": "",
+     "relation": "",
+     "decouverte": ""
+    },
+    "images": [],
+    "marge": [],
+    "epoque": "avant",
+    "important": false,
+    "liens": [],
+    "createdAt": 1794477283760,
+    "updatedAt": 1794477283760,
+    "auto": {
+     "key": "matrice-7"
+    }
+   },
+   {
+    "id": "e_auto_matrice-8",
+    "titre": "Construction de matrice — séance 8",
+    "dateRP": "",
+    "lieu": "Laboratoire des Dunes",
+    "humeur": "frustre",
+    "personnages": [],
+    "categorie": "kosei",
+    "tags": [
+     "simulation",
+     "matrice"
+    ],
+    "texte": "Symétrie demandée : 8. Écart angulaire moyen : 25.3°. Stabilité estimée : 0 %.\nÀ ce niveau d’erreur, un Retour de Résonance serait probable. Ne pas tracer celle‑ci en vrai.",
+    "facettes": {
+     "evenement": "",
+     "reflexion": "",
+     "peur": "",
+     "ambition": "",
+     "relation": "",
+     "decouverte": ""
+    },
+    "images": [],
+    "marge": [],
+    "epoque": "avant",
+    "important": false,
+    "liens": [],
+    "createdAt": 1794477311992,
+    "updatedAt": 1794477311992,
+    "auto": {
+     "key": "matrice-8"
+    }
+   },
+   {
+    "id": "e_auto_matrice-9",
+    "titre": "Construction de matrice — séance 9",
+    "dateRP": "",
+    "lieu": "Laboratoire des Dunes",
+    "humeur": "frustre",
+    "personnages": [],
+    "categorie": "kosei",
+    "tags": [
+     "simulation",
+     "matrice"
+    ],
+    "texte": "Symétrie demandée : 5. Écart angulaire moyen : 37.7°. Stabilité estimée : 0 %.\nÀ ce niveau d’erreur, un Retour de Résonance serait probable. Ne pas tracer celle‑ci en vrai.",
+    "facettes": {
+     "evenement": "",
+     "reflexion": "",
+     "peur": "",
+     "ambition": "",
+     "relation": "",
+     "decouverte": ""
+    },
+    "images": [],
+    "marge": [],
+    "epoque": "avant",
+    "important": false,
+    "liens": [],
+    "createdAt": 1794477341525,
+    "updatedAt": 1794477341525,
+    "auto": {
+     "key": "matrice-9"
+    }
+   },
+   {
+    "id": "e_auto_matrice-10",
+    "titre": "Construction de matrice — séance 10",
+    "dateRP": "",
+    "lieu": "Laboratoire des Dunes",
+    "humeur": "frustre",
+    "personnages": [],
+    "categorie": "kosei",
+    "tags": [
+     "simulation",
+     "matrice"
+    ],
+    "texte": "Symétrie demandée : 5. Écart angulaire moyen : 20.0°. Stabilité estimée : 20 %.\nÀ ce niveau d’erreur, un Retour de Résonance serait probable. Ne pas tracer celle‑ci en vrai.",
+    "facettes": {
+     "evenement": "",
+     "reflexion": "",
+     "peur": "",
+     "ambition": "",
+     "relation": "",
+     "decouverte": ""
+    },
+    "images": [],
+    "marge": [],
+    "epoque": "avant",
+    "important": false,
+    "liens": [],
+    "createdAt": 1794477362641,
+    "updatedAt": 1794477362641,
+    "auto": {
+     "key": "matrice-10"
+    }
+   },
+   {
+    "id": "e_auto_matrice-11",
+    "titre": "Construction de matrice — séance 11",
+    "dateRP": "",
+    "lieu": "Laboratoire des Dunes",
+    "humeur": "methodique",
+    "personnages": [],
+    "categorie": "kosei",
+    "tags": [
+     "simulation",
+     "matrice"
+    ],
+    "texte": "Symétrie demandée : 4. Écart angulaire moyen : 2.5°. Stabilité estimée : 90 %.\nLes nœuds se répondent : le flux circulerait sans à‑coup.",
+    "facettes": {
+     "evenement": "",
+     "reflexion": "",
+     "peur": "",
+     "ambition": "",
+     "relation": "",
+     "decouverte": ""
+    },
+    "images": [],
+    "marge": [],
+    "epoque": "avant",
+    "important": false,
+    "liens": [],
+    "createdAt": 1794477376875,
+    "updatedAt": 1794477376875,
+    "auto": {
+     "key": "matrice-11"
+    }
+   },
+   {
+    "id": "e_auto_forge-1",
+    "titre": "Forge — séance 1",
+    "dateRP": "",
+    "lieu": "Laboratoire des Dunes",
+    "humeur": "frustre",
+    "personnages": [],
+    "categorie": "forge",
+    "tags": [
+     "simulation",
+     "forge"
+    ],
+    "texte": "Six frappes : 0 au bon rouge, 6 à froid (fissures), 0 trop chaudes (le métal s’écrase).\nAttendre la couleur, pas compter les secondes.",
+    "facettes": {
+     "evenement": "",
+     "reflexion": "",
+     "peur": "",
+     "ambition": "",
+     "relation": "",
+     "decouverte": ""
+    },
+    "images": [],
+    "marge": [],
+    "epoque": "avant",
+    "important": false,
+    "liens": [],
+    "createdAt": 1794477419294,
+    "updatedAt": 1794477419294,
+    "auto": {
+     "key": "forge-1"
+    }
+   },
+   {
+    "id": "e_auto_forge-2",
+    "titre": "Forge — séance 2",
+    "dateRP": "",
+    "lieu": "Laboratoire des Dunes",
+    "humeur": "methodique",
+    "personnages": [],
+    "categorie": "forge",
+    "tags": [
+     "simulation",
+     "forge"
+    ],
+    "texte": "Six frappes : 6 au bon rouge, 0 à froid (fissures), 0 trop chaudes (le métal s’écrase).\nLa couleur ne ment pas : orange vif, ni jaune ni cerise.",
+    "facettes": {
+     "evenement": "",
+     "reflexion": "",
+     "peur": "",
+     "ambition": "",
+     "relation": "",
+     "decouverte": ""
+    },
+    "images": [],
+    "marge": [],
+    "epoque": "avant",
+    "important": false,
+    "liens": [],
+    "createdAt": 1794477442460,
+    "updatedAt": 1794477442460,
+    "auto": {
+     "key": "forge-2"
+    }
+   },
+   {
+    "id": "e_auto_forge-3",
+    "titre": "Forge — séance 3",
+    "dateRP": "",
+    "lieu": "Laboratoire des Dunes",
+    "humeur": "methodique",
+    "personnages": [],
+    "categorie": "forge",
+    "tags": [
+     "simulation",
+     "forge"
+    ],
+    "texte": "Six frappes : 6 au bon rouge, 0 à froid (fissures), 0 trop chaudes (le métal s’écrase).\nLa couleur ne ment pas : orange vif, ni jaune ni cerise.",
+    "facettes": {
+     "evenement": "",
+     "reflexion": "",
+     "peur": "",
+     "ambition": "",
+     "relation": "",
+     "decouverte": ""
+    },
+    "images": [],
+    "marge": [],
+    "epoque": "avant",
+    "important": false,
+    "liens": [],
+    "createdAt": 1794477463775,
+    "updatedAt": 1794477463775,
+    "auto": {
+     "key": "forge-3"
+    }
+   },
+   {
+    "id": "e_auto_composition-1",
+    "titre": "Composition — séance 1",
+    "dateRP": "",
+    "lieu": "Laboratoire des Dunes",
+    "humeur": "frustre",
+    "personnages": [],
+    "categorie": "kosei",
+    "tags": [
+     "simulation",
+     "composition"
+    ],
+    "texte": "Cible : une plaque de grès compact.\nCartouche : Sable de Suna 45. Énergie 50, précision 50.\n— Composants absents : Ciment naturel. La matrice ne peut rien recomposer avec ce qui n’est pas là.\n— Énergie suffisante sans excès.\n— Matrice assez précise.\nDu sable, un peu de liant, une matrice lithique patiente.",
+    "facettes": {
+     "evenement": "",
+     "reflexion": "",
+     "peur": "",
+     "ambition": "",
+     "relation": "",
+     "decouverte": ""
+    },
+    "images": [],
+    "marge": [],
+    "epoque": "avant",
+    "important": false,
+    "liens": [],
+    "createdAt": 1794477511530,
+    "updatedAt": 1794477511531,
+    "auto": {
+     "key": "composition-1"
+    }
+   },
+   {
+    "id": "e_auto_composition-2",
+    "titre": "Composition — séance 2",
+    "dateRP": "",
+    "lieu": "Laboratoire des Dunes",
+    "humeur": "frustre",
+    "personnages": [],
+    "categorie": "kosei",
+    "tags": [
+     "simulation",
+     "composition"
+    ],
+    "texte": "Cible : un fil d’acier.\nCartouche : Cuivre 30, Ciment naturel 31, Sable de Suna 30. Énergie 66, précision 66.\n— Composants absents : Fer, Carbone. La matrice ne peut rien recomposer avec ce qui n’est pas là.\n— Matières inutiles dans la cartouche : Cuivre, Ciment naturel, Sable de Suna — elles restent, inertes, et troublent la lecture.\n— Énergie insuffisante : recomposition incomplète.\n— Matrice trop grossière pour cette structure.\nTrop de carbone : cassant. Pas assez : mou.",
+    "facettes": {
+     "evenement": "",
+     "reflexion": "",
+     "peur": "",
+     "ambition": "",
+     "relation": "",
+     "decouverte": ""
+    },
+    "images": [],
+    "marge": [],
+    "epoque": "avant",
+    "important": false,
+    "liens": [],
+    "createdAt": 1794477550743,
+    "updatedAt": 1794477550743,
+    "auto": {
+     "key": "composition-2"
+    }
+   },
+   {
+    "id": "e_auto_composition-3",
+    "titre": "Composition — séance 3",
+    "dateRP": "",
+    "lieu": "Laboratoire des Dunes",
+    "humeur": "methodique",
+    "personnages": [],
+    "categorie": "kosei",
+    "tags": [
+     "simulation",
+     "composition"
+    ],
+    "texte": "Cible : un bloc de glace claire.\nCartouche : Eau 71. Énergie 100, précision 100.\n— Tous les composants sont présents.\n— Proportions justes.\n— Trop d’énergie : la matière chauffe, la structure se brouille.\n— Matrice assez précise.\nMême H₂O : seule la structure change.",
+    "facettes": {
+     "evenement": "",
+     "reflexion": "",
+     "peur": "",
+     "ambition": "",
+     "relation": "",
+     "decouverte": ""
+    },
+    "images": [],
+    "marge": [],
+    "epoque": "avant",
+    "important": false,
+    "liens": [],
+    "createdAt": 1794477565509,
+    "updatedAt": 1794477565509,
+    "auto": {
+     "key": "composition-3"
+    }
+   },
+   {
+    "id": "e_auto_composition-4",
+    "titre": "Composition — séance 4",
+    "dateRP": "",
+    "lieu": "Laboratoire des Dunes",
+    "humeur": "frustre",
+    "personnages": [],
+    "categorie": "kosei",
+    "tags": [
+     "simulation",
+     "composition"
+    ],
+    "texte": "Cible : un fil d’acier.\nCartouche : Or 100. Énergie 100, précision 100.\n— Composants absents : Fer, Carbone. La matrice ne peut rien recomposer avec ce qui n’est pas là.\n— Matières inutiles dans la cartouche : Or — elles restent, inertes, et troublent la lecture.\n— Énergie suffisante sans excès.\n— Matrice assez précise.\nTrop de carbone : cassant. Pas assez : mou.",
+    "facettes": {
+     "evenement": "",
+     "reflexion": "",
+     "peur": "",
+     "ambition": "",
+     "relation": "",
+     "decouverte": ""
+    },
+    "images": [],
+    "marge": [],
+    "epoque": "avant",
+    "important": false,
+    "liens": [],
+    "createdAt": 1794477576808,
+    "updatedAt": 1794477576808,
+    "auto": {
+     "key": "composition-4"
+    }
+   },
+   {
+    "id": "e_auto_composition-5",
+    "titre": "Composition — séance 5",
+    "dateRP": "",
+    "lieu": "Laboratoire des Dunes",
+    "humeur": "frustre",
+    "personnages": [],
+    "categorie": "kosei",
+    "tags": [
+     "simulation",
+     "composition"
+    ],
+    "texte": "Cible : un fil d’acier.\nCartouche : Carbone 48. Énergie 82, précision 82.\n— Composants absents : Fer. La matrice ne peut rien recomposer avec ce qui n’est pas là.\n— Énergie insuffisante : recomposition incomplète.\n— Matrice assez précise.\nTrop de carbone : cassant. Pas assez : mou.",
+    "facettes": {
+     "evenement": "",
+     "reflexion": "",
+     "peur": "",
+     "ambition": "",
+     "relation": "",
+     "decouverte": ""
+    },
+    "images": [],
+    "marge": [],
+    "epoque": "avant",
+    "important": false,
+    "liens": [],
+    "createdAt": 1794477584492,
+    "updatedAt": 1794477584492,
+    "auto": {
+     "key": "composition-5"
+    }
    }
   ],
   "inventions": [
@@ -1972,7 +2556,309 @@
     "self": true
    }
   ],
-  "seances": [],
+  "seances": [
+   {
+    "id": "s_mwddclbd614xp",
+    "jeu": "matrice",
+    "score": 1,
+    "max": 5,
+    "resume": "Matrice à 4 nœuds ratée (29 %)",
+    "details": {
+     "sym": 4,
+     "deg": 17.862067013194622,
+     "stab": 28.551731947221512
+    },
+    "createdAt": 1794477127657,
+    "updatedAt": 1794477127657
+   },
+   {
+    "id": "s_mwddd51j9tv4n",
+    "jeu": "matrice",
+    "score": 1,
+    "max": 5,
+    "resume": "Matrice à 6 nœuds ratée (15 %)",
+    "details": {
+     "sym": 6,
+     "deg": 21.305885772470777,
+     "stab": 14.776456910116892
+    },
+    "createdAt": 1794477153223,
+    "updatedAt": 1794477153223
+   },
+   {
+    "id": "s_mwdddn9krsvrz",
+    "jeu": "matrice",
+    "score": 5,
+    "max": 5,
+    "resume": "Matrice à 4 nœuds stable (97 %)",
+    "details": {
+     "sym": 4,
+     "deg": 0.7513212111746379,
+     "stab": 96.99471515530145
+    },
+    "createdAt": 1794477176840,
+    "updatedAt": 1794477176840
+   },
+   {
+    "id": "s_mwdde5spark5q",
+    "jeu": "matrice",
+    "score": 1,
+    "max": 5,
+    "resume": "Matrice à 6 nœuds ratée (20 %)",
+    "details": {
+     "sym": 6,
+     "deg": 19.966275284451456,
+     "stab": 20.134898862194177
+    },
+    "createdAt": 1794477200857,
+    "updatedAt": 1794477200857
+   },
+   {
+    "id": "s_mwddexuwaodvt",
+    "jeu": "matrice",
+    "score": 5,
+    "max": 5,
+    "resume": "Matrice à 4 nœuds stable (94 %)",
+    "details": {
+     "sym": 4,
+     "deg": 1.4917349381959377,
+     "stab": 94.03306024721626
+    },
+    "createdAt": 1794477237224,
+    "updatedAt": 1794477237224
+   },
+   {
+    "id": "s_mwddfi88eheho",
+    "jeu": "matrice",
+    "score": 0,
+    "max": 5,
+    "resume": "Matrice à 5 nœuds ratée (0 %)",
+    "details": {
+     "sym": 5,
+     "deg": 41.570650622368234,
+     "stab": 0
+    },
+    "createdAt": 1794477263624,
+    "updatedAt": 1794477263624
+   },
+   {
+    "id": "s_mwddfxrjtzqk9",
+    "jeu": "matrice",
+    "score": 4,
+    "max": 5,
+    "resume": "Matrice à 8 nœuds instable (71 %)",
+    "details": {
+     "sym": 8,
+     "deg": 7.137944148034917,
+     "stab": 71.44822340786033
+    },
+    "createdAt": 1794477283759,
+    "updatedAt": 1794477283759
+   },
+   {
+    "id": "s_mwddgjjra4q8q",
+    "jeu": "matrice",
+    "score": 0,
+    "max": 5,
+    "resume": "Matrice à 8 nœuds ratée (0 %)",
+    "details": {
+     "sym": 8,
+     "deg": 25.293037664692083,
+     "stab": 0
+    },
+    "createdAt": 1794477311991,
+    "updatedAt": 1794477311991
+   },
+   {
+    "id": "s_mwddh6c4su3as",
+    "jeu": "matrice",
+    "score": 0,
+    "max": 5,
+    "resume": "Matrice à 5 nœuds ratée (0 %)",
+    "details": {
+     "sym": 5,
+     "deg": 37.73664879216345,
+     "stab": 0
+    },
+    "createdAt": 1794477341524,
+    "updatedAt": 1794477341524
+   },
+   {
+    "id": "s_mwddhmmof5x16",
+    "jeu": "matrice",
+    "score": 1,
+    "max": 5,
+    "resume": "Matrice à 5 nœuds ratée (20 %)",
+    "details": {
+     "sym": 5,
+     "deg": 19.963673320582714,
+     "stab": 20.145306717669143
+    },
+    "createdAt": 1794477362640,
+    "updatedAt": 1794477362640
+   },
+   {
+    "id": "s_mwddhxm22t645",
+    "jeu": "matrice",
+    "score": 4,
+    "max": 5,
+    "resume": "Matrice à 4 nœuds stable (90 %)",
+    "details": {
+     "sym": 4,
+     "deg": 2.5069798285973337,
+     "stab": 89.97208068561066
+    },
+    "createdAt": 1794477376874,
+    "updatedAt": 1794477376874
+   },
+   {
+    "id": "s_mwddiucema791",
+    "jeu": "forge",
+    "score": 0,
+    "max": 6,
+    "resume": "Pièce fissurée",
+    "details": {
+     "hits": [
+      "froid",
+      "froid",
+      "froid",
+      "froid",
+      "froid",
+      "froid"
+     ],
+     "melt": false
+    },
+    "createdAt": 1794477419294,
+    "updatedAt": 1794477419294
+   },
+   {
+    "id": "s_mwddjc7vfm9kg",
+    "jeu": "forge",
+    "score": 6,
+    "max": 6,
+    "resume": "Pièce forgée propre",
+    "details": {
+     "hits": [
+      "bon",
+      "bon",
+      "bon",
+      "bon",
+      "bon",
+      "bon"
+     ],
+     "melt": false
+    },
+    "createdAt": 1794477442459,
+    "updatedAt": 1794477442459
+   },
+   {
+    "id": "s_mwddjsnyknrqu",
+    "jeu": "forge",
+    "score": 6,
+    "max": 6,
+    "resume": "Pièce forgée propre",
+    "details": {
+     "hits": [
+      "bon",
+      "bon",
+      "bon",
+      "bon",
+      "bon",
+      "bon"
+     ],
+     "melt": false
+    },
+    "createdAt": 1794477463774,
+    "updatedAt": 1794477463774
+   },
+   {
+    "id": "s_mwddktihhbjqq",
+    "jeu": "composition",
+    "score": 3,
+    "max": 7,
+    "resume": "Composition partielle : une plaque de grès compact",
+    "details": {
+     "cible": "une plaque de grès compact",
+     "q": {
+      "Sable de Suna": 45
+     },
+     "energie": 50,
+     "precision": 50
+    },
+    "createdAt": 1794477511529,
+    "updatedAt": 1794477511529
+   },
+   {
+    "id": "s_mwddlnrp1pz7j",
+    "jeu": "composition",
+    "score": 0,
+    "max": 7,
+    "resume": "Échec de composition : un fil d’acier",
+    "details": {
+     "cible": "un fil d’acier",
+     "q": {
+      "Cuivre": 30,
+      "Ciment naturel": 31,
+      "Sable de Suna": 30
+     },
+     "energie": 66,
+     "precision": 66
+    },
+    "createdAt": 1794477550741,
+    "updatedAt": 1794477550741
+   },
+   {
+    "id": "s_mwddlz5w4i9m2",
+    "jeu": "composition",
+    "score": 6,
+    "max": 7,
+    "resume": "Composition réussie : un bloc de glace claire",
+    "details": {
+     "cible": "un bloc de glace claire",
+     "q": {
+      "Eau": 71
+     },
+     "energie": 100,
+     "precision": 100
+    },
+    "createdAt": 1794477565508,
+    "updatedAt": 1794477565508
+   },
+   {
+    "id": "s_mwddm7vre2wu3",
+    "jeu": "composition",
+    "score": 2,
+    "max": 7,
+    "resume": "Échec de composition : un fil d’acier",
+    "details": {
+     "cible": "un fil d’acier",
+     "q": {
+      "Or": 100
+     },
+     "energie": 100,
+     "precision": 100
+    },
+    "createdAt": 1794477576807,
+    "updatedAt": 1794477576807
+   },
+   {
+    "id": "s_mwddmdt78dvx6",
+    "jeu": "composition",
+    "score": 2,
+    "max": 7,
+    "resume": "Échec de composition : un fil d’acier",
+    "details": {
+     "cible": "un fil d’acier",
+     "q": {
+      "Carbone": 48
+     },
+     "energie": 82,
+     "precision": 82
+    },
+    "createdAt": 1794477584491,
+    "updatedAt": 1794477584491
+   }
+  ],
   "bras": {
    "version": 0,
    "versions": {
@@ -2014,7 +2900,8 @@
     "e:e-08": 1794346783888,
     "e:e-07": 1794346786821,
     "e:e-05": 1794346789914,
-    "e:e-06": 1794475778908
+    "e:e-06": 1794475778908,
+    "x:x-philosophale": 1794477077372
    },
    "dernierNumero": 4,
    "lastExport": 1794476877526
