@@ -2,7 +2,7 @@
  "format": "archives-composition",
  "version": 1,
  "app": "Les Archives de la Composition",
- "exportedAt": "2026-11-10T21:47:41.780Z",
+ "exportedAt": "2026-11-12T09:49:02.423Z",
  "data": {
   "v": 1,
   "recherches": [
@@ -1101,40 +1101,9 @@
     "updatedAt": 0
    },
    {
-    "id": "e-06",
-    "titre": "Matrice de Noèse",
-    "dateRP": "",
-    "lieu": "",
-    "humeur": "froid",
-    "personnages": [],
-    "categorie": "tabou",
-    "tags": [
-     "tabou",
-     "accident"
-    ],
-    "texte": "Compte rendu. Sujet : moi.\n\nObjectif : appliquer Lecture → Décomposition → Recomposition à ma propre conscience, pour réorganiser souvenirs, associations, compréhension, mémoire. Hypothèse (non vérifiée) : une organisation mentale « devrait » se recomposer comme une matière.\n\nDéroulement. Lecture : réussie. Décomposition : entamée. Pendant quelques secondes, un très grand nombre de connexions perçues en même temps. Puis la conscience s’est modifiée pendant que la matrice tentait de la recomposer. Recomposition : impossible à stabiliser. Retour de Résonance : total.\n\nPoint d’injection principal : bras gauche. Détruit. Amputé.\n\nPrix : bras gauche.",
-    "facettes": {
-     "evenement": "",
-     "reflexion": "J’ai voulu transformer mon esprit en bibliothèque. J’ai oublié qu’une bibliothèque ne souffre pas lorsque l’on déplace ses livres.",
-     "peur": "",
-     "ambition": "",
-     "relation": "",
-     "decouverte": ""
-    },
-    "images": [],
-    "marge": [],
-    "epoque": "apres",
-    "important": true,
-    "liens": [
-     "t:t-noese"
-    ],
-    "createdAt": 81,
-    "updatedAt": 0
-   },
-   {
     "id": "e_mwb7mdppcbrry",
     "titre": "PAGE 001 — La naissance du Kōseijutsu",
-    "dateRP": "10/11/2026",
+    "dateRP": "07/11/2026",
     "lieu": "Bureau de Shinji",
     "humeur": "obsede",
     "personnages": [
@@ -1163,15 +1132,15 @@
     ],
     "marge": [],
     "epoque": "apres",
-    "important": false,
+    "important": true,
     "liens": [],
     "createdAt": 1794346574317,
-    "updatedAt": 1794347176775
+    "updatedAt": 1794476746778
    },
    {
     "id": "e_mwb7zj4iidbi6",
-    "titre": "Les composants de la matière",
-    "dateRP": "07/11/2026",
+    "titre": "PAGE 002 — Les composants de la matière",
+    "dateRP": "10/11/2026",
     "lieu": "Forge",
     "humeur": "affame",
     "personnages": [],
@@ -1196,10 +1165,80 @@
     ],
     "marge": [],
     "epoque": "apres",
-    "important": false,
+    "important": true,
     "liens": [],
     "createdAt": 1794347187858,
-    "updatedAt": 1794347244885
+    "updatedAt": 1794476763561
+   },
+   {
+    "id": "e_mwdcd5qok1ees",
+    "titre": "PAGE 003 — Rien ne vient de rien",
+    "dateRP": "11/11/2026",
+    "lieu": "Bureau de Shinji",
+    "humeur": "methodique",
+    "personnages": [
+     "c-shinji"
+    ],
+    "categorie": "kosei",
+    "tags": [],
+    "texte": "J’avais déjà compris l’idée en théorie, mais je voulais vérifier si elle tenait vraiment en pratique.\n\nLa règle paraît simple : si je transforme une matière, je ne crée rien. Je ne fais que réorganiser ce qui est déjà là. Dit comme ça, c’est presque évident. Le problème, c’est que beaucoup de choses paraissent évidentes jusqu’au moment où on les teste correctement.\n\nJ’ai donc repris les expériences les plus simples possibles. Pas de structure compliquée, pas de matériaux rares, pas de matrice spéciale. Juste du grès, du sable compacté, quelques fragments de roche, une balance, et assez de patience pour recommencer plusieurs fois la même chose.\n\nLe premier test consistait à prendre un morceau de grès brut, à le peser, puis à le transformer en plaque plus régulière. La plaque obtenue avait bien la forme demandée. Visuellement, la transmutation avait fonctionné. Mais le poids final n’était jamais exactement identique. Au début, j’ai cru que la règle était fausse.\n\nEn réalité, j’avais juste oublié quelque chose d’assez bête : une partie de la matière se perdait sous forme de poussière, de grains détachés ou de petits fragments restés sur la surface de travail. Rien n’avait disparu. J’avais simplement mal observé l’ensemble du résultat.\n\nJ’ai repris les mesures plus proprement.\n\nMasse initiale du bloc.\nMasse finale de la forme obtenue.\nMasse des résidus récupérés autour.\n\nCette fois, le résultat était beaucoup plus clair.\n\nQuand je prends en compte la totalité de la matière après transmutation, j’arrive presque toujours au même total qu’au départ. Il y a parfois un petit écart, mais il semble surtout venir de mes erreurs de mesure, de la poussière perdue ou d’une mauvaise récupération des débris.\n\nDonc non, le kōseijutsu ne fabrique pas de matière.\n\nEt surtout, il ne triche pas.\n\nSi je n’ai qu’une petite quantité de roche, j’obtiens une petite quantité de roche réorganisée. Je peux changer la forme, répartir différemment la matière, la comprimer, l’étaler, la densifier un peu selon le résultat voulu, mais je ne peux pas obtenir un grand mur avec ce qui suffirait à peine à faire une dalle.\n\nJ’ai aussi essayé l’inverse, juste pour être sûr. Réduire une masse importante à une forme beaucoup plus petite et plus dense. Là encore, rien d’anormal. La matière ne disparaît pas. Elle prend simplement moins de place si la structure finale est plus compacte.\n\nC’est probablement la première vraie loi stable du kōseijutsu.\n\nRien ne vient de rien.\n\nÇa veut dire deux choses importantes.\n\nLa première, c’est qu’une matrice n’est pas un miracle. Elle ne remplace ni la matière manquante, ni les composants absents.\n\nLa deuxième, c’est que toute ambition absurde peut être calmée très vite avec une balance et un peu de bon sens.\n\nJe ne transformerai pas une poignée de sable en forteresse.\nJe ne tirerai pas une lame parfaite d’un caillou médiocre.\nEt je ne créerai jamais cent kilos de matière avec dix kilos de départ, peu importe à quel point la matrice est bien dessinée.\n\nCette page paraît simple, mais elle est importante. Sans cette vérification, j’aurais continué à réfléchir de travers. Maintenant au moins, la base est propre.\n\nLa transmutation n’est pas une création.\n\nC’est une réorganisation sous contrainte.\n\nEt ces contraintes commencent enfin à devenir visibles.\n\nNote personnelle\n\nJ’ai perdu presque une heure à chercher deux grammes “disparus” avant de comprendre qu’ils étaient collés à ma manche.\n\nConclusion : la Loi d’Équivalence fonctionne probablement mieux que mo",
+    "facettes": {
+     "evenement": "",
+     "reflexion": "",
+     "peur": "",
+     "ambition": "",
+     "relation": "",
+     "decouverte": ""
+    },
+    "images": [
+     {
+      "id": "img_mwdch2eci2ocq",
+      "caption": "",
+      "kind": "croquis",
+      "rot": 4.1
+     }
+    ],
+    "marge": [],
+    "epoque": "apres",
+    "important": true,
+    "liens": [],
+    "createdAt": 1794475474512,
+    "updatedAt": 1794476775262
+   },
+   {
+    "id": "e_mwdcqnexurpv1",
+    "titre": "PAGE 004 — Une bibliothèque dans ma tête",
+    "dateRP": "11/11/2026",
+    "lieu": "",
+    "humeur": "obsede",
+    "personnages": [
+     "c-shinji"
+    ],
+    "categorie": "theorie",
+    "tags": [],
+    "texte": "J’ai encore perdu une note aujourd’hui.\n\nPas le carnet. Une information.\n\nJe savais que je l’avais lue quelque part. Je savais même approximativement sur quelle page elle était.\n\nMais impossible de me souvenir du chiffre exact.\n\nC’est agaçant.\n\nPlus mes recherches avancent, plus le problème devient évident : je peux accumuler autant de livres, de carnets et d’échantillons que je veux, mais à la fin tout doit quand même passer par ma tête.\n\nEt ma tête oublie.\n\nAlors je me suis posé une question probablement stupide.\n\nSi le kōseijutsu permet de décomposer une structure, de comprendre son organisation puis de la recomposer…\n\nest-ce que cette logique pourrait un jour s’appliquer à quelque chose d’aussi complexe que la mémoire ?\n\nJe ne parle pas de créer de nouvelles connaissances à partir de rien.\n\nÇa serait contraire à tout ce que j’ai compris jusqu’ici.\n\nJe parle plutôt de réorganiser ce qui existe déjà.\n\nUne bibliothèque ne crée pas les informations contenues dans ses livres.\n\nElle les classe.\n\nElle donne un endroit précis à chaque chose.\n\nAlors, techniquement…\n\net si mon esprit pouvait fonctionner de la même manière ?\n\nPas seulement “mieux se souvenir”.\n\nJe veux dire une vraie organisation.\n\nUne section pour la géologie.\n\nUne pour les minerais.\n\nUne pour les matrices.\n\nUne pour les expériences ratées.\n\nUne pour les compositions chimiques.\n\nUne pour les plans de forge.\n\nEt quand j’ai besoin d’une information, je sais exactement où la chercher.\n\nPlus besoin de fouiller dans vingt carnets.\n\nPlus besoin de me demander si j’ai déjà testé quelque chose.\n\nPlus besoin d’oublier.\n\nÉvidemment, il y a un problème assez important.\n\nJe n’ai absolument aucune idée de la manière dont un souvenir existe physiquement.\n\nEst-ce uniquement le cerveau ?\n\nLe chakra ?\n\nLes deux ?\n\nEst-ce qu’un souvenir possède une structure identifiable ?\n\nEt si je modifie cette structure…\n\nest-ce que je déplace une information ?\n\nOu est-ce que je détruis simplement une partie de moi-même ?\n\nÇa devient beaucoup moins amusant écrit comme ça.\n\nLe fûinjutsu pourrait peut-être offrir une solution plus sûre.\n\nAu lieu de modifier directement mon cerveau, il serait peut-être possible de créer une sorte d’index mental.\n\nUn sceau qui ne contient pas les souvenirs eux-mêmes, mais qui aide à les retrouver.\n\nComme le catalogue d’une bibliothèque.\n\nLe livre reste à sa place.\n\nLe catalogue indique seulement où il est.\n\nÇa me paraît déjà beaucoup moins idiot.\n\nPremière idée :\n\nun réseau de sceaux liés à certains types d’informations.\n\nMinéraux.\n\nMétaux.\n\nMatrices.\n\nTechniques.\n\nPersonnes.\n\nLieux.\n\nChaque nouvelle connaissance importante serait associée à une catégorie.\n\nLe problème est que je ne sais toujours pas comment connecter un sceau à quelque chose d’aussi abstrait qu’un souvenir.\n\nEt surtout, je ne veux pas découvrir la réponse en oubliant mon propre nom.\n\nDonc aucune expérience directe pour l’instant.\n\nSeulement de la théorie.\n\nMais il y a une autre possibilité.\n\nSi un jour je pouvais réellement transformer mon esprit en une sorte de bibliothèque parfaitement organisée…\n\nalors ma limite ne serait plus seulement ce que je suis capable de retenir.\n\nElle deviendrait simplement :\n\nce que j’ai eu le temps d’apprendre.\n\nEt ça change énormément de choses.\n\nParce que dans ce cas, chaque livre lu resterait disponible.\n\nChaque expérience.\n\nChaque formule.\n\nChaque erreur.\n\nChaque conversation importante.\n\nTout.\n\nJe pourrais accumuler des connaissances pendant des décennies sans craindre de perdre les anciennes.\n\nEt si la bibliothèque pouvait un jour être reliée à une source extérieure…\n\nNon.\n\nJe vais m’arrêter là.\n\nCette idée commence déjà à devenir beaucoup trop intéressante.\n\nNote personnelle\n\nLe but initial était simplement de mieux ranger mes souvenirs.\n\nJe suis arrivé à “modifier la structure de mon propre esprit” en moins d’une heure.\n\nPeut-être que j’ai besoin de dormir.\n\nOu d’un plus grand carnet.",
+    "facettes": {
+     "evenement": "Perte d'une note",
+     "reflexion": "\"Et si je pouvez structurer mes pensées ?\"",
+     "peur": "D'oublié ce qu'il apprend",
+     "ambition": "Transformer son cerveaux en bibliothèque ",
+     "relation": "",
+     "decouverte": ""
+    },
+    "images": [
+     {
+      "id": "img_mwdd3f0j85dqp",
+      "caption": "",
+      "kind": "croquis",
+      "rot": 3.9
+     }
+    ],
+    "marge": [],
+    "epoque": "apres",
+    "important": true,
+    "liens": [],
+    "createdAt": 1794476103945,
+    "updatedAt": 1794476709062
    }
   ],
   "inventions": [
@@ -1964,19 +2003,21 @@
   "settings": {
    "hand": true,
    "showAuto": true,
-   "epoque": "apres",
-   "settingsAt": 0
+   "epoque": "avant",
+   "settingsAt": 1794476320794
   },
   "meta": {
    "created": 1794342825065,
-   "dernierNumero": 4,
    "tomb": {
     "e:e-02": 1794346766502,
     "e:e-01": 1794346772651,
     "e:e-08": 1794346783888,
     "e:e-07": 1794346786821,
-    "e:e-05": 1794346789914
-   }
+    "e:e-05": 1794346789914,
+    "e:e-06": 1794475778908
+   },
+   "dernierNumero": 4,
+   "lastExport": 1794476877526
   }
  }
 }
