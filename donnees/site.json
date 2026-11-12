@@ -1,8 +1,8 @@
 {
  "format": "archives-composition-site",
  "version": 1,
- "revision": 6,
- "updatedAt": "2026-11-12T10:22:14.243Z",
+ "revision": 7,
+ "updatedAt": "2026-11-12T10:37:15.796Z",
  "files": {
   "archives": "archives.json"
  },
