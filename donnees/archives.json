@@ -2,7 +2,7 @@
  "format": "archives-composition",
  "version": 1,
  "app": "Les Archives de la Composition",
- "exportedAt": "2026-11-13T15:42:11.523Z",
+ "exportedAt": "2026-11-13T16:02:50.261Z",
  "data": {
   "v": 1,
   "recherches": [
@@ -1281,6 +1281,45 @@
     "liens": [],
     "createdAt": 1794584296708,
     "updatedAt": 1794584410298
+   },
+   {
+    "id": "e_mwf59vuq8ebzz",
+    "titre": "PAGE 006 — Ce que la curiosité m’a coûté",
+    "dateRP": "13/11/2026",
+    "lieu": "Suna et ???",
+    "humeur": "inquiet",
+    "personnages": [
+     "c-shinji",
+     "c_mwf5yky7wh00v",
+     "c_mwf5yky8febkw"
+    ],
+    "categorie": "vie",
+    "tags": [
+     "liaison"
+    ],
+    "texte": "Je crois que cette fois, j’ai réussi à pousser ma curiosité un peu trop loin.\n\nPendant la mission, j’avais aperçu quelque chose que je ne connaissais pas.\n\nÉvidemment, au lieu d’attendre, d’observer correctement ou de vérifier ce qu’il y avait autour, j’ai voulu aller voir immédiatement.\n\nJe suis donc allé trop vite.\n\nEt j’ai été touché par un poison.\n\nSur le moment, je ne pensais pas que ce serait particulièrement grave. Mon bras me faisait mal, mais j’étais encore capable de le bouger et j’imaginais qu’une fois rentré, les médecins pourraient simplement s’en occuper.\n\nCe n’est pas vraiment ce qui s’est passé.\n\nLe poison avait commencé à attaquer les tissus.\n\nPetit à petit, certaines parties de mon bras ont commencé à perdre leurs sensations. La couleur de la peau a changé. La circulation s’est dégradée.\n\nPuis les médecins ont prononcé le mot que je n’avais pas vraiment envie d’entendre.\n\nNécrose.\n\nUne partie des tissus était déjà morte, et le phénomène continuait de progresser.\n\nIl n’était plus question de réparer le bras.\n\nIl fallait empêcher le poison et la nécrose de continuer à remonter.\n\nIls ont donc dû l’amputer.\n\nC’est étrange de se réveiller et de savoir exactement où quelque chose devrait être, tout en constatant qu’il n’y a plus rien.\n\nPendant quelques jours, j’ai surtout pensé à tout ce que je ne pourrais plus faire normalement.\n\nTenir certains outils.\n\nForger.\n\nTracer mes matrices.\n\nTransporter mes échantillons.\n\nCombattre.\n\nEt surtout expérimenter comme avant.\n\nJ’avais perdu mon bras parce que j’avais été empoisonné.\n\nMais si je suis totalement honnête, le poison n’est qu’une partie de l’histoire.\n\nJe n’aurais probablement jamais été touché si je n’avais pas foncé vers cette découverte sans réfléchir.\n\nJe voulais comprendre quelque chose quelques secondes plus tôt.\n\nJ’ai perdu un bras pour ça.\n\nC’est un échange particulièrement mauvais.\n\nHeureusement, Toshiro Shirogane a décidé que l’histoire ne s’arrêterait pas là.\n\nIl m’a fabriqué une prothèse.\n\nEt connaissant les Shirogane, évidemment, il ne s’est pas contenté de fabriquer un morceau de métal avec des doigts.\n\nLe bras a été pensé pour que je puisse continuer à faire ce que je faisais avant, et même adapter certains de mes outils directement à la prothèse.\n\nDans l’index se trouve une petite pointe de gravure.\n\nJe peux la sortir pour tracer des matrices directement sur de la pierre, du métal ou de l’argile.\n\nC’est probablement la fonction que j’utiliserai le plus.\n\nL’avant-bras possède également quelques petits outils intégrés : une pince, un tournevis et un mini-burin.\n\nRien de spectaculaire.\n\nJuste exactement les choses dont j’ai constamment besoin et que j’oublie régulièrement de prendre.\n\nIl y a également plusieurs petits tubes à l’intérieur du bras pour conserver des échantillons.\n\nSable.\n\nPoudre minérale.\n\nPetits fragments de roche.\n\nMétal.\n\nJe suis presque certain que Toshiro va regretter cette idée lorsqu’il découvrira tout ce que je compte mettre dedans.\n\nUne plaque de l’avant-bras peut aussi être retirée.\n\nElle est suffisamment plate pour servir de support à une matrice lorsque je n’ai rien d’autre sous la main.\n\nC’est simple.\n\nEt particulièrement utile.\n\nIl a même intégré un petit marteau dans le bras pour les travaux de forge.\n\nJe ne pensais pas qu’un jour je pourrais dire que j’avais littéralement oublié mon marteau dans mon bras.\n\nEt enfin, il y a la lame.\n\nElle sort directement du poignet.\n\nCe n’est pas vraiment un outil scientifique.\n\nMais en mission, j’imagine qu’avoir une arme que je ne peux techniquement pas oublier chez moi est plutôt pratique.\n\nPour le moment, tout est encore étrange.\n\nLes mouvements ne sont pas naturels.\n\nJe dois réapprendre à saisir certains objets.\n\nJe mets parfois beaucoup trop de force.\n\nD’autres fois pas assez.\n\nEt il m’arrive encore d’essayer de bouger des doigts qui n’existent plus.\n\nMais je commence à comprendre quelque chose.\n\nCette prothèse ne remplacera jamais réellement mon ancien bras.\n\nEt ce n’est peut-être pas son rôle.\n\nElle va devenir autre chose.\n\nUn outil.\n\nUne création.\n\nPeut-être même quelque chose que je pourrai progressivement améliorer avec Toshiro à mesure que mes recherches avancent.\n\nJe ne sais pas encore jusqu’où.\n\nMais j’ai déjà quelques idées.\n\nProbablement trop.\n\nNote personnelle\n\nPremière leçon :\n\nne pas courir vers chaque truc étrange que je trouve.\n\nDeuxième leçon :\n\nsi je dois quand même perdre un bras, avoir un ami Shirogane aide énormément.",
+    "facettes": {
+     "evenement": "",
+     "reflexion": "",
+     "peur": "",
+     "ambition": "",
+     "relation": "",
+     "decouverte": ""
+    },
+    "images": [
+     {
+      "id": "img_mwf5yireiqak7",
+      "caption": "",
+      "kind": "croquis",
+      "rot": -4.5
+     }
+    ],
+    "marge": [],
+    "epoque": "avant",
+    "important": true,
+    "liens": [],
+    "createdAt": 1794584496770,
+    "updatedAt": 1794585649041
    }
   ],
   "inventions": [
@@ -2021,6 +2060,24 @@
     "notes": "",
     "createdAt": 1794478741556,
     "updatedAt": 1794478741556
+   },
+   {
+    "id": "c_mwf5yky7wh00v",
+    "nom": "Toshiro shirogane",
+    "role": "",
+    "relation": "",
+    "notes": "",
+    "createdAt": 1794585649039,
+    "updatedAt": 1794585649039
+   },
+   {
+    "id": "c_mwf5yky8febkw",
+    "nom": "K Shirogane",
+    "role": "",
+    "relation": "",
+    "notes": "",
+    "createdAt": 1794585649040,
+    "updatedAt": 1794585649040
    }
   ],
   "seances": [
