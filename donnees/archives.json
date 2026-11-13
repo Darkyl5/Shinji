@@ -2,7 +2,7 @@
  "format": "archives-composition",
  "version": 1,
  "app": "Les Archives de la Composition",
- "exportedAt": "2026-11-12T10:37:15.796Z",
+ "exportedAt": "2026-11-13T15:42:11.523Z",
  "data": {
   "v": 1,
   "recherches": [
@@ -1244,6 +1244,43 @@
     "liens": [],
     "createdAt": 1794478397377,
     "updatedAt": 1794478813771
+   },
+   {
+    "id": "e_mwf55lhgmemmt",
+    "titre": "PAGE 005 — Les différents cercles du Kōseijutsu",
+    "dateRP": "12/11/2026",
+    "lieu": "Bureau de shinji",
+    "humeur": "fier",
+    "personnages": [
+     "c-shinji"
+    ],
+    "categorie": "kosei",
+    "tags": [
+     "compression"
+    ],
+    "texte": "Je crois que je commence enfin à mieux comprendre le rôle des cercles.\n\nAu début, je pensais qu’il existait probablement un grand cercle de transmutation suffisamment complet pour tout faire.\n\nPlus j’avance, plus cette idée me paraît mauvaise.\n\nUne matrice sert à donner une instruction au chakra. Donc si l’instruction change, le cercle devrait changer lui aussi.\n\nJe ne peux pas demander au même schéma de séparer un minerai, de réparer une lame et de reconstruire un bloc de pierre avec exactement les mêmes indications.\n\nLa base reste toujours la même :\n\ncomprendre la matière,\n\nla décomposer,\n\npuis la recomposer.\n\nMais ce que je demande entre ces étapes peut être très différent.\n\nJe vais donc commencer à classer les cercles selon leur fonction.\n\nLe premier reste la Matrice Fondamentale d’Équivalence.\n\nC’est celle dont tout le reste découle.\n\nElle ne fait rien de particulièrement spécialisé. Elle sert simplement à prendre une matière connue, la décomposer puis la recomposer sous une nouvelle forme en respectant la quantité et la composition disponibles.\n\nC’est le cercle que je dois connaître parfaitement.\n\nSi celui-là est mauvais, tout ce que je construirai dessus le sera aussi.\n\nEnsuite vient le Cercle de Décomposition.\n\nSon but n’est pas forcément de produire quelque chose.\n\nIl sert à démonter.\n\nPas casser au hasard.\n\nDémonter proprement.\n\nSi une roche contient du quartz, des oxydes de fer et d’autres impuretés, je pourrais théoriquement utiliser ce cercle pour séparer les différents composants au lieu de simplement réduire la roche en poussière.\n\nC’est probablement celui qui sera le plus utile pour mes recherches en géologie.\n\nAprès ça, le Cercle de Recomposition.\n\nLui fait l’inverse.\n\nIl prend ce que j’ai déjà compris et décomposé, puis cherche à lui donner une organisation précise.\n\nUne plaque.\n\nUne pointe.\n\nUn pilier.\n\nUne pièce simple.\n\nLa difficulté vient surtout du fait que “avoir la bonne forme” ne veut pas dire “avoir la bonne structure”.\n\nJ’ai déjà suffisamment cassé de plaques de grès pour le savoir.\n\nIl y a aussi le Cercle de Purification.\n\nJe pense qu’il sera dérivé de la Décomposition.\n\nLa différence, c’est que je ne cherche plus seulement à séparer.\n\nJe définis ce que je veux conserver.\n\nPar exemple :\n\nminerai brut → métal utile + résidus.\n\nSi ça fonctionne correctement, ça pourrait devenir extrêmement utile à la forge.\n\nPar contre, une mauvaise analyse de départ pourrait me faire éliminer exactement ce que j’essayais de récupérer.\n\nDonc celui-là restera expérimental pendant un moment.\n\nJ’ai aussi commencé à réfléchir à une Matrice d’Assemblage.\n\nElle servirait surtout lorsque plusieurs pièces doivent être réunies.\n\nDeux morceaux du même métal.\n\nPlusieurs éléments d’un mécanisme.\n\nOu même plusieurs matériaux différents ayant chacun une fonction.\n\nC’est là que mes recherches sur les composants commencent à devenir utiles.\n\nLe cuivre pourrait conduire le chakra.\n\nUn métal plus dur pourrait supporter les contraintes.\n\nLe quartz pourrait servir sur des zones demandant davantage de précision.\n\nEt le sable d’or pourrait servir de connexion temporaire entre plusieurs parties.\n\nEn théorie.\n\nJe vais éviter de construire une prothèse entière sur un “en théorie”.\n\nUn autre cercle serait celui de Renforcement.\n\nJe précise : pas “rendre quelque chose plus fort parce que le cercle est magique”.\n\nIl faudrait plutôt réorganiser correctement la matière existante.\n\nRéduire certaines cavités.\n\nRedistribuer les contraintes.\n\nModifier l’orientation de certaines structures.\n\nEn gros, prendre exactement la même matière et essayer d’en tirer une organisation plus résistante.\n\nÇa me paraît beaucoup plus intéressant.\n\nIl y a enfin le Cercle de Conduction du Chakra.\n\nCelui-là n’est peut-être même pas une transmutation à proprement parler.\n\nJe le vois plutôt comme un cercle auxiliaire.\n\nSon travail serait de contrôler la manière dont le chakra entre dans une Matrice, se répartit puis atteint les différentes parties du schéma.\n\nPlus mes cercles deviennent compliqués, plus “injecter du chakra et espérer que ça fonctionne” devient une méthode objectivement stupide.\n\nIl faudra donc apprendre à maîtriser aussi l’alimentation.\n\nPour le moment, ma classification ressemble à ça :\n\nMatrice Fondamentale d’Équivalence\nLa base de toutes les transmutations.\n\nCercle de Décomposition\nSéparer une structure en composants exploitables.\n\nCercle de Recomposition\nRéorganiser la matière sous une nouvelle structure.\n\nCercle de Purification\nIsoler une matière précise des impuretés.\n\nMatrice d’Assemblage\nRéunir plusieurs pièces ou plusieurs matériaux.\n\nCercle de Renforcement\nAméliorer l’organisation d’une structure existante.\n\nCercle de Conduction du Chakra\nContrôler l’énergie qui traverse les autres matrices.\n\nJe pense que ces cercles ne resteront pas indépendants éternellement.\n\nUne matrice avancée devra probablement en combiner plusieurs.\n\nPar exemple, pour fabriquer correctement une pièce métallique à partir d’un minerai :\n\ndécomposition,\n\npurification,\n\nrecomposition,\n\npuis éventuellement renforcement.\n\nTout ça dans une seule matrice.\n\nLe problème est assez évident.\n\nPlus j’ajoute d’instructions, plus j’ajoute également de possibilités de me tromper.\n\nDonc pour l’instant je vais garder une règle simple :\n\nun problème,\n\nun cercle.\n\nJe fusionnerai les fonctions quand je serai capable de les utiliser séparément sans transformer mon atelier en cratère.\n\nJe commence aussi à voir les matrices autrement.\n\nCe ne sont pas réellement des techniques.\n\nCe sont plutôt des outils.\n\nUn forgeron ne possède pas un marteau capable de remplacer tous les outils de son atelier.\n\nIl possède exactement l’outil nécessaire au travail qu’il veut effectuer.\n\nLe Kōseijutsu devrait fonctionner pareil.\n\nLe meilleur cercle n’est probablement pas celui qui contient le plus de symboles.\n\nC’est celui qui décrit le plus clairement ce que je veux demander à la matière.\n\nNote personnelle\n\nJ’ai maintenant tellement de cercles dessinés sur mon bureau que, vu de l’extérieur, ça commence probablement à ressembler à quelque chose d’illégal.\n\nPenser à les ranger avant que quelqu’un pose des questions.",
+    "facettes": {
+     "evenement": "",
+     "reflexion": "",
+     "peur": "",
+     "ambition": "",
+     "relation": "",
+     "decouverte": ""
+    },
+    "images": [
+     {
+      "id": "img_mwf57zd8mmzxn",
+      "caption": "",
+      "kind": "croquis",
+      "rot": -3
+     }
+    ],
+    "marge": [],
+    "epoque": "avant",
+    "important": true,
+    "liens": [],
+    "createdAt": 1794584296708,
+    "updatedAt": 1794584410298
    }
   ],
   "inventions": [
@@ -2324,6 +2361,7 @@
   },
   "meta": {
    "created": 1794342825065,
+   "lastExport": 1794476877526,
    "tomb": {
     "e:e-02": 1794346766502,
     "e:e-01": 1794346772651,
@@ -2352,8 +2390,7 @@
     "e:e_auto_matrice-2": 1794478789738,
     "e:e_auto_matrice-1": 1794478792755
    },
-   "dernierNumero": 4,
-   "lastExport": 1794476877526
+   "dernierNumero": 4
   }
  }
 }
