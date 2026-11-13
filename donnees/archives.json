@@ -2,7 +2,7 @@
  "format": "archives-composition",
  "version": 1,
  "app": "Les Archives de la Composition",
- "exportedAt": "2026-11-13T16:04:18.886Z",
+ "exportedAt": "2026-11-13T20:09:16.479Z",
  "data": {
   "v": 1,
   "recherches": [
@@ -1273,6 +1273,12 @@
       "caption": "",
       "kind": "croquis",
       "rot": -3
+     },
+     {
+      "id": "img_mwfetwztrw0t4",
+      "caption": "",
+      "kind": "croquis",
+      "rot": 2.8
      }
     ],
     "marge": [],
@@ -1280,7 +1286,7 @@
     "important": true,
     "liens": [],
     "createdAt": 1794584296708,
-    "updatedAt": 1794584410298
+    "updatedAt": 1794600549751
    },
    {
     "id": "e_mwf59vuq8ebzz",
