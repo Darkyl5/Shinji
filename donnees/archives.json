@@ -2,7 +2,7 @@
  "format": "archives-composition",
  "version": 1,
  "app": "Les Archives de la Composition",
- "exportedAt": "2026-11-14T22:11:53.823Z",
+ "exportedAt": "2026-11-14T22:34:40.005Z",
  "data": {
   "v": 1,
   "recherches": [
@@ -1361,6 +1361,41 @@
     "liens": [],
     "createdAt": 1794693816613,
     "updatedAt": 1794694192348
+   },
+   {
+    "id": "e_mwgzftuhycuqr",
+    "titre": "PAGE 009 — Il me manque une pièce",
+    "dateRP": "14/11/2026",
+    "lieu": "bureau de Shinji",
+    "humeur": "",
+    "personnages": [
+     "c-shinji"
+    ],
+    "categorie": "echec",
+    "tags": [],
+    "texte": "Je tourne en rond.\n\nÇa fait plusieurs heures que je reprends exactement le même problème et j’arrive toujours au même résultat.\n\nQuelque chose manque.\n\nJe travaille depuis un moment sur la manière dont le chakra circule dans une matrice. Jusqu’ici, j’avais surtout tendance à considérer qu’une fois le cercle correctement tracé, il suffisait d’injecter suffisamment de chakra pour alimenter la transmutation.\n\nC’était probablement beaucoup trop simple.\n\nDeux matrices presque identiques peuvent recevoir exactement la même quantité de chakra et pourtant se comporter complètement différemment.\n\nL’une reste stable.\n\nL’autre commence à perdre sa cohérence.\n\nEt je ne comprends pas encore pourquoi.\n\nJ’ai d’abord pensé que le problème venait de la quantité de chakra.\n\nJ’ai réduit le flux.\n\nÉchec.\n\nJe l’ai augmenté.\n\nEncore pire.\n\nJ’ai modifié la répartition entre les différents points du cercle.\n\nToujours instable.\n\nJ’ai même redessiné entièrement la matrice en pensant avoir simplement fait une erreur de tracé.\n\nMême résultat.\n\nDonc soit je répète exactement la même erreur sans m’en rendre compte depuis plusieurs heures…\n\nsoit il y a une variable que je n’ai pas encore comprise.\n\nJe l’appelle provisoirement stabilité.\n\nNom extrêmement original.\n\nLe problème, c’est que je ne sais même pas encore ce que ce mot représente réellement.\n\nEst-ce la capacité de la matière à accepter la transmutation ?\n\nLa manière dont le chakra circule ?\n\nLa qualité de la matrice ?\n\nLa compatibilité entre le matériau et l’instruction ?\n\nOu simplement plusieurs de ces choses en même temps ?\n\nJ’ai essayé de mettre tout ça dans une formule.\n\nTrès mauvaise idée.\n\nPremière tentative :\n\nMatrice = matière + chakra + stabilité.\n\nTrop simple.\n\nDeuxième tentative :\n\nj’ai essayé de faire varier la stabilité selon la quantité de chakra.\n\nRésultat incohérent.\n\nTroisième tentative :\n\nj’ai supposé qu’au-delà d’un certain seuil, trop de chakra rendait automatiquement la matrice instable.\n\nÇa marche sur certains tests.\n\nPas sur les autres.\n\nDonc inutile.\n\nQuatrième tentative :\n\nje préfère ne pas en parler.\n\nJ’ai maintenant quatre feuilles couvertes de calculs qui démontrent principalement que je suis capable d’écrire beaucoup de choses fausses très rapidement.\n\nCe qui m’agace le plus, c’est que je sens que le problème est juste devant moi.\n\nJe comprends la matière.\n\nJe comprends l’équivalence.\n\nJe comprends la fonction générale du cercle.\n\nJe comprends où entre le chakra.\n\nMais quelque chose détermine si tout ça accepte réellement de fonctionner ensemble.\n\nEt ce quelque chose m’échappe.\n\nPeut-être que j’essaye de réduire trop vite le Kōseijutsu à des équations.\n\nUne roche ne se comporte pas comme du cuivre.\n\nLe cuivre ne se comporte pas comme du quartz.\n\nEt pourtant j’essaye encore de chercher une seule formule censée expliquer tous les cas.\n\nC’est peut-être ça mon erreur.\n\nOu peut-être pas.\n\nC’est justement le problème.\n\nJ’ai aussi remarqué quelque chose pendant les essais.\n\nLorsque la matrice devient instable, le chakra ne disparaît pas immédiatement.\n\nIl commence d’abord à circuler bizarrement.\n\nCertaines parties semblent recevoir trop d’énergie.\n\nD’autres presque aucune.\n\nComme si le flux cessait d’être réparti correctement.\n\nDonc la stabilité pourrait être liée à la circulation elle-même.\n\nPeut-être que je dois arrêter de penser uniquement à la quantité de chakra et commencer à observer sa distribution.\n\nCe qui voudrait dire que mon Cercle de Conduction est beaucoup plus important que je ne le pensais.\n\nÇa m’énerve encore davantage parce que j’avais presque classé ce cercle comme un simple outil auxiliaire.\n\nTrès bien.\n\nDemain, je recommence depuis le début.\n\nPas d’équations compliquées.\n\nPas de nouvelles matrices.\n\nJe prends une seule matière.\n\nUne seule transformation.\n\nUne seule quantité de chakra.\n\nEt je regarde uniquement comment le flux circule.\n\nSi je modifie dix choses à la fois, je ne saurai jamais laquelle était importante.\n\nJe le sais déjà.\n\nJe l’ai littéralement écrit dans mes propres règles de recherche.\n\nVisiblement, les lire serait parfois utile.\n\nNote personnelle\n\nJe déteste ne pas comprendre quelque chose.\n\nPas “je trouve ça agaçant”.\n\nJe veux dire que ça me suit même lorsque j’arrête de travailler.\n\nJ’étais censé dormir il y a trois heures.\n\nJe suis toujours devant le même cercle.\n\nJe vais probablement le regarder encore cinq minutes.\n\nPuis dormir.\n\nProbablement.",
+    "facettes": {
+     "evenement": "",
+     "reflexion": "",
+     "peur": "",
+     "ambition": "",
+     "relation": "",
+     "decouverte": ""
+    },
+    "images": [
+     {
+      "id": "img_mwgzgpon42uib",
+      "caption": "",
+      "kind": "croquis",
+      "rot": -3.8
+     }
+    ],
+    "marge": [],
+    "epoque": "avant",
+    "important": false,
+    "liens": [],
+    "createdAt": 1794695628761,
+    "updatedAt": 1794695674107
    }
   ],
   "inventions": [
