@@ -2,7 +2,7 @@
  "format": "archives-composition",
  "version": 1,
  "app": "Les Archives de la Composition",
- "exportedAt": "2026-11-14T22:34:40.005Z",
+ "exportedAt": "2026-11-14T22:52:06.852Z",
  "data": {
   "v": 1,
   "recherches": [
@@ -1396,6 +1396,42 @@
     "liens": [],
     "createdAt": 1794695628761,
     "updatedAt": 1794695674107
+   },
+   {
+    "id": "e_mwgzz8balwzdf",
+    "titre": "Le poids de l’absence",
+    "dateRP": "13/11/2026",
+    "lieu": "Hopital de Suna",
+    "humeur": "frustre",
+    "personnages": [
+     "c-shinji",
+     "c_mwf5yky7wh00v"
+    ],
+    "categorie": "vie",
+    "tags": [],
+    "texte": "Je pensais que le plus dur serait la douleur.\n\nJe me suis trompé.\n\nLa douleur, au moins, je peux la comprendre.\n\nElle vient de quelque part.\n\nElle monte, elle descend, elle finit parfois par se calmer.\n\nLe manque, lui, est beaucoup plus étrange.\n\nJe me réveille encore avec l’impression d’avoir deux bras.\n\nPendant quelques secondes, tout est normal.\n\nPuis j’essaye de bouger celui qui n’est plus là.\n\nEt je me rappelle.\n\nLe poison.\n\nLa nécrose.\n\nLes médecins.\n\nEt cette phrase que je n’avais pas envie d’entendre :\n\nils devaient l’amputer.\n\nJe sais pourquoi ils l’ont fait.\n\nJe sais que c’était nécessaire.\n\nJe sais que si on avait attendu plus longtemps, la nécrose aurait pu continuer à progresser.\n\nJe comprends tout ça.\n\nÇa ne rend pas les choses plus faciles.\n\nMon corps semble encore refuser d’accepter ce qui s’est passé.\n\nPar moments, je sens mes doigts.\n\nJe pourrais presque jurer qu’ils sont là.\n\nJ’ai même essayé plusieurs fois de serrer quelque chose avec une main qui n’existe plus.\n\nC’est probablement la sensation la plus étrange que j’ai connue.\n\nAvoir mal à quelque chose qu’on n’a plus.\n\nEt puis il y a tout le reste.\n\nÉcrire prend plus de temps.\n\nM’habiller est agaçant.\n\nManipuler certains outils seul est presque impossible pour le moment.\n\nMême simplement porter quelque chose devient un problème auquel je n’avais jamais pensé avant.\n\nJe déteste devoir demander de l’aide.\n\nPas parce que les autres me dérangent.\n\nParce que j’avais l’habitude de pouvoir faire les choses moi-même.\n\nEt maintenant, il y a des moments où je dois simplement attendre.\n\nC’est probablement ça qui me frustre le plus.\n\nAttendre.\n\nJe passe beaucoup de temps à regarder mon épaule.\n\nC’est idiot.\n\nJe sais très bien que mon bras ne va pas réapparaître parce que je le fixe assez longtemps.\n\nMais je le fais quand même.\n\nJe crois que je n’ai pas encore vraiment compris ce que j’ai perdu.\n\nCe n’était pas seulement un membre.\n\nC’était une habitude.\n\nUn équilibre.\n\nUne manière de travailler.\n\nUne manière de me déplacer.\n\nQuelque chose d’assez important pour que je n’aie jamais eu besoin d’y penser avant de ne plus l’avoir.\n\nJe pleure plus souvent que je ne voudrais l’admettre.\n\nSurtout la nuit.\n\nLa journée, j’arrive encore à réfléchir à autre chose.\n\nMes recherches.\n\nLes matrices.\n\nLes matériaux.\n\nLes trucs que je voudrais tester quand je pourrai sortir d’ici.\n\nLa nuit, c’est différent.\n\nIl n’y a plus grand-chose pour occuper mon cerveau.\n\nAlors il revient toujours au même endroit.\n\nLa mission.\n\nLe moment où j’ai foncé.\n\nLe poison.\n\nEt cette idée stupide que si j’avais attendu quelques secondes de plus, peut-être que rien de tout ça ne serait arrivé.\n\nJe sais que réfléchir comme ça ne changera rien.\n\nMais ça ne m’empêche pas de le faire.\n\nJe suis en colère contre moi-même.\n\nEt en même temps je sais très bien pourquoi j’ai fait ça.\n\nJ’avais vu quelque chose de nouveau.\n\nJe voulais comprendre.\n\nJe voulais arriver le premier.\n\nJe voulais voir avant que quelqu’un d’autre ne touche à quoi que ce soit.\n\nÇa me ressemble beaucoup trop.\n\nJe crois que c’est ça qui me fait le plus peur.\n\nJe ne veux pas arrêter d’être curieux.\n\nJe ne veux pas commencer à avoir peur de chaque nouvelle découverte simplement parce que celle-ci m’a coûté un bras.\n\nMais il va falloir que j’apprenne quelque chose que je n’ai clairement pas encore compris :\n\nêtre prudent ne veut pas dire être lâche.\n\nJe peux avoir envie de savoir sans devoir me jeter immédiatement dessus.\n\nPour l’instant, j’ai surtout besoin de récupérer.\n\nLes médecins parlent déjà de rééducation.\n\nEt Toshiro m’a dit qu’il avait peut-être une idée pour une prothèse.\n\nJe ne sais pas encore ce que j’en pense.\n\nUne partie de moi veut juste récupérer mon ancien bras.\n\nJe sais que c’est impossible.\n\nUne autre partie commence déjà à se demander ce qu’on pourrait faire avec un bras mécanique.\n\nCette partie de moi est probablement un problème.\n\nMais au moins, ça veut dire que je commence à regarder un peu vers l’avant.\n\nNote personnelle\n\nAujourd’hui, j’ai essayé d’attraper mon carnet avec la mauvaise main.\n\nEnfin.\n\nAvec la main qui n’est plus là.\n\nJ’ai ri pendant deux secondes.\n\nPuis j’ai pleuré.\n\nTrès bonne journée.",
+    "facettes": {
+     "evenement": "",
+     "reflexion": "",
+     "peur": "",
+     "ambition": "",
+     "relation": "",
+     "decouverte": ""
+    },
+    "images": [
+     {
+      "id": "img_mwh00h5vr3ajz",
+      "caption": "",
+      "kind": "croquis",
+      "rot": -2.6
+     }
+    ],
+    "marge": [],
+    "epoque": "avant",
+    "important": true,
+    "liens": [],
+    "createdAt": 1794696533974,
+    "updatedAt": 1794696605727
    }
   ],
   "inventions": [
