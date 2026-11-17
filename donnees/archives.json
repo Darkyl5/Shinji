@@ -2,7 +2,7 @@
  "format": "archives-composition",
  "version": 1,
  "app": "Les Archives de la Composition",
- "exportedAt": "2026-11-15T21:38:01.950Z",
+ "exportedAt": "2026-11-17T16:35:04.235Z",
  "data": {
   "v": 1,
   "recherches": [
@@ -1467,6 +1467,41 @@
     "liens": [],
     "createdAt": 1794778567025,
     "updatedAt": 1794778678146
+   },
+   {
+    "id": "e_mwkwsz2i97qza",
+    "titre": "PAGE 010 - Donner un langage aux cercles",
+    "dateRP": "",
+    "lieu": "bureau de Shinji",
+    "humeur": "curieux",
+    "personnages": [
+     "c-shinji"
+    ],
+    "categorie": "kosei",
+    "tags": [],
+    "texte": "Je commence à avoir un problème assez évident.\n\nMes cercles deviennent de plus en plus compliqués.\n\nAu début, ça allait.\n\nQuelques lignes pour indiquer la matière.\n\nUne partie pour la décomposition.\n\nUne autre pour la recomposition.\n\nEt assez de Fûinjutsu autour pour guider le chakra.\n\nMais plus j’ajoute de matériaux et d’opérations différentes, plus mes dessins deviennent difficiles à lire.\n\nEt si moi-même je dois rester cinq minutes devant une Matrice pour me rappeler ce que j’ai voulu dire, c’est probablement que la méthode n’est pas très bonne.\n\nIl me faut donc un langage.\n\nPas un langage avec des phrases.\n\nPlutôt un système où un symbole représente toujours la même chose.\n\nUne matière.\n\nUne opération.\n\nUne condition.\n\nUn outil.\n\nOu un état.\n\nJ’ai commencé par récupérer plusieurs anciens symboles alchimiques.\n\nCertains sont déjà extrêmement pratiques.\n\n🜂 pour le feu.\n\n🜄 pour l’eau.\n\n🜁 pour l’air.\n\n🜃 pour la terre.\n\nRien que ça permet déjà de décrire rapidement certaines conditions d’une transformation.\n\nMais le plus intéressant, ce sont les symboles des matières.\n\n☉ pour l’or.\n\n☽ pour l’argent.\n\n♀ pour le cuivre.\n\n♂ pour le fer.\n\n♃ pour l’étain.\n\n♄ pour le plomb.\n\n☿ pour le mercure.\n\nÇa signifie que je peux commencer à lire une partie d’un cercle sans avoir besoin d’écrire le nom complet de chaque matériau.\n\nPar exemple, si je travaille sur une roche contenant du fer, je peux utiliser 🜜 pour représenter le minerai de fer, puis ♂ lorsque je veux indiquer le fer obtenu après séparation.\n\nC’est déjà beaucoup plus clair.\n\nLe deuxième groupe important concerne les opérations.\n\n🝡 ou 🝢 pour la dissolution.\n\n🝣 pour la purification.\n\n🝞 pour la sublimation.\n\n🝠 pour la distillation.\n\n🝟 pour un précipité.\n\nDonc une séquence simple peut presque être écrite comme une phrase.\n\nPar exemple :\n\n🜜 → 🝡 → 🝣 → ♂\n\nMinerai de fer.\n\nSéparation.\n\nPurification.\n\nFer.\n\nÉvidemment, le symbole seul ne suffit pas à faire fonctionner la transmutation.\n\nIl indique simplement ce que je cherche à faire.\n\nLa Matrice doit toujours contenir les instructions de chakra nécessaires.\n\nC’est là que le Fûinjutsu reste indispensable.\n\nJe commence donc à distinguer deux parties dans mes cercles.\n\nLa partie alchimique décrit la matière et l’opération.\n\nLa partie Fûinjutsu explique au chakra comment exécuter cette opération.\n\nEn résumé :\n\nles symboles alchimiques disent quoi faire.\n\nLes sceaux indiquent comment le faire.\n\nJe trouve ça beaucoup plus propre.\n\nJ’ai aussi remarqué que certains symboles peuvent servir à décrire les conditions de travail.\n\n🝮 pour une heure.\n\n🝯 pour la nuit.\n\n🝰 pour une période jour et nuit.\n\n🝱 pour un mois.\n\nÇa paraît inutile au début, mais pour certaines expériences longues, ce sera probablement pratique.\n\nMême chose pour les instruments.\n\n🝥 à 🝩 pour les creusets.\n\n🝪 pour l’alambic.\n\n🝫 pour le bain-marie.\n\n🝭 pour la cornue.\n\nÇa me permettra de garder des protocoles beaucoup plus courts.\n\nJe peux presque écrire une expérience entière sous forme de symboles.\n\nEt ça me plaît beaucoup trop.\n\nJ’ai aussi commencé à réfléchir aux trois principes :\n\nsoufre,\n\nmercure,\n\nsel.\n\nJe ne sais pas encore exactement comment je vais les intégrer au Kōseijutsu.\n\nJe préfère éviter d’utiliser un symbole simplement parce qu’il a l’air intéressant.\n\nSi je l’utilise, il doit avoir une fonction précise.\n\nPour le moment, je vais surtout me concentrer sur les signes que je peux relier à des matières ou opérations que je comprends déjà.\n\nIl faudra probablement créer mes propres symboles pour ce qui n’existe pas dans l’ancien système.\n\nNotamment :\n\nle chakra,\n\nla compréhension,\n\nla décomposition,\n\nla recomposition,\n\nl’équivalence,\n\nl’entrée de matière,\n\net la sortie.\n\nCes symboles-là devront être universels dans toutes mes Matrices.\n\nJe veux pouvoir regarder un cercle que j’ai dessiné plusieurs mois auparavant et comprendre immédiatement ce qu’il fait.\n\nSinon je vais finir par activer un vieux schéma sans savoir à quoi il sert.\n\nEt j’aimerais éviter cette expérience.\n\nPour l’instant, je commence donc à organiser le langage des Matrices en trois groupes.\n\nPremier groupe : la matière.\n\nFer, cuivre, or, sels, minerais, substances.\n\nDeuxième groupe : les opérations.\n\nDissoudre, séparer, purifier, assembler, distiller.\n\nTroisième groupe : les instructions de chakra.\n\nCelles-là viendront du Fûinjutsu et de mes propres recherches.\n\nJe pense que c’est cette troisième partie qui fera réellement la différence entre l’alchimie classique et le Kōseijutsu.\n\nUne ancienne formule peut dire :\n\nminerai de fer → purification → fer.\n\nMoi, je dois encore expliquer au chakra :\n\noù commencer,\n\nquelle quantité affecter,\n\ncomment reconnaître le composant recherché,\n\noù envoyer les résidus,\n\net quand arrêter la transformation.\n\nDonc les symboles ne remplacent pas la compréhension.\n\nIls la rendent simplement lisible.\n\nNote personnelle\n\nJe crois que je viens officiellement d’inventer une manière scientifique d’écrire encore moins de mots.\n\nEnfin une découverte réellement utile.",
+    "facettes": {
+     "evenement": "",
+     "reflexion": "",
+     "peur": "",
+     "ambition": "",
+     "relation": "",
+     "decouverte": ""
+    },
+    "images": [
+     {
+      "id": "img_mwkwv91wd7n1n",
+      "caption": "",
+      "kind": "croquis",
+      "rot": -1.2
+     }
+    ],
+    "marge": [],
+    "epoque": "avant",
+    "important": true,
+    "liens": [],
+    "createdAt": 1794933067914,
+    "updatedAt": 1794933183194
    }
   ],
   "inventions": [
