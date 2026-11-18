@@ -2,7 +2,7 @@
  "format": "archives-composition",
  "version": 1,
  "app": "Les Archives de la Composition",
- "exportedAt": "2026-11-17T16:41:40.001Z",
+ "exportedAt": "2026-11-18T13:27:01.178Z",
  "data": {
   "v": 1,
   "recherches": [
@@ -1467,6 +1467,42 @@
     "liens": [],
     "createdAt": 1794778567025,
     "updatedAt": 1794778678146
+   },
+   {
+    "id": "e_mwm5luo10w9jf",
+    "titre": "Premier raccordement",
+    "dateRP": "17/11/2026",
+    "lieu": "Atelier Shirogane",
+    "humeur": "inquiet",
+    "personnages": [
+     "c-shinji",
+     "c_mwf5yky7wh00v"
+    ],
+    "categorie": "vie",
+    "tags": [],
+    "texte": "Aujourd’hui, ils ont installé le bras pour la première fois.\n\nPas définitivement.\n\nJuste assez longtemps pour vérifier si le système répondait correctement.\n\nJ’avais passé tellement de temps à réfléchir à la prothèse comme à un problème de mécanique que j’avais presque oublié un détail assez important :\n\nelle devait être attachée à moi.\n\nPas simplement à mon épaule.\n\nÀ mes nerfs.\n\nAux muscles encore utilisables.\n\nEt éventuellement à certains circuits de chakra si je veux un jour que le bras devienne autre chose qu’un morceau de métal articulé.\n\nSur le papier, le principe était propre.\n\nUne interface autour du moignon.\n\nDes points de fixation.\n\nDes contacts destinés à récupérer les signaux nerveux.\n\nLe mouvement détecté est interprété.\n\nLe mécanisme reproduit le mouvement.\n\nSimple.\n\nEnfin, simple tant que la phrase s’arrête avant :\n\n« connecter les nerfs ».\n\nLa première fixation n’a presque pas fait mal.\n\nBeaucoup de pression.\n\nUne sensation particulièrement désagréable autour de l’épaule.\n\nRien d’insupportable.\n\nJ’ai même commencé à penser que tout le monde avait exagéré.\n\nPuis ils ont activé le premier contact.\n\nJe ne sais pas vraiment comment décrire la douleur.\n\nCe n’était pas comme une coupure.\n\nPas comme une brûlure non plus.\n\nC’était plus proche d’une décharge qui aurait commencé dans un bras que je n’avais plus avant de remonter directement jusqu’à mon épaule.\n\nPendant une seconde, j’ai eu l’impression de sentir ma main gauche.\n\nPas la prothèse.\n\nMa vraie main.\n\nLes doigts.\n\nLa paume.\n\nMême le poignet.\n\nPuis la sensation a disparu et il n’est resté que la douleur.\n\nJe crois que c’est la première fois depuis l’amputation que mon cerveau a réellement refusé de comprendre ce qui se passait.\n\nLe bras n’existe plus.\n\nLes nerfs, eux, semblent ne pas avoir reçu l’information.\n\nDeuxième contact.\n\nPire.\n\nJ’ai senti quelque chose courir de l’épaule jusqu’à l’extrémité de la prothèse.\n\nComme si chaque nerf essayait de retrouver une partie du corps qui n’était plus là et rencontrait du métal à la place.\n\nJ’ai serré les dents.\n\nÇa n’a absolument rien changé.\n\nTroisième contact.\n\nJ’ai demandé une pause.\n\nJe vais écrire ça parce que je sais très bien que dans quelques semaines je raconterai probablement que je n’en avais pas besoin.\n\nJ’en avais besoin.\n\nBeaucoup.\n\nLe problème est que les connexions fonctionnent.\n\nC’est aussi la bonne nouvelle.\n\nQuand j’essaie de fermer la main gauche, certains capteurs reçoivent réellement quelque chose.\n\nTrès faible.\n\nTrès imprécis.\n\nMais quelque chose.\n\nPremier test volontaire :\n\nfermer l’index.\n\nRésultat :\n\nindex presque immobile.\n\nmajeur qui bouge légèrement.\n\ndouleur importante.\n\nDonc pas exactement une réussite.\n\nDeuxième essai :\n\nfermer toute la main.\n\nCette fois les doigts ont bougé.\n\nPas ensemble.\n\nPas correctement.\n\nMais ils ont bougé.\n\nJe crois que j’ai souri pendant environ deux secondes avant que la douleur recommence.\n\nC’est étrange.\n\nJe savais que ce bras serait difficile à construire.\n\nJe pensais que la partie compliquée serait la mécanique.\n\nLes articulations.\n\nLa circulation du chakra.\n\nLes matériaux.\n\nLes matrices.\n\nJe n’avais pas vraiment pensé au fait que mon propre corps serait probablement la pièce la plus difficile à adapter.\n\nAprès plusieurs essais, la douleur a commencé à changer.\n\nAu début chaque connexion ressemblait à une décharge.\n\nEnsuite c’est devenu une brûlure plus constante.\n\nPuis des picotements.\n\nPuis parfois simplement une pression étrange.\n\nLe médecin dit que mon cerveau doit apprendre à interpréter les nouveaux signaux.\n\nDonc pour une fois, le problème n’est pas que ma machine fonctionne mal.\n\nC’est moi qui dois apprendre à l’utiliser.\n\nJe trouve ça légèrement vexant.\n\nOn a aussi testé le mouvement du coude.\n\nBeaucoup plus facile.\n\nProbablement parce que le geste est moins précis.\n\nLever l’avant-bras fonctionne déjà presque correctement.\n\nTourner le poignet est catastrophique.\n\nBouger un doigt séparément est encore pire.\n\nLa force est volontairement limitée pour le moment.\n\nBonne décision.\n\nJ’ai réussi à faire tomber une tasse simplement en essayant de la tenir.\n\nSi le bras avait utilisé toute sa force, je pense que je n’aurais plus de tasse.\n\nJ’ai demandé à tester une première circulation de chakra dans l’interface.\n\nIls ont refusé.\n\nProbablement la décision la plus intelligente de la journée.\n\nPour l’instant, les nerfs doivent déjà accepter que le bras existe.\n\nJe pourrai compliquer le problème plus tard.\n\nJ’ai quand même commencé à noter plusieurs choses.\n\nLa douleur semble plus importante lorsque j’essaie d’effectuer un mouvement très précis.\n\nLes mouvements simples demandent moins d’effort.\n\nLes signaux deviennent confus lorsque j’essaie de bouger plusieurs doigts indépendamment.\n\nEt surtout :\n\nje ressens parfois une partie de mon ancien bras alors que je regarde clairement une main métallique devant moi.\n\nCette sensation est probablement celle qui me dérange le plus.\n\nPas parce qu’elle fait mal.\n\nParce que pendant une seconde, j’oublie que ma vraie main n’est plus là.\n\nPuis je la regarde.\n\nEt je me souviens.\n\nJe suppose que ça aussi finira par changer.\n\nObjectif actuel :\n\narriver à ouvrir et fermer correctement la main.\n\nEnsuite seulement :\n\npoignet.\n\ndoigts indépendants.\n\nforce.\n\nsensibilité.\n\nchakra.\n\nEt beaucoup plus tard, Kōseijutsu.\n\nJe veux que ce bras devienne un outil d’alchimiste.\n\nMais aujourd’hui, réussir à tenir un crayon sans le casser me paraît déjà être un objectif suffisamment ambitieux.\n\nNote personnelle\n\nLa bonne nouvelle :\n\nla prothèse répond.\n\nLa mauvaise :\n\nje sens absolument chaque étape de son apprentissage.\n\nEt si quelqu’un me répète encore que « la douleur est bon signe », je testerai probablement la force maximale du bras sur lui.\n\nPour la science, évidemment.",
+    "facettes": {
+     "evenement": "",
+     "reflexion": "",
+     "peur": "",
+     "ambition": "",
+     "relation": "",
+     "decouverte": ""
+    },
+    "images": [
+     {
+      "id": "img_mwm5norxcmqmi",
+      "caption": "",
+      "kind": "croquis",
+      "rot": 2
+     }
+    ],
+    "marge": [],
+    "epoque": "avant",
+    "important": false,
+    "liens": [],
+    "createdAt": 1795008318337,
+    "updatedAt": 1795008412643
    },
    {
     "id": "e_mwkwsz2i97qza",
