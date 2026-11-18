@@ -1,8 +1,8 @@
 {
  "format": "archives-composition-site",
  "version": 1,
- "revision": 19,
- "updatedAt": "2026-11-18T13:27:01.178Z",
+ "revision": 20,
+ "updatedAt": "2026-11-18T13:43:36.735Z",
  "files": {
   "archives": "archives.json"
  },
@@ -18,8 +18,9 @@
   "img_mwgzgpon42uib": "images/img_mwgzgpon42uib.jpg",
   "img_mwh00h5vr3ajz": "images/img_mwh00h5vr3ajz.jpg",
   "img_mwicvb78e278a": "images/img_mwicvb78e278a.jpg",
-  "img_mwm5norxcmqmi": "images/img_mwm5norxcmqmi.jpg",
   "img_mwkwv91wd7n1n": "images/img_mwkwv91wd7n1n.jpg",
-  "img_mwkx5vf70sfq5": "images/img_mwkx5vf70sfq5.jpg"
+  "img_mwkx5vf70sfq5": "images/img_mwkx5vf70sfq5.jpg",
+  "img_mwm5norxcmqmi": "images/img_mwm5norxcmqmi.jpg",
+  "img_mwm5yp4pxpyid": "images/img_mwm5yp4pxpyid.jpg"
  }
 }

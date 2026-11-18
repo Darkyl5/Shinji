@@ -2,7 +2,7 @@
  "format": "archives-composition",
  "version": 1,
  "app": "Les Archives de la Composition",
- "exportedAt": "2026-11-18T13:27:01.178Z",
+ "exportedAt": "2026-11-18T13:43:36.735Z",
  "data": {
   "v": 1,
   "recherches": [
@@ -1402,7 +1402,7 @@
     "titre": "Le poids de l’absence",
     "dateRP": "13/11/2026",
     "lieu": "Hopital de Suna",
-    "humeur": "frustre",
+    "humeur": "",
     "personnages": [
      "c-shinji",
      "c_mwf5yky7wh00v"
@@ -1427,18 +1427,18 @@
      }
     ],
     "marge": [],
-    "epoque": "avant",
+    "epoque": "apres",
     "important": true,
     "liens": [],
     "createdAt": 1794696533974,
-    "updatedAt": 1794696605727
+    "updatedAt": 1795009246143
    },
    {
     "id": "e_mwicthf5tjksk",
     "titre": "Ce bras qui n’existe plus",
     "dateRP": "15/11/2026",
     "lieu": "infirmerie de Suna",
-    "humeur": "frustre",
+    "humeur": "",
     "personnages": [
      "c-shinji"
     ],
@@ -1462,18 +1462,18 @@
      }
     ],
     "marge": [],
-    "epoque": "avant",
+    "epoque": "apres",
     "important": false,
     "liens": [],
     "createdAt": 1794778567025,
-    "updatedAt": 1794778678146
+    "updatedAt": 1795009295642
    },
    {
     "id": "e_mwm5luo10w9jf",
     "titre": "Premier raccordement",
     "dateRP": "17/11/2026",
     "lieu": "Atelier Shirogane",
-    "humeur": "inquiet",
+    "humeur": "",
     "personnages": [
      "c-shinji",
      "c_mwf5yky7wh00v"
@@ -1498,18 +1498,18 @@
      }
     ],
     "marge": [],
-    "epoque": "avant",
+    "epoque": "apres",
     "important": false,
     "liens": [],
     "createdAt": 1795008318337,
-    "updatedAt": 1795008412643
+    "updatedAt": 1795009259742
    },
    {
     "id": "e_mwkwsz2i97qza",
     "titre": "PAGE 010 - Donner un langage aux cercles",
     "dateRP": "16/11/2026",
     "lieu": "bureau de Shinji",
-    "humeur": "curieux",
+    "humeur": "",
     "personnages": [
      "c-shinji"
     ],
@@ -1533,11 +1533,11 @@
      }
     ],
     "marge": [],
-    "epoque": "avant",
+    "epoque": "apres",
     "important": true,
     "liens": [],
     "createdAt": 1794933067914,
-    "updatedAt": 1794933309410
+    "updatedAt": 1795009239590
    },
    {
     "id": "e_mwkx2adn2i1t3",
@@ -1573,6 +1573,41 @@
     "liens": [],
     "createdAt": 1794933502475,
     "updatedAt": 1794933674458
+   },
+   {
+    "id": "e_mwm5ymz248dmy",
+    "titre": "PAGE 011 - Les tabous de l'Alchimie",
+    "dateRP": "17/11/2026",
+    "lieu": "Bureau de shinji ",
+    "humeur": "",
+    "personnages": [
+     "c-shinji"
+    ],
+    "categorie": "tabou",
+    "tags": [],
+    "texte": "J’ai commencé à lire davantage sur les interdictions liées à l’alchimie.\n\nJe pensais trouver une liste simple.\n\n“Ça, on peut.”\n\n“Ça, on ne peut pas.”\n\nÉvidemment, ce n’est pas aussi propre.\n\nJe crois qu’il faut déjà faire une différence entre trois choses.\n\nCe qui est impossible.\n\nCe qui est possible mais dangereux.\n\nEt ce qui est possible, mais interdit parce que quelqu’un a décidé que personne ne devait le faire.\n\nCe ne sont pas du tout les mêmes choses.\n\nLe premier grand tabou est probablement le plus évident.\n\nCréer un être humain.\n\nOu en recréer un.\n\nSur le papier, un corps reste constitué de matière.\n\nDes os.\n\nDe l’eau.\n\nDes sels.\n\nDes métaux en quantité infime.\n\nDes tissus.\n\nDonc une partie de moi a forcément eu la pensée stupide :\n\nsi tous les composants sont connus, pourquoi serait-il impossible de les recomposer ?\n\nLe problème est qu’un humain n’est manifestement pas simplement la somme de ses composants.\n\nJe peux connaître la composition d’une main sans savoir créer une main vivante.\n\nJe peux connaître la matière d’un cerveau sans comprendre comment une pensée existe.\n\nEt surtout, personne ne sait réellement où placer l’âme dans tout ça.\n\nC’est probablement la partie qui rend cette recherche différente de toutes les autres.\n\nQuand je travaille sur une pierre et que je me trompe, j’obtiens une mauvaise pierre.\n\nQuand je travaille sur du métal et que je me trompe, j’obtiens une pièce inutilisable.\n\nSi je me trompe sur un être humain…\n\nje préfère ne pas finir cette phrase.\n\nDonc pour le moment :\n\naucune création humaine.\n\nAucune tentative de résurrection.\n\nAucune expérience sur l’âme.\n\nJe ne sais même pas si ces choses sont réellement possibles.\n\nEt c’est précisément pour ça que je ne dois pas essayer juste pour obtenir une réponse.\n\nIl y a ensuite l’or.\n\nCelui-là est différent.\n\nTransformer de la matière en or n’est pas forcément considéré comme un tabou parce que la transmutation serait mystérieuse ou maudite.\n\nC’est surtout parce que si un alchimiste pouvait produire librement une ressource ayant autant de valeur, il pourrait complètement détruire son économie.\n\nCréer dix grammes.\n\nPuis cent.\n\nPuis dix kilos.\n\nEt soudain la monnaie, les réserves et la valeur du métal ne signifient plus rien.\n\nDonc la création artificielle d’or est interdite.\n\nJe trouve ça intéressant.\n\nCe n’est pas la nature qui interdit la transformation.\n\nCe sont les hommes.\n\nUn troisième domaine me dérange davantage : la conscience.\n\nDepuis que j’ai rencontré 5630, je ne peux plus simplement écrire que créer quelque chose de vivant est impossible.\n\nElle réfléchit.\n\nElle parle.\n\nElle déduit.\n\nElle choisit.\n\nJe ne sais pas comment les Shirogane ont réussi quelque chose comme ça.\n\nMais le résultat existe.\n\nDonc la vraie question devient beaucoup plus compliquée.\n\nÀ quel moment une création cesse-t-elle d’être un objet ?\n\nSi je construis une marionnette capable de suivre cent ordres, c’est une machine.\n\nSi elle commence à choisir de ne pas suivre un ordre ?\n\nSi elle développe ses propres préférences ?\n\nSi elle a peur de mourir ?\n\nJe ne sais pas.\n\nEt je crois que personne ne devrait répondre à cette question trop rapidement.\n\nPour le moment, je classerais toute recherche sur la mémoire, la personnalité ou la conscience parmi les domaines à manipuler avec énormément de prudence.\n\nPas forcément interdits.\n\nMais certainement pas quelque chose qu’on teste simplement parce qu’on en est capable.\n\nIl existe aussi les expériences sur le chakra humain.\n\nJe pourrais théoriquement finir par étudier comment le chakra réagit dans une Matrice.\n\nMais modifier directement le réseau d’une personne est une autre histoire.\n\nUn mauvais cercle sur une roche peut casser la roche.\n\nUn mauvais cercle sur les méridiens de quelqu’un pourrait faire beaucoup plus.\n\nDonc :\n\naucune manipulation directe du réseau de chakra d’une personne sans nécessité, compréhension et autorisation.\n\nEt enfin, il existe probablement un tabou beaucoup plus simple.\n\nLe sacrifice.\n\nSi une transmutation exige davantage d’énergie que je peux en fournir, la solution ne peut pas simplement devenir :\n\nprendre cette énergie chez quelqu’un d’autre.\n\nUne vie n’est pas un matériau.\n\nÇa devrait être évident.\n\nLe problème est que certaines choses deviennent beaucoup moins évidentes lorsqu’une expérience promet quelque chose de suffisamment important.\n\nJe préfère donc l’écrire maintenant.\n\nAvant d’avoir une raison de changer d’avis.\n\nAucune découverte ne justifie automatiquement le prix qu’on décide de lui donner.\n\nJe me connais suffisamment pour savoir qu’un jour je pourrais être tenté de trouver une très bonne justification.\n\nDonc autant laisser une trace de ce que j’en pense aujourd’hui.\n\nPour l’instant, mes tabous sont simples.\n\nCréer ou recréer un humain.\n\nToucher volontairement à une âme.\n\nProduire artificiellement de l’or.\n\nUtiliser quelqu’un comme source de matière ou d’énergie.\n\nModifier directement le corps, la mémoire ou le chakra d’une personne sans comprendre exactement ce que je fais.\n\nEt surtout :\n\nne jamais confondre “je peux essayer” avec “j’ai le droit d’essayer”.\n\nJe crois que c’est probablement la règle la plus importante.\n\nNote personnelle\n\nC’est assez étrange de devoir écrire une liste de choses que je promets de ne jamais faire.\n\nEncore plus étrange de savoir que la plupart de ces règles existent probablement parce que quelqu’un, quelque part, les a déjà enfreintes.\n\nConclusion\n\nJe pensais que les limites de l’alchimie seraient simplement des limites scientifiques.\n\nJe commence à comprendre que certaines sont aussi morales.\n\nLa science peut me dire si quelque chose fonctionne.\n\nElle ne me dira jamais, à elle seule, si je dois le faire.\n\nEt c’est peut-être ça qui m’inquiète le plus.\n\nAujourd’hui, c’est facile d’écrire que je ne toucherai jamais à une âme.\n\nQue je ne sacrifierai jamais quelqu’un.\n\nQue je ne tenterai jamais de recréer un humain.\n\nJe n’ai rien à gagner en enfreignant ces règles.\n\nPersonne que j’aime n’est devant moi en train de mourir.\n\nJe n’ai pas entre les mains une méthode capable de ramener quelqu’un.\n\nJe n’ai pas découvert quelque chose qui pourrait sauver des milliers de personnes au prix d’une seule.\n\nAlors évidemment que je peux dire non.\n\nMais si un jour la réponse est réellement devant moi ?\n\nSi je sais exactement comment faire ?\n\nSi quelqu’un que je refuse de perdre se trouve de l’autre côté ?\n\nEst-ce que je fermerai vraiment le carnet et partirai ?\n\n...\n\nJ’aimerais écrire oui.\n\nJe devrais écrire oui.\n\nMais ce serait mentir de prétendre que j’en suis certain.\n\nNouvelle question :\n\nsi la seule chose entre moi et l’impossible est un tabou…\n\nest-ce que je respecterai encore ce tabou lorsque j’aurai enfin une raison de le briser ?",
+    "facettes": {
+     "evenement": "",
+     "reflexion": "",
+     "peur": "",
+     "ambition": "",
+     "relation": "",
+     "decouverte": ""
+    },
+    "images": [
+     {
+      "id": "img_mwm5yp4pxpyid",
+      "caption": "",
+      "kind": "croquis",
+      "rot": 3.6
+     }
+    ],
+    "marge": [],
+    "epoque": "apres",
+    "important": true,
+    "liens": [],
+    "createdAt": 1795008914894,
+    "updatedAt": 1795009156700
    }
   ],
   "inventions": [
