@@ -2,7 +2,7 @@
  "format": "archives-composition",
  "version": 1,
  "app": "Les Archives de la Composition",
- "exportedAt": "2026-11-19T23:56:58.695Z",
+ "exportedAt": "2026-11-20T00:02:18.640Z",
  "data": {
   "v": 1,
   "recherches": [
@@ -1682,7 +1682,7 @@
     "titre": "PAGE 014 — Protocole Zéro",
     "dateRP": "19/11/2026",
     "lieu": "Bureau de Shinji",
-    "humeur": "inquiet",
+    "humeur": "",
     "personnages": [
      "c-shinji"
     ],
@@ -1706,11 +1706,46 @@
      }
     ],
     "marge": [],
-    "epoque": "avant",
+    "epoque": "apres",
     "important": true,
     "liens": [],
     "createdAt": 1795132186666,
-    "updatedAt": 1795132497600
+    "updatedAt": 1795132871299
+   },
+   {
+    "id": "e_mwo7m4m61yy3k",
+    "titre": "Une autre manière de servir Suna",
+    "dateRP": "19/11/2026",
+    "lieu": "Chambre de Shinji",
+    "humeur": "determine",
+    "personnages": [
+     "c-shinji"
+    ],
+    "categorie": "vie",
+    "tags": [],
+    "texte": "Je crois que j’ai enfin trouvé comment présenter l’idée.\n\nEnfin…\n\nje crois.\n\nJ’ai recommencé le dossier quatre fois aujourd’hui.\n\nLe problème n’est pas le projet.\n\nLe problème, c’est d’expliquer à des officiers pourquoi l’armée aurait besoin de soldats dont la fonction principale n’est pas de courir vers l’ennemi avec une arme.\n\nPrésenté comme ça, je comprends déjà pourquoi ça risque d’être compliqué.\n\nL’idée me paraît pourtant de plus en plus évidente.\n\nPendant l’examen Chūnin, j’ai vu une arme provoquer une catastrophe que personne autour de moi ne savait réellement arrêter.\n\nJ’ai vu des bâtiments endommagés.\n\nDes dispositifs qu’on ne comprenait pas.\n\nDes gens capables de combattre extrêmement bien se retrouver face à des problèmes qui n’étaient simplement pas des problèmes de combat.\n\nEt surtout, j’ai vu le Raikage devoir fournir lui-même la réponse finale.\n\nDepuis, cette question revient souvent.\n\nPourquoi l’armée ne possède-t-elle pas davantage de gens dont le travail est justement de trouver une troisième solution ?\n\nPas un meilleur combattant.\n\nPas une technique plus grosse.\n\nUne solution différente.\n\nJ’ai donc commencé à rédiger le projet d’un nouveau corps militaire.\n\nPour le moment, j’utilise le nom :\n\nCorps des Alchimistes d’État de Suna.\n\nJe vais probablement devoir expliquer immédiatement que “Alchimiste d’État” ne signifie pas “chercheur enfermé dans un laboratoire payé par l’armée pour collectionner des cailloux”.\n\nMême si, personnellement, je ne vois pas le problème.\n\nLe principe serait assez simple.\n\nUn Alchimiste d’État resterait un militaire.\n\nIl pourrait être envoyé sur le terrain.\n\nParticiper à une guerre.\n\nAccompagner une escouade.\n\nDéfendre Suna.\n\nMais sa fonction principale serait différente de celle d’un shinobi classique.\n\nLà où un shinobi est entraîné pour accomplir une mission,\n\nl’Alchimiste serait envoyé lorsqu’il faut comprendre quelque chose.\n\nUne arme inconnue.\n\nUne structure.\n\nUn matériau.\n\nUne ruine.\n\nUne défense ennemie.\n\nUne anomalie de chakra.\n\nOu simplement un problème auquel personne n’a encore de réponse.\n\nJe dois vraiment insister là-dessus pendant la présentation.\n\nLe projet ne remplace pas les shinobi.\n\nIl complète ce qu’ils savent déjà faire.\n\nJ’ai écrit cette phrase trois fois dans le dossier.\n\nPeut-être quatre.\n\nJe veux éviter qu’un général entende seulement :\n\n“Shinji souhaite créer une branche de l’armée qui travaille différemment”\n\net traduise immédiatement :\n\n“Shinji veut qu’on le laisse tranquille dans son laboratoire.”\n\nCe qui serait une interprétation particulièrement injuste.\n\nPas complètement fausse.\n\nMais injuste.\n\nJ’ai également commencé à réfléchir à la structure du Corps.\n\nRecherche fondamentale.\n\nForge et matériaux.\n\nTerrain.\n\nInfrastructure.\n\nProspection géologique.\n\nArchives.\n\nEt surtout contrôle et sécurité.\n\nCette dernière partie est importante.\n\nAprès ce que j’ai fait avec la bibliothèque, je serais extrêmement hypocrite de proposer une institution scientifique sans prévoir quelqu’un capable de dire :\n\n“Non. Cette expérience s’arrête ici.”\n\nMême à moi.\n\nSurtout à moi.\n\nJe veux aussi proposer une Commission officielle.\n\nPas simplement :\n\n“Tu es bon en science, bienvenue.”\n\nUn vrai examen.\n\nLe candidat devrait être capable d’analyser un problème, de résoudre quelque chose concrètement et surtout de savoir reconnaître lorsqu’il ne possède pas suffisamment d’informations.\n\nJe crois que la phrase la plus importante de tout le projet est peut-être celle-ci :\n\n“Je ne sais pas encore.”\n\nJ’ai passé suffisamment de temps à apprendre ce qui arrive lorsqu’on refuse de la dire.\n\nLes membres recevraient également un Sceau de Commission.\n\nUne plaque officielle.\n\nIdentité.\n\nNuméro.\n\nNiveau d’accès.\n\nSignature de Suna.\n\nQuelque chose qui montre clairement qu’ils ne sont pas simplement des scientifiques travaillant dans leur coin.\n\nIls agissent au nom du village.\n\nEt ça implique forcément des règles.\n\nJ’ai essayé de garder les interdictions simples.\n\nNe pas créer d’humains.\n\nNe pas produire artificiellement de l’or.\n\nEt ne pas désobéir aux ordres de l’armée.\n\nCette dernière règle me plaît beaucoup moins que les deux premières.\n\nJe suppose que ça prouve qu’elle a une raison d’exister.\n\nIl faudra aussi classer les recherches.\n\nPublic.\n\nInterne.\n\nMilitaire.\n\nSecret.\n\nInterdit.\n\nÇa permettra surtout d’éviter qu’un chercheur découvre quelque chose capable de faire tomber une muraille et décide ensuite d’en expliquer le fonctionnement à la moitié du désert.\n\nJ’ai aussi préparé les missions.\n\nJe pense que c’est probablement cette partie qui convaincra le plus facilement l’état-major.\n\nParce qu’une théorie scientifique est intéressante.\n\nUne liste de problèmes que le Corps peut résoudre l’est beaucoup plus.\n\nProspecter un nouveau gisement.\n\nStabiliser une mine.\n\nAnalyser une arme ennemie.\n\nRéparer une route militaire.\n\nAccompagner une expédition.\n\nÉtudier une ruine.\n\nDévelopper une défense contre une technique.\n\nNeutraliser un dispositif inconnu.\n\nEt en temps de guerre :\n\nfortifier,\n\nréparer,\n\nouvrir des passages,\n\ncomprendre les armes adverses,\n\net trouver comment les contrer.\n\nJe veux aussi leur présenter une idée que je trouve importante.\n\nLa valeur d’un militaire ne devrait pas toujours se mesurer au nombre de personnes qu’il peut vaincre.\n\nUn excellent combattant peut changer une bataille.\n\nMais quelqu’un capable de comprendre une technologie ennemie ou de créer une nouvelle défense peut modifier toutes les batailles suivantes.\n\nC’est probablement cette phrase que je vais utiliser à la fin.\n\nJ’ai essayé de répéter la présentation à voix haute.\n\nPremière tentative : vingt-sept minutes.\n\nBeaucoup trop long.\n\nDeuxième tentative : dix-neuf.\n\nToujours trop long.\n\nTroisième tentative : j’ai commencé à expliquer la structure cristalline du quartz alors que ce n’était absolument pas nécessaire.\n\nJ’ai arrêté de compter.\n\nIl faudra donc que je fasse quelque chose d’assez difficile demain :\n\nne pas expliquer tout ce que je sais.\n\nJe dois leur montrer ce que le Corps peut apporter.\n\nPas leur donner mon cours complet de géologie.\n\nJ’ai préparé plusieurs schémas.\n\nUn montrant la différence entre une escouade traditionnelle et une équipe accompagnée d’un Alchimiste d’État.\n\nUn autre montrant les divisions.\n\nUn troisième avec les différents grades.\n\nEt surtout quelques exemples réels.\n\nUne arme inconnue.\n\nUne mine qui s’effondre.\n\nUne ruine contenant un mécanisme ancien.\n\nUne attaque capable de provoquer une explosion majeure.\n\nPour chaque problème, je veux poser la même question :\n\n“Qui envoyons-nous aujourd’hui ?”\n\nPuis :\n\n“Qui pourrions-nous envoyer demain ?”\n\nJe pense que c’est là que le projet devient réellement intéressant.\n\nJe ne demande pas à Suna de financer une nouvelle discipline parce que j’aime l’alchimie.\n\nJe leur propose de créer une fonction qui n’existe pas encore.\n\nEt si j’arrive à les convaincre…\n\nje ne serai peut-être plus simplement un ninja qui fait de la science à côté.\n\nJe pourrai devenir un militaire dont la science est précisément le métier.\n\nCette idée me plaît probablement beaucoup plus qu’elle ne devrait.\n\nMais il y a aussi autre chose.\n\nSi le projet est accepté, mes recherches ne seront plus seulement mes recherches.\n\nD’autres personnes apprendront.\n\nD’autres développeront leurs propres Matrices.\n\nCertains découvriront probablement des choses auxquelles je n’aurais jamais pensé.\n\nUn jour, quelqu’un pourrait même devenir meilleur que moi dans une branche que j’ai contribué à créer.\n\nÉtrangement…\n\nça ne me dérange pas.\n\nAu contraire.\n\nÇa voudrait dire que le Kōseijutsu a cessé d’être mon expérience personnelle.\n\nIl serait devenu une véritable discipline.\n\nEt ça…\n\nça vaut probablement quelques réunions avec des généraux.\n\nNote personnelle\n\nLa présentation est presque prête.\n\nJ’ai une seule consigne pour moi-même :\n\nne pas commencer la réunion par :\n\n“J’ai une idée qui pourrait complètement changer l’armée.”\n\nMême si c’est techniquement ce que je pense.\n\nCommencer calmement.\n\nExpliquer le problème.\n\nPrésenter la solution.\n\nÉviter de parler pendant quarante minutes.\n\nEt surtout ne pas prononcer la phrase :\n\n“Faites-moi confiance.”\n\nMon dossier médical rendrait ça beaucoup moins convaincant.",
+    "facettes": {
+     "evenement": "",
+     "reflexion": "",
+     "peur": "",
+     "ambition": "",
+     "relation": "",
+     "decouverte": ""
+    },
+    "images": [
+     {
+      "id": "img_mwo7qym7l7ls3",
+      "caption": "",
+      "kind": "croquis",
+      "rot": -1.5
+     }
+    ],
+    "marge": [],
+    "epoque": "apres",
+    "important": true,
+    "liens": [],
+    "createdAt": 1795132622814,
+    "updatedAt": 1795132858967
    }
   ],
   "inventions": [
