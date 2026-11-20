@@ -2,7 +2,7 @@
  "format": "archives-composition",
  "version": 1,
  "app": "Les Archives de la Composition",
- "exportedAt": "2026-11-20T16:01:44.782Z",
+ "exportedAt": "2026-11-20T16:39:26.075Z",
  "data": {
   "v": 1,
   "recherches": [
@@ -1752,7 +1752,7 @@
     "titre": "PAGE 015 — La fissure",
     "dateRP": "20/11/2026",
     "lieu": "Chambre de shinji",
-    "humeur": "perdu",
+    "humeur": "",
     "personnages": [
      "c-shinji"
     ],
@@ -1776,11 +1776,11 @@
      }
     ],
     "marge": [],
-    "epoque": "avant",
+    "epoque": "apres",
     "important": true,
     "liens": [],
     "createdAt": 1795190329396,
-    "updatedAt": 1795190383439
+    "updatedAt": 1795192763091
    }
   ],
   "inventions": [
