@@ -2,7 +2,7 @@
  "format": "archives-composition",
  "version": 1,
  "app": "Les Archives de la Composition",
- "exportedAt": "2026-11-22T21:51:15.086Z",
+ "exportedAt": "2026-11-23T11:15:15.443Z",
  "data": {
   "v": 1,
   "recherches": [
@@ -1469,42 +1469,6 @@
     "updatedAt": 1795009295642
    },
    {
-    "id": "e_mwm5luo10w9jf",
-    "titre": "Premier raccordement",
-    "dateRP": "17/11/2026",
-    "lieu": "Atelier Shirogane",
-    "humeur": "",
-    "personnages": [
-     "c-shinji",
-     "c_mwf5yky7wh00v"
-    ],
-    "categorie": "vie",
-    "tags": [],
-    "texte": "Aujourd’hui, ils ont installé le bras pour la première fois.\n\nPas définitivement.\n\nJuste assez longtemps pour vérifier si le système répondait correctement.\n\nJ’avais passé tellement de temps à réfléchir à la prothèse comme à un problème de mécanique que j’avais presque oublié un détail assez important :\n\nelle devait être attachée à moi.\n\nPas simplement à mon épaule.\n\nÀ mes nerfs.\n\nAux muscles encore utilisables.\n\nEt éventuellement à certains circuits de chakra si je veux un jour que le bras devienne autre chose qu’un morceau de métal articulé.\n\nSur le papier, le principe était propre.\n\nUne interface autour du moignon.\n\nDes points de fixation.\n\nDes contacts destinés à récupérer les signaux nerveux.\n\nLe mouvement détecté est interprété.\n\nLe mécanisme reproduit le mouvement.\n\nSimple.\n\nEnfin, simple tant que la phrase s’arrête avant :\n\n« connecter les nerfs ».\n\nLa première fixation n’a presque pas fait mal.\n\nBeaucoup de pression.\n\nUne sensation particulièrement désagréable autour de l’épaule.\n\nRien d’insupportable.\n\nJ’ai même commencé à penser que tout le monde avait exagéré.\n\nPuis ils ont activé le premier contact.\n\nJe ne sais pas vraiment comment décrire la douleur.\n\nCe n’était pas comme une coupure.\n\nPas comme une brûlure non plus.\n\nC’était plus proche d’une décharge qui aurait commencé dans un bras que je n’avais plus avant de remonter directement jusqu’à mon épaule.\n\nPendant une seconde, j’ai eu l’impression de sentir ma main gauche.\n\nPas la prothèse.\n\nMa vraie main.\n\nLes doigts.\n\nLa paume.\n\nMême le poignet.\n\nPuis la sensation a disparu et il n’est resté que la douleur.\n\nJe crois que c’est la première fois depuis l’amputation que mon cerveau a réellement refusé de comprendre ce qui se passait.\n\nLe bras n’existe plus.\n\nLes nerfs, eux, semblent ne pas avoir reçu l’information.\n\nDeuxième contact.\n\nPire.\n\nJ’ai senti quelque chose courir de l’épaule jusqu’à l’extrémité de la prothèse.\n\nComme si chaque nerf essayait de retrouver une partie du corps qui n’était plus là et rencontrait du métal à la place.\n\nJ’ai serré les dents.\n\nÇa n’a absolument rien changé.\n\nTroisième contact.\n\nJ’ai demandé une pause.\n\nJe vais écrire ça parce que je sais très bien que dans quelques semaines je raconterai probablement que je n’en avais pas besoin.\n\nJ’en avais besoin.\n\nBeaucoup.\n\nLe problème est que les connexions fonctionnent.\n\nC’est aussi la bonne nouvelle.\n\nQuand j’essaie de fermer la main gauche, certains capteurs reçoivent réellement quelque chose.\n\nTrès faible.\n\nTrès imprécis.\n\nMais quelque chose.\n\nPremier test volontaire :\n\nfermer l’index.\n\nRésultat :\n\nindex presque immobile.\n\nmajeur qui bouge légèrement.\n\ndouleur importante.\n\nDonc pas exactement une réussite.\n\nDeuxième essai :\n\nfermer toute la main.\n\nCette fois les doigts ont bougé.\n\nPas ensemble.\n\nPas correctement.\n\nMais ils ont bougé.\n\nJe crois que j’ai souri pendant environ deux secondes avant que la douleur recommence.\n\nC’est étrange.\n\nJe savais que ce bras serait difficile à construire.\n\nJe pensais que la partie compliquée serait la mécanique.\n\nLes articulations.\n\nLa circulation du chakra.\n\nLes matériaux.\n\nLes matrices.\n\nJe n’avais pas vraiment pensé au fait que mon propre corps serait probablement la pièce la plus difficile à adapter.\n\nAprès plusieurs essais, la douleur a commencé à changer.\n\nAu début chaque connexion ressemblait à une décharge.\n\nEnsuite c’est devenu une brûlure plus constante.\n\nPuis des picotements.\n\nPuis parfois simplement une pression étrange.\n\nLe médecin dit que mon cerveau doit apprendre à interpréter les nouveaux signaux.\n\nDonc pour une fois, le problème n’est pas que ma machine fonctionne mal.\n\nC’est moi qui dois apprendre à l’utiliser.\n\nJe trouve ça légèrement vexant.\n\nOn a aussi testé le mouvement du coude.\n\nBeaucoup plus facile.\n\nProbablement parce que le geste est moins précis.\n\nLever l’avant-bras fonctionne déjà presque correctement.\n\nTourner le poignet est catastrophique.\n\nBouger un doigt séparément est encore pire.\n\nLa force est volontairement limitée pour le moment.\n\nBonne décision.\n\nJ’ai réussi à faire tomber une tasse simplement en essayant de la tenir.\n\nSi le bras avait utilisé toute sa force, je pense que je n’aurais plus de tasse.\n\nJ’ai demandé à tester une première circulation de chakra dans l’interface.\n\nIls ont refusé.\n\nProbablement la décision la plus intelligente de la journée.\n\nPour l’instant, les nerfs doivent déjà accepter que le bras existe.\n\nJe pourrai compliquer le problème plus tard.\n\nJ’ai quand même commencé à noter plusieurs choses.\n\nLa douleur semble plus importante lorsque j’essaie d’effectuer un mouvement très précis.\n\nLes mouvements simples demandent moins d’effort.\n\nLes signaux deviennent confus lorsque j’essaie de bouger plusieurs doigts indépendamment.\n\nEt surtout :\n\nje ressens parfois une partie de mon ancien bras alors que je regarde clairement une main métallique devant moi.\n\nCette sensation est probablement celle qui me dérange le plus.\n\nPas parce qu’elle fait mal.\n\nParce que pendant une seconde, j’oublie que ma vraie main n’est plus là.\n\nPuis je la regarde.\n\nEt je me souviens.\n\nJe suppose que ça aussi finira par changer.\n\nObjectif actuel :\n\narriver à ouvrir et fermer correctement la main.\n\nEnsuite seulement :\n\npoignet.\n\ndoigts indépendants.\n\nforce.\n\nsensibilité.\n\nchakra.\n\nEt beaucoup plus tard, Kōseijutsu.\n\nJe veux que ce bras devienne un outil d’alchimiste.\n\nMais aujourd’hui, réussir à tenir un crayon sans le casser me paraît déjà être un objectif suffisamment ambitieux.\n\nNote personnelle\n\nLa bonne nouvelle :\n\nla prothèse répond.\n\nLa mauvaise :\n\nje sens absolument chaque étape de son apprentissage.\n\nEt si quelqu’un me répète encore que « la douleur est bon signe », je testerai probablement la force maximale du bras sur lui.\n\nPour la science, évidemment.",
-    "facettes": {
-     "evenement": "",
-     "reflexion": "",
-     "peur": "",
-     "ambition": "",
-     "relation": "",
-     "decouverte": ""
-    },
-    "images": [
-     {
-      "id": "img_mwm5norxcmqmi",
-      "caption": "",
-      "kind": "croquis",
-      "rot": 2
-     }
-    ],
-    "marge": [],
-    "epoque": "apres",
-    "important": false,
-    "liens": [],
-    "createdAt": 1795008318337,
-    "updatedAt": 1795009259742
-   },
-   {
     "id": "e_mwkwsz2i97qza",
     "titre": "PAGE 010 - Donner un langage aux cercles",
     "dateRP": "16/11/2026",
@@ -1573,6 +1537,42 @@
     "liens": [],
     "createdAt": 1794933502475,
     "updatedAt": 1794933674458
+   },
+   {
+    "id": "e_mwm5luo10w9jf",
+    "titre": "Premier raccordement",
+    "dateRP": "17/11/2026",
+    "lieu": "Atelier Shirogane",
+    "humeur": "",
+    "personnages": [
+     "c-shinji",
+     "c_mwf5yky7wh00v"
+    ],
+    "categorie": "vie",
+    "tags": [],
+    "texte": "Aujourd’hui, ils ont installé le bras pour la première fois.\n\nPas définitivement.\n\nJuste assez longtemps pour vérifier si le système répondait correctement.\n\nJ’avais passé tellement de temps à réfléchir à la prothèse comme à un problème de mécanique que j’avais presque oublié un détail assez important :\n\nelle devait être attachée à moi.\n\nPas simplement à mon épaule.\n\nÀ mes nerfs.\n\nAux muscles encore utilisables.\n\nEt éventuellement à certains circuits de chakra si je veux un jour que le bras devienne autre chose qu’un morceau de métal articulé.\n\nSur le papier, le principe était propre.\n\nUne interface autour du moignon.\n\nDes points de fixation.\n\nDes contacts destinés à récupérer les signaux nerveux.\n\nLe mouvement détecté est interprété.\n\nLe mécanisme reproduit le mouvement.\n\nSimple.\n\nEnfin, simple tant que la phrase s’arrête avant :\n\n« connecter les nerfs ».\n\nLa première fixation n’a presque pas fait mal.\n\nBeaucoup de pression.\n\nUne sensation particulièrement désagréable autour de l’épaule.\n\nRien d’insupportable.\n\nJ’ai même commencé à penser que tout le monde avait exagéré.\n\nPuis ils ont activé le premier contact.\n\nJe ne sais pas vraiment comment décrire la douleur.\n\nCe n’était pas comme une coupure.\n\nPas comme une brûlure non plus.\n\nC’était plus proche d’une décharge qui aurait commencé dans un bras que je n’avais plus avant de remonter directement jusqu’à mon épaule.\n\nPendant une seconde, j’ai eu l’impression de sentir ma main gauche.\n\nPas la prothèse.\n\nMa vraie main.\n\nLes doigts.\n\nLa paume.\n\nMême le poignet.\n\nPuis la sensation a disparu et il n’est resté que la douleur.\n\nJe crois que c’est la première fois depuis l’amputation que mon cerveau a réellement refusé de comprendre ce qui se passait.\n\nLe bras n’existe plus.\n\nLes nerfs, eux, semblent ne pas avoir reçu l’information.\n\nDeuxième contact.\n\nPire.\n\nJ’ai senti quelque chose courir de l’épaule jusqu’à l’extrémité de la prothèse.\n\nComme si chaque nerf essayait de retrouver une partie du corps qui n’était plus là et rencontrait du métal à la place.\n\nJ’ai serré les dents.\n\nÇa n’a absolument rien changé.\n\nTroisième contact.\n\nJ’ai demandé une pause.\n\nJe vais écrire ça parce que je sais très bien que dans quelques semaines je raconterai probablement que je n’en avais pas besoin.\n\nJ’en avais besoin.\n\nBeaucoup.\n\nLe problème est que les connexions fonctionnent.\n\nC’est aussi la bonne nouvelle.\n\nQuand j’essaie de fermer la main gauche, certains capteurs reçoivent réellement quelque chose.\n\nTrès faible.\n\nTrès imprécis.\n\nMais quelque chose.\n\nPremier test volontaire :\n\nfermer l’index.\n\nRésultat :\n\nindex presque immobile.\n\nmajeur qui bouge légèrement.\n\ndouleur importante.\n\nDonc pas exactement une réussite.\n\nDeuxième essai :\n\nfermer toute la main.\n\nCette fois les doigts ont bougé.\n\nPas ensemble.\n\nPas correctement.\n\nMais ils ont bougé.\n\nJe crois que j’ai souri pendant environ deux secondes avant que la douleur recommence.\n\nC’est étrange.\n\nJe savais que ce bras serait difficile à construire.\n\nJe pensais que la partie compliquée serait la mécanique.\n\nLes articulations.\n\nLa circulation du chakra.\n\nLes matériaux.\n\nLes matrices.\n\nJe n’avais pas vraiment pensé au fait que mon propre corps serait probablement la pièce la plus difficile à adapter.\n\nAprès plusieurs essais, la douleur a commencé à changer.\n\nAu début chaque connexion ressemblait à une décharge.\n\nEnsuite c’est devenu une brûlure plus constante.\n\nPuis des picotements.\n\nPuis parfois simplement une pression étrange.\n\nLe médecin dit que mon cerveau doit apprendre à interpréter les nouveaux signaux.\n\nDonc pour une fois, le problème n’est pas que ma machine fonctionne mal.\n\nC’est moi qui dois apprendre à l’utiliser.\n\nJe trouve ça légèrement vexant.\n\nOn a aussi testé le mouvement du coude.\n\nBeaucoup plus facile.\n\nProbablement parce que le geste est moins précis.\n\nLever l’avant-bras fonctionne déjà presque correctement.\n\nTourner le poignet est catastrophique.\n\nBouger un doigt séparément est encore pire.\n\nLa force est volontairement limitée pour le moment.\n\nBonne décision.\n\nJ’ai réussi à faire tomber une tasse simplement en essayant de la tenir.\n\nSi le bras avait utilisé toute sa force, je pense que je n’aurais plus de tasse.\n\nJ’ai demandé à tester une première circulation de chakra dans l’interface.\n\nIls ont refusé.\n\nProbablement la décision la plus intelligente de la journée.\n\nPour l’instant, les nerfs doivent déjà accepter que le bras existe.\n\nJe pourrai compliquer le problème plus tard.\n\nJ’ai quand même commencé à noter plusieurs choses.\n\nLa douleur semble plus importante lorsque j’essaie d’effectuer un mouvement très précis.\n\nLes mouvements simples demandent moins d’effort.\n\nLes signaux deviennent confus lorsque j’essaie de bouger plusieurs doigts indépendamment.\n\nEt surtout :\n\nje ressens parfois une partie de mon ancien bras alors que je regarde clairement une main métallique devant moi.\n\nCette sensation est probablement celle qui me dérange le plus.\n\nPas parce qu’elle fait mal.\n\nParce que pendant une seconde, j’oublie que ma vraie main n’est plus là.\n\nPuis je la regarde.\n\nEt je me souviens.\n\nJe suppose que ça aussi finira par changer.\n\nObjectif actuel :\n\narriver à ouvrir et fermer correctement la main.\n\nEnsuite seulement :\n\npoignet.\n\ndoigts indépendants.\n\nforce.\n\nsensibilité.\n\nchakra.\n\nEt beaucoup plus tard, Kōseijutsu.\n\nJe veux que ce bras devienne un outil d’alchimiste.\n\nMais aujourd’hui, réussir à tenir un crayon sans le casser me paraît déjà être un objectif suffisamment ambitieux.\n\nNote personnelle\n\nLa bonne nouvelle :\n\nla prothèse répond.\n\nLa mauvaise :\n\nje sens absolument chaque étape de son apprentissage.\n\nEt si quelqu’un me répète encore que « la douleur est bon signe », je testerai probablement la force maximale du bras sur lui.\n\nPour la science, évidemment.",
+    "facettes": {
+     "evenement": "",
+     "reflexion": "",
+     "peur": "",
+     "ambition": "",
+     "relation": "",
+     "decouverte": ""
+    },
+    "images": [
+     {
+      "id": "img_mwm5norxcmqmi",
+      "caption": "",
+      "kind": "croquis",
+      "rot": 2
+     }
+    ],
+    "marge": [],
+    "epoque": "apres",
+    "important": false,
+    "liens": [],
+    "createdAt": 1795008318337,
+    "updatedAt": 1795009259742
    },
    {
     "id": "e_mwm5ymz248dmy",
@@ -1851,6 +1851,43 @@
     "liens": [],
     "createdAt": 1795383478300,
     "updatedAt": 1795384265966
+   },
+   {
+    "id": "e_mwt5okwlad0ls",
+    "titre": "PAGE 018 — Une vie contre une autre",
+    "dateRP": "22/11/2026",
+    "lieu": "Clan Sabaku",
+    "humeur": "",
+    "personnages": [
+     "c-shinji",
+     "c_mwt62n44s6e70",
+     "c_mwt62n49ehzuq"
+    ],
+    "categorie": "vie",
+    "tags": [],
+    "texte": "Mon père est mort.\n\nJe pensais pouvoir écrire cette phrase plus proprement.\n\nAvec plus de recul.\n\nAvec plus de dignité.\n\nQuelque chose qui ressemble à une phrase de carnet.\n\nUne phrase de suivi.\n\nUne phrase d’observation.\n\nUne phrase utile.\n\nMais il n’y a rien d’utile là-dedans.\n\nMon père est mort.\n\nEt je n’ai jamais autant pleuré de toute ma vie.\n\nJe ne pensais même pas qu’un corps pouvait continuer à produire autant de larmes sans finir par se briser complètement.\n\nApparemment si.\n\nOu alors je suis déjà brisé et je ne m’en suis pas encore rendu compte.\n\nPeut-être que c’est ça.\n\nPeut-être que tout s’est déjà cassé.\n\nJe n’arrive pas à penser correctement.\n\nJe commence une phrase.\n\nPuis j’oublie où elle allait.\n\nJe regarde mes notes.\n\nPuis je ne vois plus les mots.\n\nJe fixe une Matrice sur mon bureau et je ne ressens rien.\n\nMême ça.\n\nMême ça.\n\nLe Kōseijutsu, qui jusque-là parvenait toujours à me ramener quelque part, à m’occuper l’esprit, à me donner une direction, reste là devant moi comme un objet inutile.\n\nJe le comprends encore.\n\nJe sais encore ce que signifient les lignes.\n\nJe pourrais probablement encore corriger un tracé si je devais le faire.\n\nMais aujourd’hui, comprendre une structure ne rend pas le monde plus supportable.\n\nAujourd’hui, tout ce que je comprends, c’est qu’il est mort.\n\nTué.\n\nPar Yasuke Kemuri.\n\nUn déserteur.\n\nUn Jashiniste.\n\nJe crois que je déteste déjà ce nom.\n\nNon.\n\nCe n’est pas assez précis.\n\nJe le hais.\n\nJe hais Yasuke Kemuri.\n\nJe hais le fait qu’il respire encore.\n\nJe hais le fait que mon père non.\n\nJe hais le fait qu’un homme pareil puisse continuer à avancer dans le monde alors que celui qui m’a élevé a été arraché à ce monde.\n\nEt je hais plus encore ce qu’il suit.\n\nJashin.\n\nUne prétendue divinité.\n\nUne chose qui prend des vies pour son propre plaisir.\n\nUne aberration qui ne respecte rien.\n\nNi mesure.\n\nNi équilibre.\n\nNi nécessité.\n\nNi prix réel.\n\nSeulement la mort.\n\nSeulement la souffrance.\n\nSeulement la jouissance d’arracher à quelqu’un ce qu’il possède de plus irréversible.\n\nJ’ai déjà douté de Mâat.\n\nMaintenant, je crois que je tombe encore plus bas.\n\nOu plus loin.\n\nJe ne sais pas.\n\nLes dieux du clan n’ont pas protégé mon père.\n\nIls n’ont rien fait.\n\nIls ne l’ont pas sauvé.\n\nIls n’ont pas arrêté la lame.\n\nIls n’ont pas détourné le destin.\n\nIls n’ont pas puni Yasuke.\n\nIls n’ont rien empêché du tout.\n\nJe pourrais essayer d’écrire quelque chose de plus nuancé.\n\nDire que les dieux n’agissent pas de cette manière.\n\nQue ce n’est pas leur rôle.\n\nQue les hommes interprètent mal leur silence.\n\nTrès bien.\n\nAlors à quoi servent-ils ?\n\nC’est une vraie question.\n\nSi au moment où j’ai besoin qu’une puissance supérieure protège ce qu’il me reste, il n’y a que du vide…\n\nalors je ne vois plus pourquoi je devrais continuer à accorder à ce vide le moindre crédit.\n\nJe sais que ce que j’écris est violent.\n\nJe sais aussi que je n’arrive plus à faire semblant.\n\nMon père est mort.\n\nEt les dieux n’ont rien empêché.\n\nYasuke, lui, a agi.\n\nLui a frappé.\n\nLui a tué.\n\nLui a pris.\n\nEt c’est peut-être ça qui me dégoûte le plus.\n\nUn homme monstrueux a eu plus d’effet réel sur le monde que toutes les prières, les croyances et les symboles auxquels j’ai été exposé depuis l’enfance.\n\nJe n’arrête pas de revenir à cette idée.\n\nOn m’a appris qu’il existait un ordre.\n\nUn équilibre.\n\nUne justice.\n\nTrès bien.\n\nOù est-elle ?\n\nOù était-elle lorsque Yasuke Kemuri a tué mon père ?\n\nDans quel coin du monde cet équilibre se cachait-il pendant que lui me prenait quelqu’un que je ne reverrai jamais ?\n\nJ’ai essayé de pleurer calmement.\n\nComme si c’était possible.\n\nComme si la peine acceptait d’être ordonnée.\n\nComme si la douleur respectait les horaires.\n\nJe me suis trompé.\n\nJ’ai pleuré jusqu’à ne plus respirer correctement.\n\nJ’ai pleuré jusqu’à avoir mal à la tête.\n\nJ’ai pleuré jusqu’à détester le son de ma propre voix.\n\nEt à un moment, au milieu de tout ça, quelque chose s’est formé.\n\nPas une consolation.\n\nPas une sagesse.\n\nCertainement pas une paix.\n\nUne idée.\n\nSimple.\n\nLaide.\n\nPrécise.\n\nQuelque chose qui ressemblait à une évidence au milieu du désordre.\n\nUne vie contre une autre.\n\nJe crois que c’est la première fois que l’échange équivalent m’apparaît avec autant de brutalité.\n\nPas dans un cercle.\n\nPas dans une transmutation.\n\nPas dans un exercice.\n\nDans la réalité.\n\nYasuke a pris une vie.\n\nIl doit perdre la sienne.\n\nPas pour rétablir un ordre sacré.\n\nJe ne crois plus à ces mots de la même manière.\n\nPas parce que les dieux l’exigent.\n\nIls n’exigent rien qui change quoi que ce soit.\n\nPas même parce que cela me rendra mon père.\n\nJe sais que ce ne sera pas le cas.\n\nJe ne suis pas stupide au point de croire que tuer Yasuke fera réapparaître Ryûga Sabaku.\n\nUne vie prise n’est pas une vie rendue.\n\nJe le sais.\n\nJe le déteste.\n\nMais justement.\n\nC’est pour ça que Yasuke doit mourir.\n\nParce qu’il n’existe aucun échange capable d’annuler ce qu’il a fait.\n\nAucune compensation.\n\nAucune réparation parfaite.\n\nAucun mot.\n\nAucune prière.\n\nAucune théorie.\n\nIl n’existe qu’une seule chose que je peux encore comprendre clairement :\n\nil a pris quelqu’un.\n\nAlors lui aussi doit être pris.\n\nJe ne crois pas que ce soit de la justice parfaite.\n\nJe ne crois même pas que ce soit une bonne chose.\n\nJe crois simplement que c’est la seule chose qui me paraît encore supportable à envisager.\n\nLe laisser vivre serait pire.\n\nLe laisser continuer serait une insulte.\n\nLe laisser tuer encore serait impardonnable.\n\nDonc non.\n\nJe ne vais pas écrire que je veux seulement comprendre.\n\nJe ne vais pas écrire que je veux dépasser la haine par la connaissance.\n\nPas aujourd’hui.\n\nAujourd’hui, je veux que Yasuke Kemuri meure.\n\nJe veux être celui qui le tue.\n\nEt je refuse d’avoir honte d’écrire cette phrase.\n\nJe sais ce qu’elle dit de moi.\n\nJe sais ce qu’elle révèle.\n\nJe sais que la peine parle à travers elle.\n\nJe sais aussi qu’elle est vraie.\n\nJe n’ai jamais autant compris ce que signifie perdre quelque chose qu’aucune science ne peut reproduire.\n\nJ’ai étudié les matériaux.\n\nLes structures.\n\nLes réactions.\n\nLes limites.\n\nLes équilibres.\n\nTrès bien.\n\nAlors qu’est-ce que vaut tout ce savoir quand je suis incapable de protéger la seule chose que je n’aurais jamais dû perdre ?\n\nLa réponse est simple.\n\nPas assez.\n\nPas encore.\n\nJ’ai l’impression que tout se cumule.\n\nLa bibliothèque.\n\nLes fissures dans ma foi.\n\nLe silence de Mâat.\n\nEt maintenant ça.\n\nRien ne va.\n\nRien ne tient.\n\nRien ne sauve.\n\nRien ne protège.\n\nÀ quoi servent les dieux du clan s’ils ne peuvent pas préserver les leurs ?\n\nÀ quoi sert la sagesse si elle n’empêche pas le sang de couler ?\n\nÀ quoi sert la foi si un Jashiniste peut arracher un père à son fils pendant que les divinités observent en silence ?\n\nJe ne veux plus entendre qu’il faut accepter.\n\nJe ne veux plus entendre qu’il faut comprendre plus tard.\n\nJe ne veux plus entendre que le temps apaise.\n\nLe temps ne rend rien.\n\nIl éloigne seulement ce qui faisait mal avec suffisamment de force pour qu’on ait honte de se souvenir à quel point on hurlait au début.\n\nJe ne veux pas oublier.\n\nJe ne veux pas être apaisé.\n\nPas maintenant.\n\nPas tant que Yasuke Kemuri marche encore quelque part sous le même ciel que moi.\n\nJe me rends compte que quelque chose a changé.\n\nJ’écrivais autrefois pour comprendre.\n\nAujourd’hui, j’écris pour ne pas me dissoudre complètement.\n\nSi je ne mets pas ces phrases quelque part, j’ai l’impression qu’elles tourneront dans ma tête jusqu’à tout ronger.\n\nAlors je vais les écrire clairement.\n\nJe hais Yasuke Kemuri.\n\nJe hais Jashin.\n\nJe hais l’idée qu’un être, un culte ou une foi puisse prendre des vies uniquement pour son propre plaisir.\n\nJe hais un principe qui ignore entièrement l’échange équivalent.\n\nParce que tout, pour moi, revient à ça maintenant.\n\nS’il prend, il doit perdre.\n\nS’il détruit, il doit être détruit.\n\nS’il m’arrache mon père, alors je lui arracherai sa vie.\n\nJe sais que cette logique n’a rien de noble.\n\nJe sais même qu’elle me rapproche d’une noirceur que je n’aurais pas voulu reconnaître chez moi.\n\nMais je ne vais pas mentir dans ce carnet simplement pour avoir l’air plus sage que je ne le suis.\n\nJe suis en deuil.\n\nJe suis abattu.\n\nJe suis furieux.\n\nEt je veux tuer l’homme qui a tué mon père.\n\nTout le reste viendra après.\n\nS’il vient.\n\nJe ne sais pas encore comment je vais le retrouver.\n\nJe ne sais pas encore combien de temps cela prendra.\n\nJe ne sais pas encore ce que je serai devenu lorsque ce moment arrivera.\n\nMais je sais qu’il arrivera.\n\nParce qu’à partir d’aujourd’hui, tout a changé.\n\nJe peux encore étudier.\n\nJe peux encore réfléchir.\n\nJe peux encore écrire des protocoles.\n\nJe peux encore parler de Kōseijutsu, de limites, d’expériences et de structures.\n\nMais derrière tout ça, il y aura maintenant autre chose.\n\nUne ligne simple.\n\nUne direction.\n\nYasuke Kemuri doit mourir.\n\nNote personnelle\n\nJe croyais que perdre la foi serait une fracture intellectuelle.\n\nJe me trompais.\n\nPerdre quelqu’un est bien pire.\n\nJe ne sais plus exactement ce qu’il reste de Mâat en moi.\n\nTrès peu, je pense.\n\nPeut-être presque rien.\n\nJe sais seulement que si les dieux du clan existent, ils ont laissé mourir mon père.\n\nEt si c’est leur volonté, alors je les méprise.\n\nSi ce n’est pas leur volonté, alors ils sont impuissants.\n\nEt dans les deux cas, ma foi ne peut plus rester intacte.\n\nAutre note :\n\nje refuse que le nom de Yasuke Kemuri devienne simplement le nom d’un homme à haïr dans le vide.\n\nIl doit devenir une cible.\n\nUn dossier.\n\nUne traque.\n\nUne fin.\n\nJe n’écris pas encore “vengeance”.\n\nPas parce que le mot me dérange.\n\nParce qu’il est trop petit.",
+    "facettes": {
+     "evenement": "",
+     "reflexion": "",
+     "peur": "",
+     "ambition": "",
+     "relation": "",
+     "decouverte": ""
+    },
+    "images": [
+     {
+      "id": "img_mwt61y6f5socy",
+      "caption": "Yasuke est ma proie, mon échange équivalent",
+      "kind": "croquis",
+      "rot": 3.4
+     }
+    ],
+    "marge": [],
+    "epoque": "apres",
+    "important": true,
+    "liens": [],
+    "createdAt": 1795431708885,
+    "updatedAt": 1795432392097
    }
   ],
   "inventions": [
@@ -2609,6 +2646,24 @@
     "notes": "",
     "createdAt": 1794585649040,
     "updatedAt": 1794585649040
+   },
+   {
+    "id": "c_mwt62n44s6e70",
+    "nom": "Ryuga Sabaku",
+    "role": "",
+    "relation": "",
+    "notes": "",
+    "createdAt": 1795432364932,
+    "updatedAt": 1795432364932
+   },
+   {
+    "id": "c_mwt62n49ehzuq",
+    "nom": "Yasuke Kemuri",
+    "role": "",
+    "relation": "",
+    "notes": "",
+    "createdAt": 1795432364937,
+    "updatedAt": 1795432364937
    }
   ],
   "seances": [
@@ -2944,8 +2999,8 @@
   "settings": {
    "hand": true,
    "showAuto": true,
-   "epoque": "avant",
-   "settingsAt": 1794476320794
+   "epoque": "apres",
+   "settingsAt": 1795432384496
   },
   "meta": {
    "created": 1794342825065,
